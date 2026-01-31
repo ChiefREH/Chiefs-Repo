@@ -1,2 +1,3 @@
-# Fluid-Power
-Formula storage
+# Chief's Repository
+
+Navigate to the Folders above for class-specific details
