@@ -1,3 +1,3 @@
 # Chief's Repository
 
-Navigate to the Folders above for class-specific details
+- Navigate to the Folders above for class-specific details
