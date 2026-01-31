@@ -79,9 +79,53 @@ Where:
 
 ---
 
-### Note:
+# Note: Specific Gravity and Specific Weight
 
-- This seems extremely low for hydraulic oil (normally ~7.2–7.5 lbs/gal or ~50–57 lbs/ft³).  
-- **Double-check units:**  
-  - 1 cubic foot = 7.48 gallons  
-  - If the weight seems unusually low, the volume or weight may need unit conversion.
+---
+
+## Specific Weight (γ)
+
+- **Definition:** Specific weight is the **weight of a substance per unit volume**.  
+- **Formula:**  
+
+    γ = Weight / Volume
+
+- **Units:** lbs/ft³ (US customary) or N/m³ (SI)  
+- **Meaning:** It tells you **how heavy a fluid or material is for a given volume**.  
+- **Example:**  
+  - If 1 ft³ of hydraulic oil weighs 57 lbs, then:  
+
+        γ = 57 lbs / 1 ft³ = 57 lbs/ft³
+
+---
+
+## Specific Gravity (SG)
+
+- **Definition:** Specific Gravity is the **ratio of the density (or specific weight) of a substance to the density (or specific weight) of water** at standard conditions.  
+- **Formula:**  
+
+    SG = γ_fluid / γ_water  
+
+  or  
+
+    SG = ρ_fluid / ρ_water
+
+- **Units:** Dimensionless (no units)  
+- **Meaning:** It tells you **how heavy a fluid is compared to water**.  
+- **Example:**  
+  - If hydraulic oil has γ = 57 lbs/ft³ and water has γ = 62.4 lbs/ft³, then:  
+
+        SG = 57 / 62.4 ≈ 0.914
+
+- **Note:**  
+  - SG < 1 → lighter than water  
+  - SG > 1 → heavier than water
+
+---
+
+### Key Difference
+
+| Concept | What it Measures | Units |
+|---------|----------------|-------|
+| Specific Weight (γ) | Weight per unit volume | lbs/ft³ or N/m³ |
+| Specific Gravity (SG) | Ratio of fluid density to water | Dimensionless |
