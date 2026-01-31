@@ -1,0 +1,50 @@
+# Converting PSIG to PSIA
+
+We are given a pressure:
+
+- **Gauge Pressure (PSIG):** 325 psig  
+- **Goal:** Convert to **Absolute Pressure (PSIA)**
+
+---
+
+## Step 1: Understand the difference
+
+- **PSIG (pounds per square inch gauge):** Measures pressure **relative to atmospheric pressure**.  
+- **PSIA (pounds per square inch absolute):** Measures pressure **relative to a perfect vacuum**.  
+
+**Key formula:**
+
+    Absolute Pressure (PSIA) = Gauge Pressure (PSIG) + Atmospheric Pressure (PSI)
+
+Atmospheric pressure at sea level is usually 14.7 psi.
+
+---
+
+## Step 2: Identify the values
+
+- Gauge Pressure = 325 psig  
+- Atmospheric Pressure = 14.7 psi
+
+---
+
+## Step 3: Apply the formula
+
+    Absolute Pressure = 325 + 14.7
+
+---
+
+## Step 4: Calculate
+
+    Absolute Pressure = 339.7
+
+---
+
+## Step 5: Include units
+
+    Absolute Pressure = 339.7 psia
+
+---
+
+## Answer
+
+Absolute Pressure = 339.7 psia
