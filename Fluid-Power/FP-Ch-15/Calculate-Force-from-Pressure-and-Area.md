@@ -53,9 +53,9 @@ Force = 787.5 lbf
 ---
 ---
 
-# NOTE
+# Note
 
 - Does force require absolute pressure?
-- In most hydraulic and pneumatic cylinder problems, the pressure given is the pressure applied to the piston, which is usually gauge pressure.
-- The atmospheric pressure is already "balanced" on the other side of the piston (unless there is a vacuum or back pressure).
-- Therefore, you can use PSIG directly for calculating the force the fluid exerts on the piston.
+    - In most hydraulic and pneumatic cylinder problems, the pressure given is the pressure applied to the piston, which is usually gauge pressure.
+    - The atmospheric pressure is already "balanced" on the other side of the piston (unless there is a vacuum or back pressure).
+    - Therefore, you can use PSIG directly for calculating the force the fluid exerts on the piston.
