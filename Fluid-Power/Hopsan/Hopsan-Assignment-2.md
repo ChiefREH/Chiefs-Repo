@@ -1,4 +1,4 @@
-# Create a control valve simulation using the following:
+# Create an automated simulation using the following:
 
 - 4/2 Directional Control Valve
 - C-type Source
