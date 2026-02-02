@@ -5,6 +5,8 @@
   - Yellow Light: 3 seconds
   - Green Light: 7 seconds
 
+- Must include "states" in the debug window
+- Must include a dashboard UI for visual feedback
 
 ## Video Demonstration
 
