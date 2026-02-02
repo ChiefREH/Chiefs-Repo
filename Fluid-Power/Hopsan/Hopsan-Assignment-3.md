@@ -17,6 +17,6 @@
 - Center the Piston for 5 seconds
   - Repeat continuously
 
-Video Demonstration
+## Video Demonstration
 
 [![Watch on YouTube](https://img.youtube.com/vi/ThMR-XygGa0/0.jpg)](https://youtu.be/ThMR-XygGa0)
