@@ -14,6 +14,7 @@
 
 ### Note: Once started, the automation must loop continuously.
 
-Video Demonstration
+
+## Video Demonstration
 
 [![Watch on YouTube](https://img.youtube.com/vi/F3SU5tRpLeA/0.jpg)](https://youtu.be/F3SU5tRpLeA)
