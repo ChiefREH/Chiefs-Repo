@@ -10,3 +10,7 @@ L1        STOP             START              RUN          L2
 	            	|       RUN	      |
 		            |------|   |------|
 
+
+--|   |--  NO Contact
+--| / |--  NC Contact
+--(   )--  COIL
