@@ -4,7 +4,7 @@
 Batteries are dead or you changed batteries with the robot turned off, all losing position data.
 
 1) Change the batteries
-- Recommended to change while the controller is powered on, to prevent losing Master Calibration data.
+    - Recommended to change while the controller is powered on, to prevent losing Master Calibration data.
 
 ![Fanuc Batteries](Homebrew-Robot-Images/Fanuc-Batteries.jpg)
 
@@ -24,11 +24,11 @@ Batteries are dead or you changed batteries with the robot turned off, all losin
     - Screen should display all new $MASTER_COUNT values
     - Record these numbers for future reference.
 
-![Master Calibrate Screen](Homebrew-Robot-Images/Zero-Pos-Mastering.jpg)
+![Master Calibrate Screen](Homebrew-Robot-Images/Zero-Pos-Master.jpg)
 
 5) Scroll down to CALIBRATE > Enter > [F4] > YES/OK
     - The screen should show all zeros (more or less) at the bottom
-    - If you don't calibrate, you will be able to jog but NOT save any programming points in the Teach Pendant program editor (numbered Points appear as red text in a yellow box)
+    - If you don't calibrate, you will be able to jog but NOT save any programming points in the Teach Pendant program editor (_numbered Points appear as red text in a yellow box_)
 
 ![Master Calibrate Screen](Homebrew-Robot-Images/Calibrate.jpg)
 
