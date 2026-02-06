@@ -8,12 +8,11 @@
   - Fully extend Piston #2
     - Fully extend Piston #3
 - Fully retract Piston #1
-    - Fully retract Piston #2
-      - Fully retract Piston #3
+  - Fully retract Piston #2
+    - Fully retract Piston #3
 - Repeat
 
 ### Note: Once started, the automation must loop continuously.
-
 
 ## Video Demonstration
 
