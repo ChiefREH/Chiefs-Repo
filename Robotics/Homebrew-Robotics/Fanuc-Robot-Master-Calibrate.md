@@ -4,6 +4,7 @@
 Batteries are dead or you changed batteries with the robot turned off, all losing position data.
 
 1) Change the batteries
+- Recommended to change while the controller is powered on, to prevent losing Master Calibration data.
 
 ![Fanuc Batteries](Homebrew-Robot-Images/Fanuc-Batteries.jpg)
 
