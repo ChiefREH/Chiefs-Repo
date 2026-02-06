@@ -3,13 +3,13 @@
 
 - With the controller power OFF, press and HOLD [F1] and [F5] keys on the Teach Pendant
 
-![Teach Pendant](Homebrew-Robotic-Images/IMG_20231206_131206.jpg)
+![Teach Pendant](Homebrew-Robot-Images/IMG_20231206_131206.jpg)
 
 - Hold both of those keys down before turning on the controller power supply
 - Continue to hold both keys through the entire boot process
 - When the boot process is complete, you should see this screen
 
-![Boot Monitor Menu](Homebrew-Robotic-Images/IMG_20231206_124924.jpg)
+![Boot Monitor Menu](Homebrew-Robot-Images/IMG_20231206_124924.jpg)
 
 - To format the controller to a default setting, select option #3 from the main Boot Monitor menu
 - Following the onscreen instructions, enter “1” for Yes when asked (this normally happens twice!)
