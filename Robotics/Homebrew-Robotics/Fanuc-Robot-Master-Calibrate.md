@@ -1,7 +1,7 @@
 # FANUC ROBOT MASTER/CAL
 
 ## SRVO-062 BZAL ALARM
-Batteries are dead or you changed batteries with the robot turned off, all losing position data.
+Batteries are dead or you changed batteries with the robot turned off, losing all position data.
 
 ## 1. Change the batteries
 - Recommended to change while the controller is powered on, to prevent losing Master Calibration data.
