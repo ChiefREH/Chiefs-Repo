@@ -14,8 +14,9 @@ Batteries are dead or you changed batteries with the robot turned off, all losin
 ![Master Calibrate Position](Homebrew-Robot-Images/Master-Cal-Position.jpg)
 
 3) Enable the Mastering/Calibration Menu:
-    - Menu > System > Variables > find $MASTER_ENB = 1 and press Enter
-    - Then go to Menu > System > Master/Cal
+    - Menu > System > Variables > scroll down to "$MASTER_ENB = 0"
+    - Set "$MASTER_ENB = 0" to "$MASTER_ENB = 1" and press ENTER
+    - Then go back to > Menu > System > Master/Cal
     - Verify that all 6 axis to their mechanical 0 positions ("witness marks") 
     - Verify J6 flange/EOAT is horizontal, pointing away from the base
 
@@ -39,17 +40,17 @@ Batteries are dead or you changed batteries with the robot turned off, all losin
 - If needed, reset the Pulse Coder first > from the MASTER/CAL screen > [RES_PCA] > then [FCTN] > [RESTART / HOT START].  If there is no Master/Cal menu option, see Step #3 above
 If you get a "No Pulse Established" alarm after the Hot Start, jog all the joints off their current position +/-20-deg to send new pulses.
 
-- If APPLY DCS PARAM alarm is active > MENU > SYSTEM > DCS > [APPLY] > enter code > [OK] > [FCTN] > cycle power [HOT START] or cycle the controller power OFF and ON.
+- If APPLY DCS PARAM alarm is active, go to > MENU > SYSTEM > DCS > [APPLY] > enter code > [OK] > [FCTN] > cycle power [HOT START] or cycle the controller power OFF and ON.
 
 - You must manually cycle the Main Power Switch on the front of the Controller when the screen tells you to do so.  Wait 15-20 seconds for the capacitors to discharge before starting everything back up.  After reboot, check for alarms. Should be good to go!
 
-- Before any programming takes place, jog/rotate the J5 axis to -90 degrees (pointing straight down at the work area).  This will reduce the chances of a singularity during operation.  Also a good idea to store this new position in the POSITION REGISTER.
+- Before any programming takes place, jog/rotate the J5 axis to -90 degrees (pointing straight down at the work area).  This will reduce the chances of a SINGULARITY during operation.  Also a good idea to store this new position in the POSITION REGISTER.
 
 ![Programming Position](Homebrew-Robot-Images/Programming-Position.jpg)
 
-- You can disable the ETH/IP alarm from the Menu > I/O menu > last menu on the far right (right arrow 2 times) > EtherNet/IP > ENTER > the first entry is TRUE > change to FALSE.
+- You can disable the ETH/IP alarm from > Menu > I/O menu > last menu on the far right (right arrow 2 times) > EtherNet/IP > ENTER > the first entry is TRUE > change to FALSE.
 
-- Alarm MCTL-013 can be disabled from Menu > System > Variable > $OP_WORK > ENTER > set UOP Disable = 1 (TRUE) > ENTER.
+- Alarm MCTL-013 can be disabled from > Menu > System > Variable > $OP_WORK > ENTER > set UOP Disable = 1 (TRUE) > ENTER.
 
 - If your robot speed will not go beyond 50% during its run: MENU > SYSTEM > VARIABLES > $SCR > change RUNOVLIM = 100.
 
