@@ -15,6 +15,9 @@
 - Following the onscreen instructions, enter “1” for Yes when asked (this normally happens twice!)
 - It may take several minutes and reboot a couple times.  Be patient!
 - When the Home screen finally loads, know that the process is not yet complete.  Look in the upper right-hand corner of the display for the indicator “CTRL START” or “CONTROL START”
+
+![Function / Cold Start](Homebrew-Robot-Images/IMG_20230221_193827.jpg)
+
 - When it appears, you must press FCTN to access the FUNCTION MENU. Select the option to COLD START (usually the first or default option) and allow the controller to reboot one more time
 - Once that finishes, you should be able to start work on clearing all alarms
 
