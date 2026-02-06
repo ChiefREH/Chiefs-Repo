@@ -11,7 +11,8 @@
 
 ![Boot Monitor Menu](Homebrew-Robot-Images/Boot-Mon.jpg)
 
-- To format the controller to a default setting, select option #3 from the main Boot Monitor menu
+- To FORMAT the controller to a default setting, select option #3 from the main Boot Monitor menu
+    - CAUTION: This will delete all data and factory reset the machine. BE WARNED!
 - Following the onscreen instructions, enter “1” for Yes when asked (this normally happens twice!)
 - It may take several minutes and reboot a couple times.  Be patient!
 - When the Home screen finally loads, know that the process is not yet complete.  Look in the upper right-hand corner of the display for the indicator “CTRL START” or “CONTROL START”
