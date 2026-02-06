@@ -3,17 +3,17 @@
 ## SRVO-062 BZAL ALARM
 Batteries are dead or you changed batteries with the robot turned off, all losing position data.
 
-1) Change the batteries
+## 1. Change the batteries
     - Recommended to change while the controller is powered on, to prevent losing Master Calibration data.
 
 ![Fanuc Batteries](Homebrew-Robot-Images/Fanuc-Batteries.jpg)
 
-2) Jog all the joints to their zero positions (“Witness Marks”)
+## 2. Jog all the joints to their zero positions (“Witness Marks”)
     - Ensure that the flange (J6) or EOAT are pointed away from the base and not pointed straight down toward the work area.  This should help prevent a singularity later on.
 
 ![Master Calibrate Position](Homebrew-Robot-Images/Master-Cal-Position.jpg)
 
-3) Enable the Mastering/Calibration Menu:
+## 3. Enable the Mastering/Calibration Menu:
     - Menu > System > Variables > scroll down to "$MASTER_ENB = 0"
     - Set "$MASTER_ENB = 0" to "$MASTER_ENB = 1" and press ENTER
     - Then go back to > Menu > System > Master/Cal
@@ -21,13 +21,13 @@ Batteries are dead or you changed batteries with the robot turned off, all losin
     - Verify J6 flange/EOAT is horizontal, pointing away from the base
 
 
-4) Select ZERO POSITION MASTER > Enter > [F4] > YES/OK
+## 4. Select ZERO POSITION MASTER > Enter > [F4] > YES/OK
     - Screen should display all new $MASTER_COUNT values
     - Record these numbers for future reference.
 
 ![Master Calibrate Screen](Homebrew-Robot-Images/Zero-Pos-Master.jpg)
 
-5) Scroll down to CALIBRATE > Enter > [F4] > YES/OK
+## 5. Scroll down to CALIBRATE > Enter > [F4] > YES/OK
     - The screen should show all zeros (more or less) at the bottom
     - If you don't calibrate, you will be able to jog but NOT save any programming points in the Teach Pendant program editor (_numbered Points appear as red text in a yellow box_)
 
