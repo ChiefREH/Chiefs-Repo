@@ -1,4 +1,4 @@
 # Chief's Repository
 
-- This repo is storage for my personal notes
-- Navigate to the Folders above for specific details
+- This repo is cloud storage for my personal notes
+
