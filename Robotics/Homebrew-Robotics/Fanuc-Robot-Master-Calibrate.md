@@ -6,23 +6,23 @@ Batteries are dead or you changed batteries with the robot turned off, all losin
 1) Change the batteries
 
 2) JOG ALL THE JOINTS TO THEIR MECHANICAL ZERO POSITIONS (“Witness Marks”)
-- Ensure that the flange (J6) or EOAT are pointed away from the base and not pointed straight down toward the work area.  This should help prevent a singularity later on.
+    - Ensure that the flange (J6) or EOAT are pointed away from the base and not pointed straight down toward the work area.  This should help prevent a singularity later on.
 
 
 3) Enable the Mastering/Calibration Menu:
-- Menu>System>Variables> find $MASTER_ENB = 1 and press Enter
-- Then go to Menu > System > Master/Cal
-- Verify that all 6 axis to their mechanical 0 positions ("witness marks") 
-- Verify J6 flange/EOAT is horizontal, pointing away from the base
+    - Menu>System>Variables> find $MASTER_ENB = 1 and press Enter
+    - Then go to Menu > System > Master/Cal
+    - Verify that all 6 axis to their mechanical 0 positions ("witness marks") 
+    - Verify J6 flange/EOAT is horizontal, pointing away from the base
 
 
 4) Select ZERO POSITION MASTER > Enter > [F4] > YES/OK
-- Screen should display all new $MASTER_COUNT values. Record these numbers for future reference.
+    - Screen should display all new $MASTER_COUNT values. Record these numbers for future reference.
 
 
 5) Scroll down to CALIBRATE > Enter > [F4] > YES/OK
-- The screen should show all zeros (more or less) at the bottom
-- If you don't calibrate, you will be able to jog but NOT save any programming points in the Teach Pendant program editor (numbered Points appear as red text in a yellow box)
+    - The screen should show all zeros (more or less) at the bottom
+    - If you don't calibrate, you will be able to jog but NOT save any programming points in the Teach Pendant program editor (numbered Points appear as red text in a yellow box)
 
 
 # ADDITIONAL PARAMETERS
