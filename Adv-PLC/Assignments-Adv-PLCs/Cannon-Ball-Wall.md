@@ -5,6 +5,8 @@
     - Properly configured Controller scope tags versus Local scope tags. 
     - All necessary logic, graphics and configurations. 
 
+### Video Demonstration
+
 [![Watch on YouTube](https://img.youtube.com/vi/dJFL-XpIf0o/0.jpg)](https://youtu.be/dJFL-XpIf0o)
 
 ## DESIGN NOTES:
