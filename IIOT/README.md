@@ -2,7 +2,7 @@
 - Central WIFI Router: 001
 - Central RPI5: 005
 - Central PC: 002
-- Central AI PC: 009*
+- *Central AI PC: 009
 - Robots: 10, 20, 30, 40, 50, 60
 - RPi5: 15, 25, 35, 45, 55, 65
 - OPTA: 14, 24, 34, 44, 54, 64
