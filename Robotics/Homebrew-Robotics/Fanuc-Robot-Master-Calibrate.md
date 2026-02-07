@@ -20,8 +20,8 @@ Batteries are dead or you changed batteries with the robot turned off, losing al
 
 
 ## 4. Select ZERO POSITION MASTER > Enter > [F4] > YES/OK
-- Screen should display all new $MASTER_COUNT values
-- Record these numbers for future reference.
+- Screen should display all new Mastering Data values
+- Record these numbers for future reference
 
 ![Master Calibrate Screen](Homebrew-Robot-Images/Zero-Pos-Master.jpg)
 
@@ -49,8 +49,6 @@ Batteries are dead or you changed batteries with the robot turned off, losing al
 
 - Alarm MCTL-013 can be disabled from > Menu > System > Variable > $OP_WORK > ENTER > set UOP Disable = 1 (TRUE) > ENTER.
 
-- If your robot speed will not go beyond 50% during its run: MENU > SYSTEM > VARIABLES > $SCR > change RUNOVLIM = 100.
-
-- JOGOVLIM will override the manual jog speed, potentially preventing a crash!
+- If your robot speed will not go beyond 50% during its run: MENU > SYSTEM > VARIABLES > $SCR > change RUNOVLIM = 100. JOGOVLIM will override the manual jog speed, potentially preventing a crash!
 
 
