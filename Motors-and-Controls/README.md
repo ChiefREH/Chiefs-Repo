@@ -1,4 +1,4 @@
-LADDER DIAGRAM OF A SIMPLE SEAL-IN CIRCUIT:
+# LADDER DIAGRAM OF A SIMPLE SEAL-IN CIRCUIT:
 
 ```text
 L1        STOP             START              RUN          L2
