@@ -1,6 +1,6 @@
 # DIGITAL I/O CONNECTIONS
 
-## BIG YELLA
+## "BIG YELLA"
 
 ![Digital-IO-Module-Ports](Homebrew-IIOT-Images/Fanuc-A03B-0823-C001-IO-Ports.png)
 
