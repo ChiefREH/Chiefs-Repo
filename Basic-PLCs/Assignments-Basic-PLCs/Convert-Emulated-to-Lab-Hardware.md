@@ -3,7 +3,6 @@
     - Properly tag and alias XIO and XIC instructions to INPUT module push-buttons
     - Properly tag and alias the OTEs to the OUTPUT module lights
     - Add BRANCHES for multiple ALIASED OTE groups
-        - See my PLC-Emulator-Conversion pdf for details
 
 
 
