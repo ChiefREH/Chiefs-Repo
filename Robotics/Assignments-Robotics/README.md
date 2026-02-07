@@ -1,4 +1,3 @@
-# FANUC ROBOGUIDE VIDEOS
+# ASSIGNMENT DETAILS
 
-[My Roboguide Playlist](https://youtube.com/playlist?list=PLKT4TvzxLhpU7OqsquO30V4Ic_-y-ekIH)
-
+- I will add these details over the Summer break
