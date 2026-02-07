@@ -8,4 +8,4 @@
 
 ## ALL THE OTHER UNITS
 
-![Flowchart](Homebrew-IIOT-Images/Digital-IO-50-pin.png)
+![Flowchart](Homebrew-IIOT-Images/Digital-IO-50-Pin.png)
