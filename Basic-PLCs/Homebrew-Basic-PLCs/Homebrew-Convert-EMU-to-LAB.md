@@ -12,7 +12,7 @@ Note: You can target all PLCs from all computers, as long as the Communication D
 - Open Studio 5000 and open your emulated project .ACD file.
 - Find your emulated controller in the lower left-hand side of the Control Organizer Window (COW)
 - Right-click the controller > select Properties > and change the following:
-- Controller Type > select “5069-L306ER – CompactLogix 5380” from the drop-down
+    - Controller Type > select “5069-L306ER – CompactLogix 5380” from the drop-down
 - Accepts all the warning by hitting OK.
 - VERIFY that the slot number changed to 0
 
@@ -24,8 +24,7 @@ Once that is finished, click on ETH/IP Mode button near the bottom of the same p
 
 ## Add Digital (24VDC Discrete) Input and Output Modules:
 - Right-click “Backplane” and add New Modules (search 5069-IB16 and 5069-OB16)
-- Enter the SLOT location for each module position located on the chassis (see next page)
-- Refer to MY STUDIO 5000 EMULATOR SETUP PDF for Connection Parameters and RPI.
+- Enter the SLOT location for each module position located on the chassis (see below)
 
 ## Establish a Pathway to the live PLC in Studio 5000:
 - Click the RSWHoIs icon to bring up the active network within Studio 5000 (not in RS Links).
@@ -41,9 +40,10 @@ Once that is finished, click on ETH/IP Mode button near the bottom of the same p
 - If so, go to COMMUNICATIONS and select RUN MODE.
 - Accept any warnings.  This should place the GREEN bars on each side (see above).
 - If not, or you get several persistent warnings, check the following:
-- Check the TOGGLE SWITCH on the target PLC is in the REMOTE position (middle).
+    - Check the TOGGLE SWITCH on the target PLC is in the REMOTE position (middle).
 
-Note: This is only 1 possible configuration of the I/O modules
+## PLC and Module Configuration
+Note: This is only 1 possible configuration of the I/O modules.
 Verify the location of YOUR modules in the lab!
 
 ![PLC and Modules](Homebrew-Basic-PLC-Images/PLC-Configuration.png)
