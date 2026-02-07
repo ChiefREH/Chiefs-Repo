@@ -25,7 +25,7 @@
     - Adjustments to the projectile timing/movement must be made via the HMI using a input from a user-defined Configuration Screen
         - _Reason: To make adjustments while the routine is running online_
 - When Ship 1 or Ship 2 is hit, it must be on fire for 10 seconds, then explode for 10 seconds 
-- After exploding, Ship 2 must reset, ready to fire at Ship 1
+- After exploding, the Ship must reset, ready to return fire!
 - Must include 1 visual light wired to each PLC/HMI station when the cannon ball is active on that screen 
     - Serves as visual feedback for single player mode 
     - Also helpful in troubleshooting from the other end of the lab 
