@@ -5,6 +5,8 @@
     - Properly configured Controller scope tags versus Local scope tags. 
     - All necessary logic, graphics and configurations. 
 
+[![Watch on YouTube](https://img.youtube.com/vi/dJFL-XpIf0o/0.jpg)](https://youtu.be/dJFL-XpIf0o)
+
 ## DESIGN NOTES:
 - The visuals for the HMIs in between Ship 1 and Ship 2 must differ greatly. 
     - No blank screens, duplicate screens, or blank backgrounds. I am grading the design aesthetics, so be creative! 
