@@ -31,6 +31,3 @@ Get Attribute Single
 Communication > Browse > Select your VFD
 
 
-
-# Produced and Consumed Tags
-- Prod/Con constantly sends data.  Is this better than MSG?
