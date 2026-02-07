@@ -2,4 +2,4 @@
 
 _Students work in teams of 2_
 
-- Convert the previous code for use with Prod/Con tags instead of MSG
+- Convert the previous Program to use Produced/Consumed tags instead of MSG instructions
