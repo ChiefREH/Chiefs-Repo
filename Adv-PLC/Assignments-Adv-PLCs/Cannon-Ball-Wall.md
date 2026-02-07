@@ -11,9 +11,9 @@
 
 ## DESIGN NOTES:
 - The visuals for the HMIs in between Ship 1 and Ship 2 must differ greatly. 
-    - No blank screens, duplicate screens, or blank backgrounds. I am grading the design aesthetics, so be creative! 
+    - _No blank screens, duplicate screens, or blank backgrounds. I am grading the design aesthetics, so be creative!_
 - The scenes for Ship 1 and Ship 2 must not be mirrors. Be creative! 
-    - I will allow for a space battle theme, because space pirates are cool. 
+    -  _I will allow for a space battle theme, because space pirates are cool._
 
 ## PARAMETERS:
 - Player 1 starts at Ship 1, and targets Ship 2. 
@@ -25,7 +25,7 @@
     - Adjustments to the projectile timing/movement must be made via the HMI using a input from a user-defined Configuration Screen
         - _Reason: To make adjustments while the routine is running online_
 - When Ship 1 or Ship 2 is hit, it must be on fire for 10 seconds, then explode for 10 seconds 
-- If no Player input is made at either Station, the entire simulation must reset after 30 seconds ("Ready Mode") 
+- After exploding, Ship 2 must reset, ready to fire at Ship 1
 - Must include 1 visual light wired to each PLC/HMI station when the cannon ball is active on that screen 
     - Serves as visual feedback for single player mode 
     - Also helpful in troubleshooting from the other end of the lab 
