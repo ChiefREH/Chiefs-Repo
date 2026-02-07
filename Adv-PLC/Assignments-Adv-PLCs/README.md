@@ -1,4 +1,4 @@
-# Lab Work Grading Criteria
+# LAB WORK PARAMETERS
 
 Safely and correctly power the Lab equipment. Note the following:
 
@@ -7,8 +7,8 @@ Safely and correctly power the Lab equipment. Note the following:
 - Router is plugged in
 - PLC is plugged in
 - HMI has booted up
-- Fuses are installed in the 208V AC main disconnect
 - 208V AC power disconnect is CLOSED (for VFD work)
+- Fuses are installed in the 208V AC main disconnect
 - Ping your components for networking (if needed)
 
 ## AT THE END OF LAB
@@ -19,4 +19,4 @@ Safely and correctly power the Lab equipment. Note the following:
 - All computers are logged/signed out
 - No other equipment remains powered up or running
 
-When in doubt, ask the Chief.
+_When in doubt, ask the Chief._
