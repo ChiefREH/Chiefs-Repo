@@ -1,4 +1,4 @@
-# Lab Work Grading Criteria
+# LAB WORK PARAMETERS
 
 Safely and correctly power the Lab equipment. Note the following:
 
@@ -19,4 +19,4 @@ Safely and correctly power the Lab equipment. Note the following:
 - All computers are logged/signed out
 - No other equipment remains powered up or running
 
-When in doubt, ask the Chief.
+_When in doubt, ask the Chief._
