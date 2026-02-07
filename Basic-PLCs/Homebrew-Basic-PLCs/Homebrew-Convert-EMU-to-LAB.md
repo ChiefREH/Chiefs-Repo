@@ -43,8 +43,7 @@ Once that is finished, click on ETH/IP Mode button near the bottom of the same p
     - Check the TOGGLE SWITCH on the target PLC is in the REMOTE position (middle).
 
 ## PLC and Module Configuration
-Note: This is only 1 possible configuration of the I/O modules.
-Verify the location of YOUR modules in the lab!
+Note: This is only 1 possible configuration of the I/O modules.Verify the location of YOUR modules in the lab!
 
 ![PLC and Modules](Homebrew-Basic-PLC-Images/PLC-Configuration.png)
 
