@@ -13,3 +13,7 @@ _Students work in teams of 2_
 - MSG TYPE: CIP Data Table Write 
     - _Does MSG like sending BOOLS?_
     - _is there a work-around using DINT + EQU instructions?_
+
+## Video Demonstration
+
+[![Watch on YouTube](https://img.youtube.com/vi/dwk5jF3pCIc/0.jpg)](https://youtu.be/dwk5jF3pCIc)
