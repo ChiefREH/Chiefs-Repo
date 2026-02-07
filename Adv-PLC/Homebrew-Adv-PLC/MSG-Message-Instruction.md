@@ -1,9 +1,5 @@
 # MSG Message instruction
 
-- Create a simple routine to activate a remote PLC using Ethernet communications:
-- Properly configured MSG instructions 
-- Properly configured Controller scope tags versus Local scope tags 
-
 In Studio 5000 > F1 Help > search for “Specify the Communication Details”
 This will give the formatting of the Message pathway
 
@@ -29,5 +25,4 @@ Get Attribute Single
 - Destination: new Tag of the REAL Data type
 
 Communication > Browse > Select your VFD
-
 
