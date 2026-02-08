@@ -13,6 +13,6 @@ NOTE: X1-F1 is made via the FUSE
 ## SIMPLE LADDER DIAGRAM
 
 ```text
-F1           N.C.              N.O.             LIGHT         X2
+F1           N.C.             N.O.             LIGHT          X2
 |-----------[ / ]------------[   ]-------------( L )------------|
 ```

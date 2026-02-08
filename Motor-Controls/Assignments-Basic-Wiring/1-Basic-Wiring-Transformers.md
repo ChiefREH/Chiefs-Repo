@@ -21,6 +21,6 @@ NOTE: X1-F1 is made via the FUSE
 ## SIMPLE LADDER DIAGRAM
 
 ```text
-F1      RED LIGHT      X2
-|---------( R )---------|
+F1            RED LIGHT            X2
+|---------------( R )---------------|
 ```
