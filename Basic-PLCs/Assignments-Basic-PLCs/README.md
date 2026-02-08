@@ -17,7 +17,7 @@
 - All computers are logged/signed out
 - No other equipment remains powered up or running
 
-# PROGRAMMING NOTES
+## PROGRAMMING NOTES
 
 - Proper rung documentation is mandatory.
 - All documentation must be available on request.
