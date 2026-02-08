@@ -30,6 +30,6 @@ F1     TB+	    SSW	        TON 2 N.C.     TON 1 Coil		     TB-	 X2
 	    |	        TON 1 N.O.	                Green Light		  |
 	    |--------------[   ]-----------------------( G )----------|
         |							                           	  |
-	    |	        TON 1 N.O.	               TON 1 Coil		  |
+	    |	        TON 1 N.O.	               TON 2 Coil		  |
 	    |--------------[   ]--------------------( COIL )----------|
 ```
