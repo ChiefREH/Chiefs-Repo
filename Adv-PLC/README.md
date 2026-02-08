@@ -6,7 +6,7 @@
     - _Performed in lab._
 
 2. Integrate external components into an industrial application.
- - _Performed in lab._
+    - _Performed in lab._
 
 3. Troubleshoot a programmable logic controller network.
- - _Performed in lab._
+     - _Performed in lab._
