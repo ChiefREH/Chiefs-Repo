@@ -12,4 +12,5 @@ Complete the following tasks:
 - Properly install the FUSES into the MAIN POWER DISCONNECT box 
 
 *NO and NC numbering may vary between models
+
 **Troubleshoot as needed
