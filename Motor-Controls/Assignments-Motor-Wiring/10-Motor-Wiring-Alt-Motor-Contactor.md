@@ -13,3 +13,7 @@ Complete the following tasks:
 
 Note:
 - See Sketch #12 for details.
+
+## Alternate Motor Starter Contactor
+
+![Alt Contactor](Assignment-Motor-Wiring-Images/Alt-Contactor.png)

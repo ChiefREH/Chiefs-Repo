@@ -10,4 +10,8 @@ Complete the following tasks:
 - While manually operating the carriage, check for continuity between the following: 
     - Input terminals (L1, L2, L3) and output terminals (T1, T2, T3) 
     - N.C. auxiliary contacts 
-    - N.O. auxiliary contacts 
+    - N.O. auxiliary contacts
+
+## Motor Starter
+
+![Motor Starter](Assignment-Motor-Wiring-Images/Motor-Starter.jpg)

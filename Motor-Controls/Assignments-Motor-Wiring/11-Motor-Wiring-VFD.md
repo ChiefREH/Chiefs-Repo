@@ -22,3 +22,7 @@
 
 Note:
 - See Sketch #13 for details.
+
+## Variable Frequency Drives (VFD)
+
+![VFD](Assignment-Motor-Wiring-Images/VFDs.png)
