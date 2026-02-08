@@ -1,6 +1,4 @@
-# LAB WORK PARAMETERS
-
-Safely and correctly power the Lab equipment. Note the following:
+# WORK PARAMETERS
 
 
 ## AT THE START OF LAB
@@ -18,5 +16,13 @@ Safely and correctly power the Lab equipment. Note the following:
 - The network router is unplugged
 - All computers are logged/signed out
 - No other equipment remains powered up or running
+
+# PROGRAMMING NOTES
+
+- Proper rung documentation is mandatory.
+- All documentation must be available on request.
+- This is NOT a group exercise. Do your own work! 
+- Safety in the lab is mandatory! 
+
 
 _When in doubt, ask the Chief._
