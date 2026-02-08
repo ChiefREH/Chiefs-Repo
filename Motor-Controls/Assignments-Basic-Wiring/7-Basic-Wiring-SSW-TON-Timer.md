@@ -20,6 +20,10 @@ NOTE:
 CONSIDERATIONS:
 - _What is the danger of using a SSW that locks into position vs. a "seal-in" circuit?_
 
+## TON Timer Relay
+
+![TON Timer](Assignment-Motors-Basic-Images/TON-Relay.png)
+
 ## SIMPLE LADDER DIAGRAM
 
 ```text

@@ -20,7 +20,9 @@ NOTE:
 CONSIDERATION:
 - _What is the danger of using a SSW that locks into position vs. a "seal-in" circuit?_
 
+## Relays
 
+![Ice Cube Relays](Assignment-Motors-Basic-Images/Relays.png)
 
 ## SIMPLE LADDER DIAGRAM
 

@@ -17,7 +17,8 @@ NOTE: X1-F1 is made via the FUSE
 UPGRADE:
 - _Introduce Terminal Blocks (TBs) for cleaner, more professional wiring runs_
 
-
+## Limit Switch
+![Limit Switch](Assignment-Motors-Basic-Images/Limit-Switch.png)
 
 ## SIMPLE LADDER DIAGRAM
 

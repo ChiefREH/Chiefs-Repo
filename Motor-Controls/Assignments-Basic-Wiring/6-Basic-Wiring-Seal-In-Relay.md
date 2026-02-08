@@ -20,6 +20,10 @@ NOTE:
 UPGRADE:
 - _What happens if we replace the AB ice cube relay with an AB TON timer relay?_
 
+## Relays
+
+![Ice Cube Relays](Assignment-Motors-Basic-Images/Relays-2.png)
+
 
 ## SIMPLE LADDER DIAGRAM
 
