@@ -3,7 +3,6 @@
 Complete the following tasks:
 - Properly wire (2) sets of TERMINAL BLOCKS to the TRANSFORMER secondary (X1/F1 - X2) 
 
-
 *Troubleshoot as needed
 
 NOTE:

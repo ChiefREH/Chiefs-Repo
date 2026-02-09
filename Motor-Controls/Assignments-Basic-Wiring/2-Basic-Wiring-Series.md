@@ -3,7 +3,6 @@
 Complete the following tasks:
 - Properly wire (SERIES) a N.C. and N.O. push-button from the TRANSFORMER secondary (X1-X2) 
 - Properly wire a single PILOT LIGHT to the circuit 
-- Properly install the FUSES into the MAIN POWER DISCONNECT box 
 
 *Troubleshoot as needed
 

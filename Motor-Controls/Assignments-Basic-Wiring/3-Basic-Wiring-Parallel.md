@@ -5,7 +5,6 @@ Complete the following tasks:
     - (1) N.C. momentary push-button 
     - (1) N.O. momentary push-button 
 - Properly wire a single PILOT LIGHT to each push-button 
-- Properly install the FUSES into the MAIN POWER DISCONNECT box 
 
 *Troubleshoot as needed
 
