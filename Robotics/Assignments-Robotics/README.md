@@ -1,3 +1,21 @@
+# DISTINGUISH BETWEEN ROBOTIC TYPES
+
+What Constitutes an Industrial Robot?
+
+> An industrial robot is a programmable, automated machine used in manufacturing or production environments to perform tasks such as welding, painting, assembly, pick-and-place, packaging, and more.
+
+According to ISO 8373, an industrial robot is:
+
+> "An automatically controlled, reprogrammable, multipurpose manipulator programmable in three or more axes, which may be either fixed in place or mobile for use in industrial automation applications."
+
+Core Features:
+- Programmable: Can perform different tasks by changing instructions.
+- Multipurpose: Not limited to a single function.
+- Reprogrammable: Adaptable for different jobs.
+- Multiple Axes: Usually 3 or more degrees of freedom.
+- Autonomous Operation: Can operate without continuous human intervention.
+
+
 # Types of Industrial Robots
 
 Industrial robots are categorized mainly by their mechanical configuration (kinematics), which determines their movement capabilities, payload, and work envelope.
