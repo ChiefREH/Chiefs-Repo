@@ -1,13 +1,9 @@
 # PROXIMITY SENSOR
 
 Complete the following tasks:
-- Properly wire (2) sets of TERMINAL BLOCKS to the TRANSFORMER secondary (X1/F1 - X2) 
-- X1/F1 will act as the POSITIVE polarity (supply line)
-    - X2 will act as the NEGATIVE polarity (return line) 
-- Properly wire in a SENSOR or PHOTO EYE with N.C. and N.O. contacts 
+
+- Properly wire in a PROX SWITCH or PHOTO-EYE with N.C. and N.O. contacts 
 - Properly wire (2) LIGHTS to the sensor's contacts 
-    - Properly wire the returns to X2 via the (-) TERMINAL BLOCK 
-- Properly install the FUSES into the MAIN POWER DISCONNECT box 
 
 *Troubleshoot as needed
 
