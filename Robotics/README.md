@@ -9,4 +9,4 @@
 
 
 ## SUMMARIZE A CURRENT TOPIC
-- _Performed in class: Summarize a topic written exam_
+- _Performed in class: Summarize a topic (written exam)_
