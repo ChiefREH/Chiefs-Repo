@@ -1,0 +1,42 @@
+# COMPARISON INSTRUCTIONS FOR N-S TRAFFIC
+
+Create an EMULATED and LAB routine for North-South traffic lights using only these instructions.
+
+## NORTH-SOUTH INSTRUCTIONS:
+
+Use any combination of these COMPARISON instructions to properly control the N-S lights: 
+- GEQ instructions (as needed)
+- LES instructions (as needed)
+- GRT instructions (as needed)
+- LEQ instructions (as needed)
+- EQU instructions (as needed)
+
+No other Comparison instructions are required.
+
+- ONS instructions (as needed)
+- OTE instructions must be properly tagged, grouped, branched and ALIASED to an I/O module 
+
+
+## PARAMETERS:
+
+- Only (1) TON with a 20 second .PRE can be used. 
+    - All RED lights: 10 seconds 
+    - All YELLOW lights: 3 seconds 
+    - All GREEN lights: 7 seconds
+
+XIC and XIO are only used for controlling the TON timer, not the lights.
+
+
+## NOTES:
+
+- Use a SEAL-IN circuit to start/stop the routine 
+- Once started, the routine must continually loop 
+- The light sequence must follow the common logical sequence 
+- Do not create a traffic jam or motor vehicle accident! 
+
+
+
+*Proper rung documentation is mandatory.
+
+** Refer to Traffic LED Outputs in the Homebrew Rules for number of OTEs and arrangement.
+
