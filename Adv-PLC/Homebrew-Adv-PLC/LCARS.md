@@ -1,6 +1,5 @@
-# Library Computer Access and Retrieval System (LCARS) Interface
+# Library Computer Access and Retrieval System (LCARS)
 
-## LCARS:
 - [LCARS wikipedia page](https://en.wikipedia.org/wiki/LCARS)
     - Use Google Images to search for "LCARS templates" or "LCARS blanks"
     - Using a .PNG file will allow you to remove backgrounds and create transparencies
