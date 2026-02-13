@@ -14,6 +14,7 @@
 - Use a proper "seal-in" circuit
 - Include Stop and Start buttons on screen
 - Include Stopped and Running indications on screen
+- Capture the starting GSV data for display
 
 ## NOTES:
 
