@@ -1,1 +1,10 @@
 # MATH INSTRUCTIONS
+
+- ADD
+- SUB
+- MUL
+- DIV
+- MOD
+- ABS
+- NEG
+- CPT
