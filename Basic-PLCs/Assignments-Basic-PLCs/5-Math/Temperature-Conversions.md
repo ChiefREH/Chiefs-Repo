@@ -17,3 +17,4 @@ Create (4) Temperature Conversion programs using the following instructions:
 - Include the formulas as a ladder rung comments
 
 *Proper rung documentation is mandatory.
+** Refer to the Temperature Conversion Workflow int he Homebrew Rules for more details.
