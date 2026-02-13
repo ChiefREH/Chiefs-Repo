@@ -6,6 +6,8 @@
 
 ![Digital-IO-Module-Power](IIOT-Digital-Modules-Images/Fanuc-A03B-0823-C001-24VDC.png)
 
+![JD1A Cable](IIOT-Digital-Modules-Images/IO-Link-Schematic.png)
+
 ## ALL THE OTHER UNITS
 
 ![50-pin-IO-Module](IIOT-Digital-Modules-Images/Digital-IO-50-Pin.png)
