@@ -2,7 +2,9 @@
 
 ## Ethernet/IP configuration for R-30iA / R-30iA Mate / R-30iB Controllers
 
-> _Credit to Mike Williams for compiling this report as part of his final deign project._
+
+> _This report was authored by Mike Williams in collaboration with Mikalah Czaplewski as part of the requirements for the final design project._
+
 
 This work instruction is for the setup and configuration of the ethernet settings for the controller itself and for setting up D I/O that can be controlled over ethernet by a PLC. This instruction only goes over how-to setup these I/O as an adapter not as a scanner and also only goes over how to establish a connection with Studio 5000 software.  You will need to have a configured network switch, a working PC with Studio 5000 and RSlinx installed, a R-30iA / R-30IA mate / R-30iB controller mad by Fanuc, a configured CompactLogix 5380 (5069-L306ER) made by Allen Bradley and several ethernet cable. 
 
@@ -143,3 +145,8 @@ One other thing you can check is to press config on you Ethernet adapter to brin
 
 ![Red's Report](Homebrew-IIOT-Images/Figure-25.jpg)
 
+***
+
+## FINAL RESULTS
+
+[![Watch on YouTube](https://img.youtube.com/vi/ieCw419K3Z0/0.jpg)](https://youtu.be/ieCw419K3Z0)
