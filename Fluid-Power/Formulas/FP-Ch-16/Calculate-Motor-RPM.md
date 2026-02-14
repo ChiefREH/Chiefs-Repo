@@ -55,3 +55,14 @@ Since flow is given in GPM, first convert GPM → in³/min:
 Motor Speed:
 
     RPM ≈ 832 rev/min
+
+
+## Notes
+
+- 231 cubic inches = 1 U.S. gallon.
+    - It comes from the legal definition of the U.S. liquid gallon, not from hydraulics.
+    - Every GPM to cubic-inch conversion in mobile or industrial hydraulics depends on this constant.
+
+- Motors are rated in cubic inches per revolution (in³/rev).
+    - Flow from pumps/meters is usually gallons per minute (GPM).
+    - Multiplying by 231 converts the flow into matching volume units so the division works.

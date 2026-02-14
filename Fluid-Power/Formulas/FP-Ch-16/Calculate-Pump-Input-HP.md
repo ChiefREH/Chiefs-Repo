@@ -60,3 +60,17 @@ Where:
 Input Horsepower:
 
     HP ≈ 5.25 HP
+
+
+## Notes
+
+- 1714 is a unit-conversion constant.
+- It allows pressure in PSI and flow in GPM to produce an answer in horsepower.
+- It is derived from the definition of horsepower and U.S. customary volume/length units.
+
+- If units change, the constant changes.
+    - Example:
+        - bar & L/min → different number
+        - PSI & cubic inches/min → different number
+
+- But with PSI + GPM, it is always 1714.
