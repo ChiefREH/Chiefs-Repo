@@ -63,7 +63,7 @@ Get your IP Address > <u>Command Prompt</u> > type _ipconfig_ > keep this handy,
 - Slot:  Matches our Studio 5000 Logix Emulate virtual chassis Slot 4
 - Same Configuration Parameters as picture (1|2, 2|1, 16|0)
 - Requested Packet Interval (RPI):  must be changed to 50ms.
-- See “Getting Good Results” page 30 for the Tip at the top.
+- _See “Getting Good Results” page 30 for the Tip at the top._
 - Click Apply + OK
 
 > Emulator and I/O are now configured. Go back to Controller Tags section:  Are there tags now?
