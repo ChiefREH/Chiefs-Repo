@@ -37,3 +37,6 @@
     - Then send a "0" to clear the Tag or the Stop won't work.
     - Send a "1" to the correct Tag to Stop the VFD.
     - Send a "0" to clear the Tag or the Start won't work again.
+
+## Note
+- If necessary, use Math instructions to multiply by 100 for the correct readout

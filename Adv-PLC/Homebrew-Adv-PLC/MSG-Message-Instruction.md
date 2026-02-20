@@ -13,7 +13,4 @@
 - MSG pathway format for lab: "2, IP address of target PLC, 1, 0"
 
 ## PARAMETERS
-- New Controller Scope Tags
-- Divide by 100
-- Destination: new Tag of the REAL Data type
-
+- Controller Scope Tags
