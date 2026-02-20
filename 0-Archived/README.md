@@ -1,3 +1,3 @@
 # ARCHIVED FILES
 
-- I will relocate obsolete files and folders to this section.
+- I will relocate obsolete and/or discontinued data to this section.
