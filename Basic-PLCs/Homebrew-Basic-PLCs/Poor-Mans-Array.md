@@ -5,7 +5,7 @@
 - We **cannot** MOV the DINTs to the lab IO output modules all at once
     - _Each output BOOL is nested within in its own separate "Channel" Data Type_ 
 - To get around this, we use 16 XIC-OTE pairs, creating a "Poor Man's Array" of BOOLs
-- The XICs are addressed to individual BOOLs of a single DINT; each BOOL is getting MOVed to a corresponding OTE addressed to single nested output BOOL:
+- The XICs are addressed to individual BOOLs of a single DINT; each BOOL is controlling a corresponding OTE addressed to single nested output BOOL:
 
 ### Example:
 ```text
