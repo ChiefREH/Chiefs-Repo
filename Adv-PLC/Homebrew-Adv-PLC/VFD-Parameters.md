@@ -39,4 +39,4 @@
     - Send a "0" to clear the Tag or the Start won't work again.
 
 ## Note
-- If necessary, use Math instructions to multiply by 100 for the correct readout
+- If necessary, use Math instructions to multiply by 100 for the correct numerical readout
