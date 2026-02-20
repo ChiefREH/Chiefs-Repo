@@ -29,3 +29,7 @@ and so on...
 ## Why all 16 outputs, and not just the ones we are using?
 
 - _Because future assignments (Indirect Addressing, Sequencers, BSL/BSR, etc.) need all the outputs paired correctly for the visual effect to work as intended_
+
+### Video Example of Morse Code:
+
+[![Watch on YouTube](https://img.youtube.com/vi/keQ53TRdm9I/0.jpg)](https://youtu.be/keQ53TRdm9I)
