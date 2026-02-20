@@ -7,7 +7,10 @@ Create a simple HMI routine using the following instructions:
 - Custom User-defined Type (UDT) 
 - GSV - GetSystemValue
 - All necessary XIC, XIO and/or ONS 
-- Properly created DINT[7] Array
+- Does not require a DINT[7] array
+    - but it does require a UDT with 7 elements
+
+![Custom UDT](Assignments-Adv-PLC-Images/UDT-Elements.jpg)
 
 
 ## LOAD:
