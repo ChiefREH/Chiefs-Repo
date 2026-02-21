@@ -3,9 +3,10 @@
 - In emulation, we can MOV a DINT to the Output Array (DINT) with a single instruction
     - Each individual BOOL of the DINT will MOV to the output module array BOOLs all at once
 - We **cannot** MOV the DINTs to the lab IO output modules all at once
-    - _Each output BOOL is nested within in its own separate "Channel" Data Type_ 
+    - _Each output BOOL is nested within its own separate "Channel" Data Type_ 
 - To get around this, we use 16 XIC-OTE pairs, creating a "Poor Man's Array" of BOOLs
-- The XICs are addressed to individual BOOLs of a single DINT; each BOOL is controlling a corresponding OTE addressed to single nested output BOOL:
+    - The XICs are addressed to individual BOOLs of a single DINT (input)
+    - Each BOOL controls a corresponding OTE addressed to a single nested BOOL (output)
 
 ### Example:
 ```text
