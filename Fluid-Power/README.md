@@ -1,4 +1,6 @@
-# COURSE LEARNING OUTCOMES
+# FLUID POWER SYSTEMS
+
+## COURSE LEARNING OUTCOMES
 
 1. Read fluid power schematic diagrams.
     - _Performed in classroom: Basic hydraulic and pneumatic blueprint reading; symbols exam_

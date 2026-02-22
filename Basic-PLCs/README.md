@@ -1,4 +1,6 @@
-# COURSE LEARNING OUTCOMES
+# BASIC PROGRAMMABLE LOGIC CONTROLLERS (PLCs)
+
+## COURSE LEARNING OUTCOMES
 
 
 1. Establish a programmable logic controller network.

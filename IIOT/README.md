@@ -1,4 +1,6 @@
-# COURSE LEARNING OUTCOMES
+# INDUSTRIAL INTERNET OF THINGS (IIOT)
+
+## COURSE LEARNING OUTCOMES
 
 
 1. Define terminology related to fundamental components of an Industrial Internet of Things system, including sensors, actuators, networking and communication protocols.
