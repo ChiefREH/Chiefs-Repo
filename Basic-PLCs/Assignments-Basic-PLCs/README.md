@@ -14,7 +14,7 @@
 - 208V AC disconnect is OPEN
 - Fuses are removed from the 208V AC main disconnect
 - The network router is unplugged
-- All computers are logged/signed out
+- All computers are logged off/signed out
 - No other equipment remains powered up or running
 
 ## PROGRAMMING NOTES
