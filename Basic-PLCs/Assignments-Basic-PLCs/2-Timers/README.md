@@ -1,14 +1,15 @@
 # TIMERS
 
-## TIME ON TIMER (TON)
+## BASIC TIMER STRUCTURE
 
-| ITEM               | TAG SUFFIX | DATA TYPE |
+| ELEMENT            | TAG SUFFIX | DATA TYPE |
 |--------------------|------------|-----------|
-| Preset             | .Pre       | DINT      |
-| Accumulator        | .ACC       | DINT      |
-| Enable bit         | .EN        | BOOL      |
-| Timer Timing bit   | .TT        | BOOL      |
-| Done bit           | .DN        | BOOL      |
+| PRESET             | .PRE       | DINT      |
+| ACCUMULATOR        | .ACC       | DINT      |
+| ENABLE BIT         | .EN        | BOOL      |
+| TIMER TIMING BIT   | .TT        | BOOL      |
+| DONE BIT           | .DN        | BOOL      |
+
 
 ## FIVE PARTS OF A TIMER INSTRUCTION
 
@@ -18,3 +19,4 @@
 - .EN is set to "1" when the timer is **enabled**
 - .TT is set to "1" when the timer is **actively** timing
 - .DN is set to "1" when the accumulation **equals** the preset
+    - _When they are equal, the timer stops timing_
