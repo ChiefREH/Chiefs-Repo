@@ -38,5 +38,5 @@ XIC and XIO are only used for controlling the TON timer, not the lights.
 
 *Proper rung documentation is mandatory.
 
-> _Refer to Traffic LED Outputs in the Basic PLC Homebrew Rules for number of OTEs and arrangement._
+>_Refer to Traffic LED Outputs in the Basic PLC Homebrew Rules for number of OTEs and arrangement._
 

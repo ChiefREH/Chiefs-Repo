@@ -18,4 +18,4 @@ Create (4) Temperature Conversion programs using the following instructions:
 
 *Proper rung documentation is mandatory.
 
-** Refer to the Temperature Conversion Workflow in the Homebrew Rules for more details.
+>_Refer to the Temperature Conversion Workflow in the Homebrew Rules for more details._
