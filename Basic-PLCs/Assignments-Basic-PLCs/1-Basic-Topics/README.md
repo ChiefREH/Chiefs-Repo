@@ -4,7 +4,7 @@
 
 - XIC is true on 1, false on 0
 - XIO is true on 0, false on 1
-- OTE is 1 if continuity is true*
+- OTE is 1 if continuity is true, 0 if false*
 
 > _*OTL -( L )- and OTU -( U )- break this logic_
 
