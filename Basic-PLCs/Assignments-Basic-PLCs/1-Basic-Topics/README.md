@@ -4,15 +4,17 @@
 
 - Think of tags as human readable "nicknames" for tiny sections of PLC memory
 - We store 1s and 0s in these tiny sections of memory
-- Basic input instructions (XIC, XIO) look for 1s and 0s at the tag (memory) locations
-- Based on what is stored at the location, the instruction generates a true/false signal for the output instruction (OTE)
+- The PLC scans each ladder rung from left to right very quickly
+- The instructions tell the PLC **what** to look for, and **where** to look for it
+    - Basic input instructions (XIC, XIO) look for 1s and 0s at the assigned tag (memory) location
+    - Based on what is stored at the location, the instruction generates a true/false signal for the output instruction (OTE)
 
 
 ## TRUTH TABLE
 
 - XIC sends a true signal on 1, false signal on 0
 - XIO sends a true signal on 0, false signal on 1
-- OTE is 1 if continuity is true, 0 if false*
+- OTE is 1 if continuity is true, 0 if continuity is false*
 
 > _*OTL -( L )- and OTU -( U )- break this logic_
 
@@ -63,3 +65,4 @@ L      Tag_2        Tag_1       Tag_3      R
 -(   )- OTE
 
 ```
+
