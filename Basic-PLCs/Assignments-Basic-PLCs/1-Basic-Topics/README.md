@@ -6,21 +6,49 @@
 - XIO is true on 0, false on 1
 - OTE is 1 if continuity is true*
 
-> _*OTL and OTU break this logic_
+> _*OTL -( L )- and OTU -( U )- break this logic_
 
 
-## SIMPLE LADDER DIAGRAM
+## Simple boolean AND statement
 
 - Reading left to right on the ladder rung:
     - If there is a 0 at address "Tag_2"
-    - And if there is a 1 at address "Tag_1"
+        - And
+    - There is a 1 at address "Tag_1"
+        - THEN
     - OTE will write a 1 to address "Tag_3"
 
-> _This is a boolean AND statement_
+> _This is a boolean expression of an AND statement_
 
 ```text
-+      Tag_2        Tag_1        Tag_3      -
+L      Tag_2        Tag_1        Tag_3      R
 |------[ / ]--------[   ]--------(   )------|
+
+-[   ]- XIC
+-[ / ]- XIO
+-(   )- OTE
+
+```
+
+## Simple boolean OR statement
+
+- Reading left to right on the ladder rung:
+    - If there is a 0 at address "Tag_2"
+    - And there is a 1 at address "Tag_1"
+        - OR
+    - There is a 0 at address "Tag_2"
+    - And there is a 1 at address "Tag_4"
+        - THEN
+    - OTE will write a 1 to address "Tag_3"
+
+> _This is a boolean expression of an OR statement_
+
+```text
+L      Tag_2        Tag_1       Tag_3      R
+|------[ / ]----+---[   ]---+---(   )------|
+                |           |
+                |   Tag_4   |
+                |---[   ]---|
 
 -[   ]- XIC
 -[ / ]- XIO
