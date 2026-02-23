@@ -4,7 +4,6 @@
 
 - Think of tags as human readable "nicknames" for tiny sections of PLC memory
 - We store 1s and 0s in these tiny sections of memory
-- The PLC scans each ladder rung from left to right very quickly
 - The instructions tell the PLC **what** to look for, and **where** to look for it
     - Basic input instructions (XIC, XIO) look for 1s and 0s at the assigned tag (memory) location
     - Based on what is stored at the location, the instruction generates a true/false signal for the output instruction (OTE)
