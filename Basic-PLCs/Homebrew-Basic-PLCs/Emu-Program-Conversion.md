@@ -1,6 +1,6 @@
 # CONVERT AN EMULATED PLC PROGRAM TO A LIVE-ACTION PROGRAM FOR LAB
 
-Note: Keep a safe backup of the original emulated program for future testing.
+> _Note: Keep a safe backup of the original emulated program for future testing._
 
 This procedure assumes the following:
 - RSLinks Classic is already up and running in the background.
