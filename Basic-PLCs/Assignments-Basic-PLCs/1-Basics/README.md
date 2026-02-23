@@ -6,3 +6,9 @@
     - Studio 5000 Emulator (in classroom)
     - CompactLogix 5380 / 5069-L306ER PLC (in lab)
     
+## NOTE
+
+- There are videos in my YT playlist covering the basic instructions
+- However, it is done using the old language, RS500 for MicroLogix
+- Regardless of the interface, the instructions are nearly identical
+- I highly recommend you grab a copy of RS500 to practice these skills
