@@ -8,7 +8,7 @@
 
 
 2. Synthesize the characteristics that differentiate Industrial Internet of Things from traditional industrial automation.
-    - _Performed in class: History of Advanced Automation essay_
+    - _Performed in class: Final Written Assignment_
 
 
 3. Design an IIoT application that monitors and controls a remote industrial process using sensors and actuators, including real-time monitoring and data visualization.
