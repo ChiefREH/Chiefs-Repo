@@ -1,10 +1,9 @@
 # Chief's Repository
 
-- For educational purposes only.
-- This material is not a substitute for in-person training with a qualified instructor.
 - This repository serves as cloud storage for my personal notes, sketches, and logs.
+- For educational/demonstration purposes only. Do not attempt this at home.
+- This material is not a substitute for in-person training with a qualified instructor.
 - The techniques described here are intended for use with my equipment only.
 - Use at your own risk.
-
 
 Copyright © 2026 ChiefREH. All rights reserved.
