@@ -1,5 +1,9 @@
 # LAB WORK PARAMETERS
 
+### WARNING: NEVER INSERT OR REMOVE FUSES WITH YOUR FINGERS!
+
+
+
 Safely and correctly power the Lab equipment. Note the following:
 
 

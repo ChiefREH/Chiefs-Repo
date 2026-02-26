@@ -1,5 +1,6 @@
 # WORK PARAMETERS
 
+### WARNING: NEVER INSERT OR REMOVE FUSES WITH YOUR FINGERS!
 
 ## AT THE START OF LAB
 - Router is plugged in
@@ -21,8 +22,9 @@
 
 - Proper rung documentation is mandatory.
 - All documentation must be available on request.
-- This is NOT a group exercise. Do your own work! 
+- These NOT a group exercises. Do your own work! 
 - Safety in the lab is mandatory! 
+
 
 
 _When in doubt, ask the Chief._
