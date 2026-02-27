@@ -1,7 +1,7 @@
 # IP Addressing with 192.168.1.*** / 255.255.255.0
 - Central WIFI Router: 001
-- Central RPI5: 005
 - Central PC: 002
+- Central RPI5: 005
 - *Central AI PC: 009
 - Robots: 10, 20, 30, 40, 50, 60
 - RPi5: 15, 25, 35, 45, 55, 65
@@ -11,5 +11,4 @@
 - TURCK Block: 19, 29, 39, 49, 59, 69
 
 ## Note
-_*Central AI PC is off limits to students IAW IT Dept. directives._
-
+_*Central AI PC is off limits to students IAW I.T. Dept. directives._
