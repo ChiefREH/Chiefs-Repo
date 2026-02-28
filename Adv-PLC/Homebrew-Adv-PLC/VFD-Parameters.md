@@ -1,5 +1,8 @@
 # VFD + MSG PARAMETERS
 
+PowerFlex 525 Quick Start PDF:
+[PF525-Quick-Start](https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/520-qs001_-en-e.pdf)
+
 ## PARAMETERS:
 - Proper VFD pathway configuration
 - use "169.169.169.xx7" for the VFD ETH/IP Address

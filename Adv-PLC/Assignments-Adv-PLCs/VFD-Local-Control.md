@@ -1,5 +1,9 @@
 # VFD Local HMI Control
 
+PowerFlex 525 Quick Start PDF:
+[PF525-Quick-Start](https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/520-qs001_-en-e.pdf)
+
+
 ## Create an LCARS-style HMI interface for local VFD control using the following components:
 - 3-phase AC induction motor
 - A-B Variable Frequency Drive (PowerFlex 525)
