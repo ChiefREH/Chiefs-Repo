@@ -28,3 +28,9 @@
 
 
 _When in doubt, ask the Chief._
+
+## REFERENCES
+
+[Studio 5000 General Instructions PDF](https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/1756-rm003_-en-p.pdf)
+
+    
