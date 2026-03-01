@@ -1,6 +1,10 @@
 # FANUC I/O CONNECTIONS
 
-## BASIC I/O FOR "BIG YELLA"
+### NOTE: SOME OUTPUTS REQUIRE EXTERNAL 24VDC POWER TO FUNCTION
+
+## BASIC I/O TERMINAL
+
+- For "Big Yella" ?
 
 ![IO Terminal](IIOT-Digital-Modules-Images/Basic-IO-Terminal.jpg)
 
@@ -27,12 +31,9 @@
 
 ![Fanuc IO Link](IIOT-Digital-Modules-Images/Basic-IO-Terminal-2.jpg)
 
-***
-***
 
 ## FANUC CERT CARTS
 
-### NOTE: SOME OUTPUTS REQUIRE EXTERNAL 24VDC POWER TO FUNCTION
 
 - CRMA58/CRMA59 Connectors
 
@@ -48,7 +49,7 @@
 
 ![50-pin-IO-Module](IIOT-Digital-Modules-Images/Digital-IO-50-Pin.png)
 
-## BENCHIE
+## "BENCHIE"
 
 - R-J3iB has a different pin-out configuration
 
