@@ -1,4 +1,4 @@
-# DIGITAL I/O CONNECTIONS
+# FANUC I/O CONNECTIONS
 
 ## BASIC I/O FOR "BIG YELLA"
 
@@ -50,6 +50,8 @@
 
 ## BENCHIE
 
-- R-J3iB has a different pinout
+- R-J3iB has a different pin-out configuration
 
->Images to follow
+![text](IIOT-Digital-Modules-Images/IIOT-Benchie-Pi-1.jpg)
+
+![text](IIOT-Digital-Modules-Images/IIOT-Benchie-Pi-2.jpg)
