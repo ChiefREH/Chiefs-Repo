@@ -32,11 +32,17 @@
 
 ## FANUC CERT CARTS
 
-- CRMA58/CRMA59
+- CRMA58/CRMA59 Connectors
+
+![CRMA58-59](IIOT-Digital-Modules-Images/CRMA58-59.jpg)
+
+- CRMA58/CRMA59 Schematic
 
 ![CRMA58/CRMA59](IIOT-Digital-Modules-Images/CRMA58-CRMA59.png)
 
 - CRMA15/CRMA16
+    - These pins are likely to be in use already.
+    - Best to leave them alone.
 
 ![50-pin-IO-Module](IIOT-Digital-Modules-Images/Digital-IO-50-Pin.png)
 
@@ -44,3 +50,4 @@
 
 - R-J3iB has a different pinout
 
+>Images to follow
