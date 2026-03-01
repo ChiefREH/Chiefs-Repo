@@ -30,6 +30,17 @@
 ***
 ***
 
-## ALL OTHER FANUC UNITS
+## FANUC CERT CARTS
+
+- CRMA58/CRMA59
+
+![CRMA58/CRMA59](IIOT-Digital-Modules-Images/CRMA58-CRMA59.png)
+
+- CRMA15/CRMA16
 
 ![50-pin-IO-Module](IIOT-Digital-Modules-Images/Digital-IO-50-Pin.png)
+
+## BENCHIE
+
+- R-J3iB has a different pinout
+
