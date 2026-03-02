@@ -12,9 +12,6 @@ NOTE:
 - See Sketch #17 for details.
 
 
-# Photoswitches
-
-![Photoswitch](Assignment-Motors-Basic-Images/Photoswitches.jpg)
 
 ## SIMPLE LADDER DIAGRAM
 
