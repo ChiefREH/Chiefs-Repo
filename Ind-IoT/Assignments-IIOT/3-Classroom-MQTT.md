@@ -12,11 +12,24 @@
 - Publish a message to an MQTT topic
 - Subscribe to the published topic/message
 
+
+## Perform the following using Node-Red:
+
+- Publish an UNENCRYPTED message to an MQTT topic
+- Subscribe to the published topic/message
+
+### UNENCRYPTED
 ![MQTTX](Assignments-IIOT-Images/MQTT-Unencrypted.png)
+
+- Publish an ENCRYPTED message to an MQTT topic
+- Subscribe to the published topic/message
+
+### ENCRYPTED
+![MQTTX](Assignments-IIOT-Images/MQTT-Encrypted.png)
+
 
 ## Perform the following using MQTTX:
 
-- Subscribe to the CLI published topic/message
-- Publish a message to the CLI MQTT topic
+- Subscribe to the published topic/message
+- Publish a message to the topic
 
-![MQTTX](Assignments-IIOT-Images/MQTT-Encrypted.png)
