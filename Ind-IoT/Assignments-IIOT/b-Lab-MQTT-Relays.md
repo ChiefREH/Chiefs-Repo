@@ -1,10 +1,14 @@
 # MQTT + RELAYS on RPi
 
-1. Trigger relays to open/close using RPi GPIO
-2. Trigger relays to operate remotely with another RPi on the network
-3. Trigger relays to operate in sequence using all RPi on the network (continuous loop)
+1. **WORKING SOLO**  
+   Control relays locally by automating open/close operations using Raspberry Pi GPIO.
 
-- The triggers are made via MQTT
-- Triggers must display on the central RPi hub using Dashboard UI
+2. **WORKING IN PAIRS**  
+   Control relays remotely by communicating with another Raspberry Pi on the same network using MQTT.
+
+3. **WORKING AS A TEAM**  
+   Coordinate all Raspberry Pi devices on the network to operate relays in a continuous sequence loop using MQTT.
+   
+   - The operational status of all relays must be displayed on the central Raspberry Pi hub using the dashboard UI.
 
 ![Relays](Assignments-IIOT-Images/RPi-Relays-1.jpg)
