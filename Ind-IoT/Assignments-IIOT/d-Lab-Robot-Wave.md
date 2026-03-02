@@ -1,5 +1,7 @@
 # ROBOT WAVE
 
+### Group Exercise
+
 - Create a program that produces a "wave" effect with the lab robots.
 - Utilize MQTT and RPis to coordinate signals between individual robots.
 - The central RPi (*.5) will be used to initiate the wave sequence.
