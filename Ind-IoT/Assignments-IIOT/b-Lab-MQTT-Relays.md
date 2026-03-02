@@ -9,6 +9,5 @@
 3. **WORKING AS A TEAM**  
    Coordinate all Raspberry Pi devices on the network to operate relays in a continuous sequence loop using MQTT.
    
-   - The operational status of all relays must be displayed on the central Raspberry Pi hub using the dashboard UI.
 
-![Relays](Assignments-IIOT-Images/RPi-Relays-1.jpg)
+### The operational status of all relays must be displayed on the central Raspberry Pi hub using the dashboard UI.
