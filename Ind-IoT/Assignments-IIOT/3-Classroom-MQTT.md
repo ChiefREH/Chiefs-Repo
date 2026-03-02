@@ -12,7 +12,11 @@
 - Publish a message to an MQTT topic
 - Subscribe to the published topic/message
 
+![MQTTX](Assignments-IIOT-Images/MQTT-Unencrypted.png)
+
 ## Perform the following using MQTTX:
 
 - Subscribe to the CLI published topic/message
 - Publish a message to the CLI MQTT topic
+
+![MQTTX](Assignments-IIOT-Images/MQTT-Encrypted.png)
