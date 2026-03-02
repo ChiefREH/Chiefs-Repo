@@ -1,7 +1,7 @@
 # VFD + MSG PARAMETERS
 
 PowerFlex 525 Quick Start PDF:
-[PF525-Quick-Start](https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/520-qs001_-en-e.pdf)
+[PF525 Quick Start PDF](https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/520-qs001_-en-e.pdf)
 
 ## PARAMETERS:
 - Proper VFD pathway configuration
@@ -14,6 +14,7 @@ PowerFlex 525 Quick Start PDF:
     - Amperage
         - May need a MSG instruction the pull a "Single Attribute" value
             - Refer to the PF525 DeviceNet PDF, pages 56-57
+                - [PF525 DeviceNet PDF](https://literature.rockwellautomation.com/idc/groups/literature/documents/um/520com-um002_-en-e.pdf)
  
 ## PROJECT NOTES:
 - MANUALLY input the VFD's IP address (C128-C136) first
