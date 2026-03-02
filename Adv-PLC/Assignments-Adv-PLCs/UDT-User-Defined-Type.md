@@ -10,7 +10,7 @@ Create a simple HMI routine using the following instructions:
 - Does not require a DINT[7] array
     - but it does require a UDT with 7 elements
 
-![Custom UDT](Assignments-Adv-PLC-Images/UDT-Elements.jpg)
+![Custom UDT](Assignments-Adv-PLC-Images/UDT-Elements.jpeg)
 
 
 ## LOAD:

@@ -17,4 +17,4 @@
 - Capture the starting GSV data for display
 
 ## EXAMPLE
-![LCARS MOTOR](Assignments-Adv-PLC-Images/LCARS-Motor.jpg)
+![LCARS MOTOR](Assignments-Adv-PLC-Images/LCARS-Motor.jpeg)

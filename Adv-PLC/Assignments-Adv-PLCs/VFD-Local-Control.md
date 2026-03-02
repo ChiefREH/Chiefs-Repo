@@ -20,7 +20,7 @@ PowerFlex 525 Quick Start PDF:
 
 ## EXAMPLE
 
-![LCARS VFD](Assignments-Adv-PLC-Images/LCARS-VFD.jpg)
+![LCARS VFD](Assignments-Adv-PLC-Images/LCARS-VFD.jpeg)
 
 
 ## REFERENCES:
