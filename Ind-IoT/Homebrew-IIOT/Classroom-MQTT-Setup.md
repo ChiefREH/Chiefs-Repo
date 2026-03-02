@@ -8,5 +8,8 @@
 ## MQTT In / MQTT Out Nodes
 ### REMEMBER: YOU CANNOT USE LOCALHOST AS SERVER
 - Must use **host.docker.internal:1883** when in Docker Desktop
-- WINDOWS: Might require full path to the mosquitto_pub/sub
+- WINDOWS might require full path to the mosquitto_pub/sub
 
+### Example
+
+_C:\Program Files\mosquitto\mosquitto_publish.exe -h 192.168.1.15 -p 1880 -t test/status -m "Hello, World"_
