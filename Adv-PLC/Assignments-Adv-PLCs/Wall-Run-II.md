@@ -5,7 +5,7 @@
 
 - Flash individual screens from dark > bright > dark, down the wall and back again (“bounce”)
     - bright interval: 0.5 seconds
-- Fill screens in sequence, down and back (“snake”)
+- Fill and clear screens in sequence, down and back (“snake”)
     - 1.0 second interval
 - Flash individual letters on each screen, down and back
     - 2.0 second interval
