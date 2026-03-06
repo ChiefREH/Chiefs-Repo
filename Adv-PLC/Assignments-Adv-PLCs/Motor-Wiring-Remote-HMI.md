@@ -6,6 +6,7 @@
 - Contactors & Relays
 - Power Supplies
 
+### REMEMBER: USE AN AMP CLAMP TO CHECK CURRENT
 
 ## PARAMETERS:
 

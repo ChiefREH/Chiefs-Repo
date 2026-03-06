@@ -9,6 +9,9 @@ PowerFlex 525 Quick Start PDF:
 - A-B Variable Frequency Drive (PowerFlex 525)
 - Contactors & Relays
 - Power Supplies & Fuses
+
+### REMEMBER: USE AN AMP CLAMP TO CHECK CURRENT
+
  
 ## INCLUDE THE FOLLOWING LOCAL SCREEN ELEMENTS:
 - Enable control for the contactor (output module)

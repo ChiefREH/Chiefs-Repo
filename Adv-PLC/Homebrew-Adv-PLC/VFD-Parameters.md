@@ -5,7 +5,7 @@ PowerFlex 525 Quick Start PDF:
 
 ## PARAMETERS:
 - Proper VFD pathway configuration
-- use "169.169.169.xx7" for the VFD ETH/IP Address
+- Use "169.169.169.xx7" for the VFD ETH/IP Address
     - Example: 169.169.169.27, 37, 47, 57, 67, etc.
 - Proper I/O module selection
 - Properly configured VFD tags for:
@@ -25,7 +25,9 @@ PowerFlex 525 Quick Start PDF:
     - FRN: 5.001
     - SERIES: A
     - Add check-marks to the Physical Parameters column when prompted.
-    - We won't use "Project" because one doesn't exist yet
+        - _We won't use "Project" because one doesn't exist yet_
+
+![PF525 Setup Wizard](Homebrew-Adv-PLC-Images/VFD-Setup-Wizard-1.jpg)
  
 ## MSG INSTRUCTION DETAILS:
 - Message Type: CIP Generic
@@ -35,12 +37,20 @@ PowerFlex 525 Quick Start PDF:
     - Instance: 1 (frequency) or 3 (current) or 4 (voltage)
     - Attribute: 9
 - Tags must be CONTROLLER scoped
-- When dividing values, destination tag must be a REAL data type
+
+
+## OPERATION
+- Used a "heartbeat" to fetch the MSG values
+    - _Otherwise it only reads once an never updates_
 - IIRC, to start and stop the VFD you must:
     - Send a "1" to the correct Tag to Start the VFD.
     - Then send a "0" to clear the Tag or the Stop won't work.
     - Send a "1" to the correct Tag to Stop the VFD.
     - Send a "0" to clear the Tag or the Start won't work again.
 
-## Note
-- If necessary, use Math instructions to multiply by 100 for the correct numerical readout
+### REMEMBER: USE AN AMP CLAMP TO CHECK CURRENT
+
+## MATH
+- Frequency is displayed from 0.0 to 60.0 Hz on the VFD LCD screen
+- Frequency is presented from 0 to 6000 in the Tags
+- Use Math instructions to multiply or divide for the correct numerical readout
