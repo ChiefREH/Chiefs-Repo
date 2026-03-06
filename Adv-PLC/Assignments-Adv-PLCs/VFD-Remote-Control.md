@@ -21,7 +21,7 @@ Create an LCARS-style HMI interface for remote VFD control
 ## EXAMPLE
 ![LCARS VFD](Assignments-Adv-PLC-Images/LCARS-VFD-2.jpeg)
 
-### Note: Additional elements from the LOCAL HMI CONTROL project may apply to this remote program!
+
 
 ## REFERENCE
 
