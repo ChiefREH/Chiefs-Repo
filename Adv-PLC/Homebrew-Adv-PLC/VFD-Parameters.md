@@ -41,7 +41,7 @@ PowerFlex 525 Quick Start PDF:
 
 ## OPERATION
 - Used a "heartbeat" to fetch the MSG values
-    - _Otherwise it only reads once an never updates_
+    - _Otherwise it only reads once and never updates_
 - IIRC, to start and stop the VFD you must:
     - Send a "1" to the correct Tag to Start the VFD.
     - Then send a "0" to clear the Tag or the Stop won't work.
