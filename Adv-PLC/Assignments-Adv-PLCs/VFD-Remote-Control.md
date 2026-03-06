@@ -12,9 +12,9 @@ Create an LCARS-style HMI interface for remote VFD control
     - If you use a Popup, make sure it is large enough to fit all the required data
     
 
-## WARNING
+## LOCAL > REMOTE > LOCAL AGAIN
 - Code your project in such a way as to retain the ability to run your local VFD after running the remote VFD
-- Switching from local to remote and back to local is mandatory
+- Successful operation in local and remote is mandatory
     - _This may require some clever programming_
 
 
