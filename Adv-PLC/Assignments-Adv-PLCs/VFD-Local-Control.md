@@ -11,8 +11,8 @@ PowerFlex 525 Quick Start PDF:
 - Power Supplies & Fuses
  
 ## INCLUDE THE FOLLOWING LOCAL SCREEN ELEMENTS:
-- Start/Stop control for the contactor
-- Start/Stop control for the VFD
+- Enable control for the contactor (output module)
+- Start/Stop control for the VFD ("Run" mode)
 - FWD/REV for the VFD
 - Numerical/Graphical displays for voltage/frequency/amperage
 - Slider control(s) to change the frequency of the VFD
