@@ -9,12 +9,11 @@ Create an LCARS-style HMI interface for remote VFD control
 - Frequency Control by use of a Slider
 - Displays for Volts, Amps, and Freq.
     - Must show the remote VFD values on YOUR screen
-    - If you use a Popup, make sure it is large enough to fit all the required data
+    - _If you use a Popup, make sure it is large enough to fit all the required data_
     
 
 ## LOCAL > REMOTE > LOCAL AGAIN
-- Code your project in such a way as to retain the ability to run your local VFD after running the remote VFD
-- Successful operation in local and remote is mandatory
+- Code your project in such a way that retains the ability to run your local VFD after running the remote VFD
     - _This may require some clever programming_
 
 
