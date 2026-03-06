@@ -8,7 +8,7 @@
 - Fill and clear screens in sequence, down and back (“snake”)
     - 1.0 second interval
 - Flash individual letters on each screen, down and back
-    - 2.0 second interval
+    - 2.0 second interval (_will adjust for best effects_)
     - Letters must be scaled up as large as possible
         - _Use the same font for each; don't mix and match!_
 - Flash the entire phrase on/off
