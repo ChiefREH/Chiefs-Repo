@@ -72,6 +72,8 @@
 - placed back on and double-clocked VFD in COW
 - Still a splice failure!
 
-## BUT
+## BUT...
 
-- I manually adjusted the VFD.Start BOOL and CommandFreq DINT from the global tags and it ran normally
+- After all that mess, I manually adjusted the VFD.Start BOOL and CommandFreq DINT from the global tags just to see what would happen...
+	- And it worked!!!
+- So, we kept going and never looked back.
