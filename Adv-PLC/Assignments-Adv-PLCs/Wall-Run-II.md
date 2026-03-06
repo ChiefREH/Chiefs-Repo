@@ -20,5 +20,7 @@
 
 - Can use Prod/Con tags or MSG instruction (all global/controller scope)
     - _Don’t even attempt to “synchronize” the operation using TON/TOF timers_
+- Use Properties, State Tables and/or Color Tables, as needed
 - Must have 1 start/stop screen only (at the far end of the lab)
 - Must use all PLC/HMI combos
+    - _if wiring is required, power down the equipment and make it happen!_
