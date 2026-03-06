@@ -4,11 +4,11 @@ Create an LCARS-style HMI interface for remote VFD control
 
 
 ## REMOTE CONTROL ELEMENTS:
-- Start/Stop the VFD
-    - _This means placing the VFD in RUN mode, not enabling the contactor coil that powers the VFD_
+- Start/Stop the remote VFD
+    - _This means placing the remote VFD in RUN mode, not enabling the contactor coil that powers the VFD_
 - Frequency Control by use of a Slider
-- Displays for Volts, Amps, and Freq.
-    - Must show the remote VFD values on YOUR screen
+- Displays for remote VFD Volts, Amps, and Freq.
+    - Must show the values somewhere on YOUR screen
     - _If you use a Popup, make sure it is large enough to fit all the required data_
     
 
