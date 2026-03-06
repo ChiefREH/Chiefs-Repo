@@ -14,6 +14,7 @@ Create an LCARS-style HMI interface for remote VFD control
 
 ## LOCAL > REMOTE > LOCAL AGAIN
 - Code your project in such a way that retains the ability to run your local VFD after running the remote VFD
+- _You must not lose local control of your VFD after successfully running the remote VFD_
     - _This may require some clever programming_
 
 
