@@ -9,4 +9,4 @@
     - _Performed in lab: Signal Generator via Analog I/O modules_
 
 3. Troubleshoot a programmable logic controller network.
-     - _Performed in lab: Adding and configuring VFDs on the network_
+     - _Performed in lab: Add and configure VFDs on the network_
