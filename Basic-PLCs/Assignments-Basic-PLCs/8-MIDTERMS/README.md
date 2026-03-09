@@ -33,7 +33,7 @@ Create a LAB routine for North-South/East-West traffic lights using these instru
     - YELLOW lights: 3 seconds 
     - GREEN lights: 7 seconds
 - Loop Counters:
-    - Count for **2 loops**
+    - Count for **3 loops**
 - Delay Timer:
     - Delay automatic restart for **6 seconds**
 
