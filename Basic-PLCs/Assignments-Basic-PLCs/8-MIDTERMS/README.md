@@ -15,7 +15,8 @@ Create a LAB routine for North-South/East-West traffic lights using these instru
 - (3) TOF timers for E-W traffic lights
 - (1) CTD counter to track the number of E-W loops
 
-# PARAMETERS
+
+## PARAMETERS
 
 - (1) TOF timer to act as a delay timer
 - (1) GSV to capture the starting WallClockTime
