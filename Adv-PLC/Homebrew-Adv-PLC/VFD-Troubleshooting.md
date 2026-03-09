@@ -18,13 +18,13 @@
 
 
 # PLC ONLINE STEPS
+- clicked "connect" in upper right
+	- selected Synchronize
+	- add driver to ip address
 - download to PLC like normal
 - place online
 - toggle output module tag to turn VFD on
 - wait for VFD to be recognized
-- clicked "connect" in upper right
-	- selected Synchronize
-	- add driver to ip address
 - double click VFD in COW
 	- check marks in Physical
 	- wait for full green horizontal line
