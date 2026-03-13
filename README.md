@@ -18,6 +18,21 @@ The material contained here documents procedures, configurations, and observatio
 
 ---
 
+## Issues With Viewing The Repository
+
+Sometimes, GitHub will limit your access to a file.
+If you have issues with viewing the files via your web browser, try the following:
+
+### Online
+- Sign up for a free account to reduce the chances of a secondary rate limit
+    - Follow for future repo updates ...
+
+### Offline
+- Download the entire repo code as a .zip and extract or decompress
+    - Use a Markdown editor like [Obsidian](https://obsidian.md/download) to view the files
+
+---
+
 ## Copyright
 
 © 2026 ChiefREH. All rights reserved.
