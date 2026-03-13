@@ -3,7 +3,7 @@
 
 - You can add multiple Events to an element
     - _I recommend using "**Touch Release**"_
-- Use the last option at the bottom of the list called "Value"
+- Use the last option at the bottom of the list called "**Value**"
 - It has 3 options that may be of use
 
-![text](Homebrew-Adv-PLC-Images/Button-Behaviors.jpg)
+![Behaviors](Homebrew-Adv-PLC-Images/Button-Behaviors.jpg)
