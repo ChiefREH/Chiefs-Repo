@@ -30,12 +30,12 @@ Sometimes, GitHub will limit your access to a file.
 
 ### Online
 - Sign up for a free GitHub account to reduce the chances of a "secondary rate limit"
-    - Follow for future repo updates ...
+    - Follow the repo for future updates ...
 
 ### Offline
-- Download the entire repo code as a .zip and extract or decompress
-    - Use a Markdown editor like [Obsidian](https://obsidian.md) or [Joplin](https://joplinapp.org/) to view the files
-    - _My personal preference is [Obsidian](https://obsidian.md)_
+- Download the entire repo code as a .zip and extract/decompress
+    - Use a Markdown editor like [Obsidian](https://obsidian.md) or [Joplin](https://joplinapp.org/) to view the folders and files
+        - _My personal preference is [Obsidian](https://obsidian.md)_
 
 ---
 
