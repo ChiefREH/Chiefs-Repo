@@ -6,7 +6,7 @@ This repository serves as cloud storage for my personal notes, sketches, experim
 
 The material contained here documents procedures, configurations, and observations from my own equipment and environment. It is provided primarily for reference and educational purposes.
 
-I keep a playlist of tutorials on YouTube: [@ChiefREH on YouTube](https://www.youtube.com/@ChiefREH)
+I also keep a playlist of related tutorials on YouTube: [@ChiefREH on YouTube](https://www.youtube.com/@ChiefREH)
 
 ---
 
