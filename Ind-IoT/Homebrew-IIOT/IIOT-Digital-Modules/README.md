@@ -53,6 +53,4 @@
 
 - R-J3iB has a different pin-out configuration
 
-![text](IIOT-Digital-Modules-Images/IIOT-Benchie-Pi-1.jpg)
-
-![text](IIOT-Digital-Modules-Images/IIOT-Benchie-Pi-2.jpg)
+![Benchie I/O](IIOT-Digital-Modules-Images/Benchie-IO-1.jpg)
