@@ -28,8 +28,8 @@ Sometimes, GitHub will limit your access to a file. If you have issues with view
 
 ### Offline
 - Download the entire repo code as a .zip and extract or decompress
-    - Use a Markdown editor like [Obsidian.md](https://obsidian.md) or [Joplin](https://joplinapp.org/) to view the files
-    - _My personal preference is [Obsidian.md](https://obsidian.md)_
+    - Use a Markdown editor like [Obsidian](https://obsidian.md) or [Joplin](https://joplinapp.org/) to view the files
+    - _My personal preference is [Obsidian](https://obsidian.md)_
 
 ---
 
