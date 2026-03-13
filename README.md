@@ -17,5 +17,4 @@ You are welcome to reference, copy, and redistribute this material for education
 
 ## Third-Party Copyright and Trademarks
 
-Some names, logos, products, or materials referenced in this repository may be the property of their respective owners.  
-All trademarks and copyrighted materials belong to their respective holders and are used here for identification or educational purposes only.
+Some names, logos, products, or materials referenced in this repository may be the property of their respective owners. All trademarks and copyrighted materials belong to their respective holders and are used here for identification or educational purposes only.
