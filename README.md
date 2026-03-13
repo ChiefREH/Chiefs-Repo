@@ -20,7 +20,13 @@ The material contained here documents procedures, configurations, and observatio
 
 ## Issues With Viewing The Repository
 
-Sometimes, GitHub will limit your access to a file. If you have issues with viewing the files via your web browser, try the following:
+Sometimes, GitHub will limit your access to a file.
+
+![GitHub Error](0-Root-Images/Github-Page-Error.png)
+
+![GitHub Error](0-Root-Images/Secondary-Rate-Limit.png)
+
+ If you have issues with viewing the files via your web browser, try the following:
 
 ### Online
 - Sign up for a free GitHub account to reduce the chances of a "secondary rate limit"
