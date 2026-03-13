@@ -20,16 +20,16 @@ The material contained here documents procedures, configurations, and observatio
 
 ## Issues With Viewing The Repository
 
-Sometimes, GitHub will limit your access to a file.
-If you have issues with viewing the files via your web browser, try the following:
+Sometimes, GitHub will limit your access to a file. If you have issues with viewing the files via your web browser, try the following:
 
 ### Online
-- Sign up for a free account to reduce the chances of a secondary rate limit
+- Sign up for a free GitHub account to reduce the chances of a "secondary rate limit"
     - Follow for future repo updates ...
 
 ### Offline
 - Download the entire repo code as a .zip and extract or decompress
-    - Use a Markdown editor like [Obsidian](https://obsidian.md/download) to view the files
+    - Use a Markdown editor like [Obsidian.md](https://obsidian.md) or [Joplin](https://joplinapp.org/) to view the files
+    - _My personal preference is [Obsidian.md](https://obsidian.md)_
 
 ---
 
