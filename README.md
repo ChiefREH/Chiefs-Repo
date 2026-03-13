@@ -47,7 +47,7 @@ Sometimes, GitHub will limit your access to a file.
 
 All original content in this repository, including text, diagrams, code examples, and documentation, is the intellectual property of ChiefREH unless otherwise noted.
 
-You may reference, copy, and redistribute this material for educational or informational purposes **provided that proper attribution is given to ChiefREH as the original author**.
+You may reference, copy, and redistribute this repository for educational or informational purposes **provided that proper attribution is given to ChiefREH as the original author**.
 
 ---
 
