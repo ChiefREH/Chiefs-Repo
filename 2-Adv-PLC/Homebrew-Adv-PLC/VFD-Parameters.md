@@ -51,6 +51,12 @@ PowerFlex 525 Quick Start PDF:
 ### REMEMBER: USE AN AMP CLAMP TO CHECK CURRENT
 
 ## MATH
+
+- Use Math instructions to add/sub/mul/div to produce the correct number for display
+- This applies to voltage and amperage, not just frequency
+
+EXAMPLE:
+
 - Frequency is displayed from 0.0 to 60.0 Hz on the VFD LCD screen
-- Frequency is presented from 0 to 6000 in the Tags
-- Use Math instructions to multiply or divide for the correct numerical readout
+- Frequency is presented from 0 to 6000 in the Studio 5000 Tags
+    - _We use 60 Hz, not 6000 Hz, so do the math to make the numbers match reality!_
