@@ -26,9 +26,9 @@
 - Must use all PLC/HMI combos
     - _if wiring is required, power down the equipment and make it happen!_
 
-## ADVANCED CONFIG:
+## SIMPLE CONFIG:
 
-If time permits...
+If time doesn't permit...
 
 - Flash individual screens from dark > bright > dark, down the wall and back again (“bounce”)
     - bright interval: 0.5 seconds
