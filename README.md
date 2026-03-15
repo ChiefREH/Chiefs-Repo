@@ -6,7 +6,7 @@ This repository serves as cloud storage for my personal notes, sketches, experim
 
 The material contained here documents procedures, configurations, and observations from my own equipment and environment. It is provided primarily for reference and educational purposes.
 
-I also keep a playlist of related tutorials on YouTube: [@ChiefREH on YouTube](https://www.youtube.com/@ChiefREH)
+I also keep a playlist of related tutorials on YouTube: [The Vault of Old Salt](https://www.youtube.com/@ChiefREH)
 
 ---
 
@@ -33,6 +33,7 @@ Sometimes, GitHub will limit your access to a file.
 ### Online
 - Sign up for a free GitHub account to reduce the chances of a "secondary rate limit"
     - Follow the repo for future updates ...
+- Use the official GitHub app to access the repository
 
 ### Offline
 - Download the entire repo code as a .zip and extract/decompress
