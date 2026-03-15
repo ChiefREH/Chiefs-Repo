@@ -24,9 +24,9 @@ I also keep a playlist of related tutorials on YouTube: [The Vault of Old Salt](
 
 Sometimes, GitHub will limit your access to a file.
 
-![GitHub Error](0-Root/Github-Page-Error.png)
+![GitHub Error](0-Front-Page/Github-Page-Error.png)
 
-![GitHub Error](0-Root/Secondary-Rate-Limit.png)
+![GitHub Error](0-Front-Page/Secondary-Rate-Limit.png)
 
  If you have issues with viewing the files via your web browser, try the following:
 
