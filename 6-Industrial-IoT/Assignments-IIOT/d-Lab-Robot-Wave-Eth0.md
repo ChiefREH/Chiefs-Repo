@@ -1,4 +1,4 @@
-# ROBOT WAVE
+# ROBOT WAVE OVER ETHERNET
 
 ### Group Exercise
 
