@@ -53,4 +53,9 @@
 
 - R-J3iB has a different pin-out configuration
 
-![Benchie I/O](IIOT-Digital-Modules-Images/Benchie-IO-1.jpg)
+### CRM79
+![Benchie CRM79](IIOT-Digital-Modules-Images/Benchie-CRM79-Connx.jpg)
+
+### CRM5 to Phoenix Contacts
+
+![Benchie I/O](IIOT-Digital-Modules-Images/Benchie-IO-Wiring-1.jpg)
