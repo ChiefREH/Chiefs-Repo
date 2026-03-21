@@ -34,3 +34,9 @@ If time doesn't permit...
     - bright interval: 0.5 seconds
 - Fill and clear screens in sequence, down and back (“snake”)
     - 1.0 second interval
+
+## OBSERVATIONS
+
+- I initially thought about having all letters off screen, calling them in to view, one at a time
+- My students utilized a State Table that monitored a single tag and placed letters in a text box based on the tag's numerical range
+- This was a far more elegant solution than I originally designed
