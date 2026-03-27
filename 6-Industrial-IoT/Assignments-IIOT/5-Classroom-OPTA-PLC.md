@@ -1,6 +1,8 @@
 # OPTA PLC ASSIGNMENT
 
 - Familiarize yourself with the Arduino IDE
+- Familiarize with OPTA PLC IDE
+    - _if you can get it to work!_
 
 ## Download Additional Libraries
 - AlPlc_Opta by Arduino
@@ -14,3 +16,4 @@
 Utilize the built-in User Pushbutton to start/stop:
 - an LED sequence (K.I.T.T. sweep)
 - an output Relay sequence
+    - _Relays require external power_
