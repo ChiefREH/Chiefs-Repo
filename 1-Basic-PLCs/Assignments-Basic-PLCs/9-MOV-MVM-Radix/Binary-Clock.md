@@ -9,6 +9,10 @@ Create a simple Binary Clock routine for EMULATION and LAB using the following i
 
 All OTE instructions must be properly tagged and ALIASED to an I/O module 
 
+## PARAMETERS
+- Use a "seal-in" circuit to start/stop the routine
+- Once running, the routine must run continuously
+
 ## TIMING
 - TON .PRE = 1 second 
 - CTU .PRE = 32767 
