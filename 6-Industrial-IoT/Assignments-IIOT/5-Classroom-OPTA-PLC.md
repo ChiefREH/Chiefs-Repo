@@ -17,3 +17,6 @@ Utilize the built-in User Pushbutton to start/stop:
 - an LED sequence (K.I.T.T. sweep)
 - an output Relay sequence
     - _Relays require external power_
+
+
+Used ChatGPT to fix cosmetic warnings during Compile (missing categories= “”) as needed.
