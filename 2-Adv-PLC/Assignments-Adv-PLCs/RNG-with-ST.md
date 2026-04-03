@@ -19,3 +19,4 @@
 
 - I will grade everyone based on the operation AND **aesthetics** of their project.
 - This means you need to work very hard to create something visually stunning!
+    - _This does not have to be an LCARS-style interface. Use your own imagination!_

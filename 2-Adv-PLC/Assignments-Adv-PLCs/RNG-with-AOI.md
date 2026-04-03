@@ -11,9 +11,11 @@
 - Store ten generated numbers in a DINT[10] Array
     - Numbers must be stored sequentially from DINT[0] to DINT[9]
     - When the array is full, start again at DINT[0]
+    - Display the saved numbers on screen for review
 
 
 ## GRADING:
 
 - I will grade everyone based on the operation AND **aesthetics** of their project.
 - This means you need to work very hard to create something visually stunning!
+    - _This does not have to be an LCARS-style interface. Use your own imagination!_

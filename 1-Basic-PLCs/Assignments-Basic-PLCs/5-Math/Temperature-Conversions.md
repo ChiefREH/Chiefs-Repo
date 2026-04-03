@@ -1,4 +1,4 @@
-# MATH INSTRUCTIONS FOR TEPERATURE CONVERSIONS
+# MATH INSTRUCTIONS FOR TEMPERATURE CONVERSIONS
 
 Create (4) Temperature Conversion programs using the following instructions:
 
