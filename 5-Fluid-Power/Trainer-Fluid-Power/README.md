@@ -5,7 +5,7 @@
 - Use the following FP equipment in lab:
     - Directional Control Valves
     - Pneumatic Actuators
-    - Supply Regulators
+    - Pressure Regulators
     - Proper hose connections
 
 
