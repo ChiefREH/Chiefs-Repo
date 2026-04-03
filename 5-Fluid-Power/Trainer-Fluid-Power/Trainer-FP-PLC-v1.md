@@ -6,7 +6,7 @@ Working in your assigned teams, design and deploy a pneumatic control system usi
 - (1) 24VDC Control Valve
 - (1) Pneumatic Actuator/Cylinder
 - (1) Supply Regulator 
-- (2) Push Buttons to Stop/Start the program 
+- (2) Push Buttons start/stop control
 - All necessary tubing and fittings 
 
 If time permits, we shall include:
