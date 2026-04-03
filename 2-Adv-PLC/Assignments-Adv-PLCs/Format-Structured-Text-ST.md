@@ -14,6 +14,7 @@
 
 ## NOTES:
 
+- Use AI or LLMs to help, if needed
 - Once started, the routine must continually loop 
 - The light sequence must follow the common logical sequence 
 - Do not create a traffic jam or motor vehicle accident! 
