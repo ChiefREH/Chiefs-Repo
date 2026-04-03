@@ -1,4 +1,4 @@
-# STRUCTURED TEXT (ST)
+# TRAFFIC - STRUCTURED TEXT (ST)
 
 - Create a 4-way Traffic routine using ST
 - Include stop/start controls on the HMI

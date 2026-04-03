@@ -1,4 +1,4 @@
-# FUNCTION BLOCK DIAGRAM (FBD)
+# TRAFFIC - FUNCTION BLOCK DIAGRAM (FBD)
 
 - Create a 4-way Traffic routine using FBD
 - Include stop/start controls on the HMI
