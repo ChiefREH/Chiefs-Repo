@@ -9,7 +9,7 @@ Working in your assigned teams, design and deploy a pneumatic control system usi
 - (2) Push Buttons to Stop/Start the program 
 - All necessary tubing and fittings 
 
-If we have time, include:
+If time permits, we shall include:
 - (1) proximity sensor for the actuator 
 - (1) pressure switch for the system 
 - (2) lights or LEDs for visual feedback 
