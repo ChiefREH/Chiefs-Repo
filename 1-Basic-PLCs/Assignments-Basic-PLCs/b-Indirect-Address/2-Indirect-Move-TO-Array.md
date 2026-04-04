@@ -23,6 +23,6 @@ Create a routine that will move a variable number into Array elements sequential
 - When the last element is filled, the index must reset **before** faulting the controller. 
 - New variables will overwrite the old variables, starting again at the first element. 
 - On stop/restart, the output tag must revert to all zeroes.
-    - The index position must restart at zero.
+    - The index position must also restart at zero.
 
 *Proper rung documentation is mandatory.

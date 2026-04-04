@@ -30,6 +30,6 @@ Create a routine that will pull a number **FROM** an Array and move the data to 
 - When the last element is moved, the index must reset before faulting the controller. 
 - Any values moved to the Output Module must be presented in the BINARY style radix. 
 - On stop/restart, the output tag must revert to all zeroes.
-    - The index position must restart at zero.
+    - The index position must also restart at zero.
 
 *Proper rung documentation is mandatory.

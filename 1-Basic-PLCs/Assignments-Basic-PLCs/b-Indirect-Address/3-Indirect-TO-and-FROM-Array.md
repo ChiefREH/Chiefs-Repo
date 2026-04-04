@@ -35,6 +35,7 @@ Properly configured output module (emulated and lab)
     - When the last element is filled, the index must reset before faulting the controller 
     - New variables will overwrite the old variables, starting again at the first element 
 - Any values moved to the Output Module must be presented in the BINARY style radix. 
-- If stop/restart, must CLR the output tag to begin again at all 0s.
+- On stop/restart, the output tag must revert to all zeroes.
+    - The index position must also restart at zero.
 
 *Proper rung documentation is mandatory.
