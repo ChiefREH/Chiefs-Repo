@@ -6,7 +6,8 @@ Create a routine that will move a variable number into Array elements sequential
 - 1 RTO instruction as the variable number source 
 - 1 CTU instruction as the indirect index 
 - 1 DINT[10] Array to store the variable numbers 
-- MOV instruction(s) as needed 
+- MOV instruction(s) as needed
+- COP instruction(s) as needed
 - RES instruction(s) as needed
 - CLR instruction(s) as needed
 
@@ -21,6 +22,7 @@ Create a routine that will move a variable number into Array elements sequential
 - All Array elements must be filled in sequence, from the **first** element to the **last** element. 
 - When the last element is filled, the index must reset **before** faulting the controller. 
 - New variables will overwrite the old variables, starting again at the first element. 
-- If stop/restart, must CLR the output tag to begin again at all 0s.
+- On stop/restart, the output tag must revert to all zeroes.
+    - The index position must restart at zero.
 
 *Proper rung documentation is mandatory.
