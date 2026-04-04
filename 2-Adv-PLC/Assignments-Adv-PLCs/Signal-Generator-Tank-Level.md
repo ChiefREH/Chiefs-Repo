@@ -17,6 +17,8 @@ Create a simple HMI Tank Level simulation using the following components:
 ![Signal Generator](Assignments-Adv-PLC-Images/Sig-Gen-Tanks-1.jpg)
 
 ## REMEMBER
-- Changes under MODULE PROPERTIES > SCALING > ENGINEERING UNITS are entered manually! 
-- Write in "mA" or "%" as needed to get the proper output tag format. 
-- Don't forget to use REALS for floating decimal points. 
+- Changes under MODULE PROPERTIES > SCALING > ENGINEERING UNITS can be manually adjusted.
+    - Write in "mA" or "%" as needed to get the proper output tag format. 
+- Don't forget to use REALS for floating decimal points.
+
+![Analog Config](Assignments-Adv-PLC-Images/Analog-Module-Config.jpg)
