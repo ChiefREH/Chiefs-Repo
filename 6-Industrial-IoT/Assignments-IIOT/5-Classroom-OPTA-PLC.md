@@ -4,14 +4,23 @@
 - Familiarize with OPTA PLC IDE
     - _if you can get it to work!_
 
-## Download Additional Libraries
+
+## Download Additional ARDUINO Libraries
 - AlPlc_Opta by Arduino
 - Arduino_OPC_UA by Arduino
+- Adafruit MQTT Library by Arduino
 
-## Download additional Board Manager Addons
+
+## Additional Additional THIRD-PARTY Libraries
+- PubSubClient by N. O’Leary
+- ArduinoJSON by B. Blanchon
+- MQTT by J. Gaehwiler
+
+
+## Download additional BOARD MANAGER Addons
 - Arduino Mbed OS Opta Boards by Arduino (takes a long time to download?)
 
-## Sketch a Program
+## SKETCH PROGRAMS
 
 Utilize the built-in User Pushbutton to start/stop:
 - an LED sequence (K.I.T.T. sweep)
