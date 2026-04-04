@@ -7,10 +7,10 @@ Create an LCARS-style HMI interface for remote VFD control
 - Start/Stop the remote VFD
     - _This means placing the remote VFD in RUN mode, not enabling the contactor coil that powers the VFD_
 - Frequency Control by use of a Slider
+- Control only the remote VFD, not remote and local at the same time!
 - Displays for remote VFD Volts, Amps, and Freq.
     - Must show the values somewhere on YOUR screen
-    - _If you use a Popup, make sure it is large enough to fit all the required data_
-    
+    - _If you use a Popup, make sure it is large enough to fit all the required data_  
 
 ### REMEMBER: USE AN AMP CLAMP TO CHECK CURRENT
 

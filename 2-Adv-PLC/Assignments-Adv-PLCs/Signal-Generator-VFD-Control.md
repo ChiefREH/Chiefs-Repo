@@ -12,6 +12,7 @@ Create a simple **local** and **remote** VFD control panel using the following c
 - Control the local VFD Coil (power) from the HMI
 - Control the local VFD Run mode from the HMI
 - Control the local VFD **Frequency** with the Signal Generator
+- Control only the remote VFD, not remote and local at the same time!
 - Display all relevant information on the HMI screen
     - Volts, Amps, Freq, GSV data, etc.
 

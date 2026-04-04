@@ -11,7 +11,7 @@
 ## PARAMETERS:
 
 - HMI buttons act as momentary push-buttons
-- "Send a 1 on press, send a 0 on release"
+    - "Send a 1 on press, send a 0 on release"
 - Use a proper "seal-in" circuit
 - Include Stop and Start buttons on screen
 - Include Stopped and Running indications on screen
@@ -21,3 +21,4 @@
 
 - Execute task in groups of 2
 - Popup for selections are okay
+- Remote control only, not remote and local at the same time!
