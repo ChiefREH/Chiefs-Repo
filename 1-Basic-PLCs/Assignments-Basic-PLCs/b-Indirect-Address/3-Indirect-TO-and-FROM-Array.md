@@ -10,7 +10,8 @@ Create a routine that will move numbers TO and FROM and Array using the followin
 - GSV instruction for Date/Time capture 
     - Starting Date/Time only, not continuously 
     - DINT[7] Array to store the captured GSV data 
-- MOV instruction(s) as needed 
+- MOV instruction(s) as needed
+- COP instruction(s) as needed
 - CLR instruction(s) as needed 
 - RES instruction(s) as needed 
 - BRANCHES as needed
