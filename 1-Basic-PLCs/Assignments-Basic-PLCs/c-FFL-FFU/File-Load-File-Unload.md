@@ -1,9 +1,13 @@
-# FFL / FFU
+# FILE LOAD / UNLOAD
 
 ## CODE:
 Create a routine that will move random numbers to an Array using File Load/Unload instructions:
-- FIFO - "First In, First Out" instruction 
-- FILO - "First In, Last Out" instruction 
+- **"First In, First Out"** instructions
+    - FIFO Load (FFL)
+    - FIFO Unload (FFU)
+- **"Last In, First Out"** instructions
+    - LIFO Load (LFL)
+    - LIFO Unload (LFU)
 - All necessary XIC, XIO and/or ONS 
 - Properly created Array(s) 
  
