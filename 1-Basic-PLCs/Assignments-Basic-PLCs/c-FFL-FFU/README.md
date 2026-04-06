@@ -1,7 +1,7 @@
 # FILE LOAD AND UNLOAD
 
 There are 4 types of Load/Unload Operations:
-- FIFO Load: Fist In, First Out (FFL)
-- FIFO Unload: Fist In, First Out (FFU)
-- LIFO Load: Last In, First Out (LFL)
-- LIFO Unload: Last In, First Out (LFU)
+- FIFO Load: _First In, First Out_ (FFL)
+- FIFO Unload: _First In, First Out_ (FFU)
+- LIFO Load: _Last In, First Out_ (LFL)
+- LIFO Unload: _Last In, First Out_ (LFU)
