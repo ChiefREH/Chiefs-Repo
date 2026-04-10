@@ -12,7 +12,7 @@
     - Numbers must be stored sequentially from DINT[0] to DINT[9]
     - When the array is full, start again at DINT[0]
     - Display the saved numbers on screen for review
-
+- You may use FFL/FFU (FIFO-LIFO) instructions or Indirect Addressing to accomplish the storage
 
 ## GRADING:
 
