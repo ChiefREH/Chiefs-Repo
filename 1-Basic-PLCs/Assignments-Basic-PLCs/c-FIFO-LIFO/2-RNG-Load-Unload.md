@@ -15,7 +15,7 @@ Create a routine that will move random numbers **to and from** an Array using on
 - ONS instructions as needed
 - Properly created Array(s)
 - Math instructions as needed
-- -Comparison instructions as needed
+- Comparison instructions as needed
 - MOV instructions as needed 
 - COP instructions as needed
 - CLR instructions as needed 
