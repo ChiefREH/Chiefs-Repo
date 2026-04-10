@@ -40,7 +40,7 @@ Just play the game without all the noise!
     - _I will allow for coding multiple decks in the Dealer's Shoe_
 - Link: [Dealer's Shoe](https://en.wikipedia.org/wiki/Shoe_(cards))
 
-## EXAMPLE HMI
+## EXAMPLE HMI:
 
 Example 1
 
