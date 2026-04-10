@@ -1,7 +1,7 @@
 # FILE LOAD / UNLOAD RNG
 
 ## CODE:
-Create a routine that will move random numbers to an Array using one of the following methods:
+Create a routine that will move random numbers **to and from** an Array using one of the following methods:
 - FIFO - "First In, First Out" instruction 
 - LIFO - "Last In, First Out" instruction 
  
