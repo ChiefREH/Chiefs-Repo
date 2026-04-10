@@ -18,9 +18,11 @@ Using any and all instructions, create a PLC/HMI routine to play the card game "
 - Tracking the number of Player wins/losses 
 - Input to reset and play another hand (after 1 hand is complete) 
  
-## NOTE: INTERACTIVE HMI IS REQUIRED!
+## NOTE:
+- An interactive HMI is required to play this game.
+    - _The HMI does not have to be in the LCARS-style_
 - Start with numerical information/displays to work out the logic.
-    - _I recommend you do this first!_
+    - _I recommend you do this first_
 - Display must shows **ALL** card values dealt (Player & Dealer), not just the total sum. 
 - If time allows, include graphics for all cards! 
  
@@ -33,7 +35,7 @@ Using any and all instructions, create a PLC/HMI routine to play the card game "
 - IGNORE any rules related to betting, splitting, doubling-down, insurance or settlement. 
 Just play the game without all the noise! 
  
-## RNG
+## RNG:
 - An example of Random Number Generator (RNG) code is in my Homebrew
     - _I will allow for coding multiple decks in the Dealer's Shoe_
 - Link: [Dealer's Shoe](https://en.wikipedia.org/wiki/Shoe_(cards))
