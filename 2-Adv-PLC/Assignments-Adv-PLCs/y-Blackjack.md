@@ -33,7 +33,7 @@ Using any and all instructions, create a PLC/HMI routine to play the card game "
 - Ace value: 1 or 11
     - _This is tricky because the PLC needs to know how you want to play an Ace_
 - IGNORE any rules related to betting, splitting, doubling-down, insurance or settlement. 
-Just play the game without all the noise! 
+    - Just play the game without all the noise! 
  
 ## RNG:
 - An example of Random Number Generator (RNG) code is in my Homebrew
