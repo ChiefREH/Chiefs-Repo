@@ -36,6 +36,7 @@ Using any and all instructions, create a PLC/HMI routine to play the card game "
 ### Example:
 - Your starting hand is two Aces. Did you just bust?
 - Your next draw is a Jack. Did you just bust again?
+- Your next draw is a 9. Did you just win or bust again?
 
 
 ## IGNORE:
