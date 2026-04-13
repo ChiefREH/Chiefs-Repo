@@ -21,8 +21,15 @@ Create a routine that will move random numbers **to and from** an Array using on
 - CLR instructions as needed 
 - RES instructions as needed 
 - BRANCHES as needed 
- 
+
+
+## OPERATIONS:
+
+- Timer interval: 1 second
+- Move the data in the Unload destination tag to the output module
+
+
 ## NOTES:
-- This program will replicate the effect of the previous Indirect Move assignments but without the use of a Counter[Index]
+- This program will replicate part of the previous Indirect Move assignments but without the use of a Counter[Index]
  
 *Proper rung documentation is mandatory.
