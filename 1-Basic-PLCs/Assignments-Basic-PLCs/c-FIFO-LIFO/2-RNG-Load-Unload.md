@@ -24,9 +24,8 @@ Create a routine that will move random numbers **to and from** an Array using on
 
 
 ## OPERATIONS:
-
 - Timer interval: 1 second
-- Move the data in the Unload destination tag to the output module
+- Move the data from the Unload destination tag to the output module
 
 
 ## NOTES:
