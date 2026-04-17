@@ -27,7 +27,7 @@ END_IF;
 ***
 
 ## D. Cartwright's Random Number Generator Code (ST)
-> _Submitted by Devin Cartwright, Fall 2024_
+> _Submitted by D. Cartwright, Fall '24_
 
 ```text
 // Edited Random Structured Text
@@ -62,3 +62,54 @@ randomNumber2 := ABS((temp MOD 418) + 1);
 Generate := 0;
 END_IF;
 ```
+## RANDOM INSULT GENERATOR
+
+>_Submitted by P. Liberty, Spring '26_
+
+```
+// Free-running seed
+Seed := Seed + 1;
+
+IF Seed > 10000 THEN
+    Seed := 1;
+END_IF;
+
+// Rising edge detect
+IF Trigger AND NOT Trigger_Last THEN
+
+    // Random roll 1-10
+    Seed := (Seed * 37) + 11;
+
+    IF Seed > 10000 THEN
+        Seed := Seed MOD 10000;
+    END_IF;
+
+    IF Seed = 0 THEN
+        Seed := 1;
+    END_IF;
+
+    Roll := (Seed MOD 10);
+
+    // Pick insult
+    CASE Roll OF
+        1: ChiefInsult := 'Chief, that idea needed more maintenance than the machine.';
+        2: ChiefInsult := 'Chief, I have seen sharper thinking from a dead battery.';
+        3: ChiefInsult := 'Chief, that was a premium-grade bad call.';
+        4: ChiefInsult := 'Chief, you are operating at full confidence and half accuracy.';
+        5: ChiefInsult := 'Chief, that plan belongs in the scrap bin.';
+        6: ChiefInsult := 'Chief, I respect the effort, not the result.';
+        7: ChiefInsult := 'Chief, that was bold, unnecessary, and incorrect.';
+        8: ChiefInsult := 'Chief, even the PLC looked disappointed.';
+        9: ChiefInsult := 'Chief, that move had all the grace of a dropped wrench.';
+        10: ChiefInsult := 'Chief, you are making mistakes with impressive consistency.';
+    ELSE
+        ChiefInsult := 'Chief, something went wrong.';
+    END_CASE;
+
+END_IF;
+
+// Save trigger state
+Trigger_Last := Trigger;
+```
+
+>_PS: The Chief is never wrong. LOL!_
