@@ -2,12 +2,14 @@
 
 - Use RS500 programming language
 - Use MicroLogix PLC equipment
+
+![MicroLogix](Trainer-FP-Images/MicroLogix-COM-Settings.jpg)
+
 - Use the following FP equipment in lab:
     - Directional Control Valves
     - Pneumatic Actuators
     - Pressure Regulators
     - Proper hose connections
-
 
 ## SAFETY FIRST
 
