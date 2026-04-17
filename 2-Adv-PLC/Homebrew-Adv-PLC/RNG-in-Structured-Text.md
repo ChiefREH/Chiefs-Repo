@@ -9,7 +9,7 @@ Don't forget to create the TAGS!
 // temp is a DINT tag
 // seed is a DINT tag
 // randomNumber is an INT tag
-//FALSE is a BOOL tag
+
  
 // NEW RANDOM NUMBER GENERATOR
 // Assume "Generate" is a BOOL tag that controls when to generate a new random number
