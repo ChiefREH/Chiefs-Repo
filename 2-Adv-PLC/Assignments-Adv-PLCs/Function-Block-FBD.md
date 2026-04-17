@@ -4,7 +4,7 @@
 - Include stop/start controls on the HMI
 - Include lights for all directions
 
-
+![FBD](Assignments-Adv-PLC-Images/FBD-Function-Blocks.jpg)
 
 ## PARAMETERS
 
