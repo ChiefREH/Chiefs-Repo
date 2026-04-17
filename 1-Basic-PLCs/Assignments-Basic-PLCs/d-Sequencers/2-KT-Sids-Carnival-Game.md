@@ -27,4 +27,4 @@ Other instructions may be used with instructor approval.
 
 ## REFERENCE:
 
-- _There is a video on my YT channel demonstrating a 6-light carnival game in operation._
+[![Watch on YouTube](https://img.youtube.com/vi/lulZ-knfzzc/0.jpg)](https://youtu.be/lulZ-knfzzc)
