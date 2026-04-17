@@ -2,6 +2,7 @@
 
 Replicate a N-S-E-W traffic pattern using the SQO instruction.
 
+- _See the Traffic Light Outputs file in the Homebrew folder for emulated and hardware LED format._
 
 ## WORK ORDER:
 Create this traffic routine (with proper timing) using the following instructions:
