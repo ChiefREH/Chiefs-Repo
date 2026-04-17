@@ -27,4 +27,4 @@ Other instructions may be used with instructor approval.
 
 ## REFERENCE:
 
-[![Watch on YouTube](https://img.youtube.com/vi/lulZ-knfzzc/0.jpg)](https://youtu.be/lulZ-knfzzc)
+[![Watch on YouTube](https://img.youtube.com/vi/lulZ-knfzzc/0.jpg)](https://www.youtube.com/watch?v=lulZ-knfzzc)
