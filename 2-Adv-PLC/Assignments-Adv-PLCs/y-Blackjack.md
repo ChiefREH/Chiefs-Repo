@@ -9,7 +9,7 @@ Using any and all instructions, create a PLC/HMI routine to play the card game "
 - Input/logic for the Player to "stand" on their hand 
 - Logic for the Dealer to draw/receive additional cards 
     - _Must be done even if the Player already went bust!_
-- Logic for the Dealer to stand/hold on on a **17** or higher 
+- Logic for the Dealer to stand/hold on a **17** or higher 
 - Logic to "bust" both Dealer and Player if they exceed **21**
 - Logic for a "win" if the Player beats the Dealer under **21** 
 - Logic for a "win" if Dealer or Player equal **21** 
