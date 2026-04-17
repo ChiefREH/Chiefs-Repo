@@ -21,10 +21,10 @@ Using any and all instructions, create a PLC/HMI routine to play the card game "
 ## NOTE:
 - An interactive HMI is required to play this game.
     - _The HMI does not have to be in the LCARS-style_
+    - _However, the aesthetics of your HMI design is critical, so create something visually magnificent!_
 - Start with numerical information/displays to work out the logic.
     - _I recommend you do this first_
-- Display must shows **ALL** card values dealt (Player & Dealer), not just the total sum. 
-- If time allows, include graphics for all cards! 
+- Display must shows **ALL** card values dealt (Player & Dealer), not just the total sum.
  
 ## PARAMETERS:
 - Card deals must be random and NOT pre-programmed sequences!
