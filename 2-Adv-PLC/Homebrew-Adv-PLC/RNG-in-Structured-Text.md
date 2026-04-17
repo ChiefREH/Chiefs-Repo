@@ -2,7 +2,7 @@
 
 Don't forget to create the TAGS!
 
-***
+## LINEAR CONGRUENTIAL GENERATOR
 
 ```text
 // Generate is a BOOL tag
@@ -26,7 +26,7 @@ END_IF;
 
 ***
 
-## D. Cartwright's Random Number Generator Code (ST)
+## DUAL NUMBER GENERATOR
 > _Submitted by D. Cartwright, Fall '24_
 
 ```text
