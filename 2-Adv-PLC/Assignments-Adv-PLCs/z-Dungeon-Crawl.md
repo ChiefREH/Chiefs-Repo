@@ -151,31 +151,31 @@ When you land on a tile with an ENEMY creature...
 
 ## ROLLED OUTCOMES
 
-**ON A NORMAL ATTACK SUCCESS:**
+**:white_check_mark: ON A NORMAL ATTACK SUCCESS:**
 - Roll for damage. Deduct damage from Enemy total HP.
 - Continue with the encounter until one side is victorious. 
 
-**ON A CRITICAL ATTACK SUCCESS (You roll a Natural 20):**
+**:white_check_mark: ON A CRITICAL ATTACK SUCCESS (You roll a Natural 20):**
 - Deal double damage. Deduct damage from Enemy total HP.
 - Continue with the encounter until one side is victorious. 
 
-**ON A CRITICAL ATTACK FAILURE (You roll a Natural 1):**
+**:white_check_mark: ON A CRITICAL ATTACK FAILURE (You roll a Natural 1):**
 - You have dropped your weapon, dagger or burned out your spell.
 - You have no options remaining except to flee the area and maybe return another day.* 
 
-**ON A NORMAL DEFEND FAILURE:**
+**:x: ON A NORMAL DEFEND FAILURE:**
 - Suffer damage from the Enemy. Deduct damage from your HP.
 - Continue with the encounter until one side is victorious. 
 
-**ON A CRITICAL DEFEND FAILURE (Enemy rolls a Natural 20):**
+**:x: ON A CRITICAL DEFEND FAILURE (Enemy rolls a Natural 20):**
 - Suffer double damage from the Enemy. Deduct damage from your HP.
 - Continue with the encounter until one side is victorious. 
 
-**ON A CRITICAL DEFEND SUCCESS (Enemy rolls a Natural 1):**
+**:x: ON A CRITICAL DEFEND SUCCESS (Enemy rolls a Natural 1):**
 - The Enemy flees and you are safe to proceed.
 
 
-## AT 0 HP:
+## :skull: AT 0 HP:
 
 When a Player Character or Enemy Creature is reduced to zero Hit Points, they are vanquished!
 - If the Character beats the Enemy in combat, then the Player is free to continue through the dungeon.
