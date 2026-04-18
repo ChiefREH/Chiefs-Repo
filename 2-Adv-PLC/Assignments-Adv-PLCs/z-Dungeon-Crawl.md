@@ -3,6 +3,11 @@
 - **WHAT:** Simulate a dungeon crawl gaming experience using PLC and HMI lab equipment.
 - **WHY:** To simulate a large scale, data management scenario common in modern manufacturing environments.
 
+## THE OBJECTIVE
+
+- To enter, navigate and exit the dungeon before reaching zero Hit Points.
+    - _There is valuable loot at the far end of the dungeon!_
+
 
 
 ## GAME RULES
@@ -160,7 +165,15 @@ When you land on a tile with an ENEMY creature:
 
 **ON A CRITICAL DEFEND SUCCESS (Enemy rolls a Natural 1):**
 - The Enemy flees and you are safe to proceed.
- 
+
+
+## AT 0 HP:
+
+- When a Player Character or Enemy Creature is reduced to zero Hit Points, they are vanquished!
+- If the Character beats the Enemy in combat, then the Player is free to continue through the dungeon.
+- If the Character is beaten by the Enemy during combat, then the Player must roll up a new character and try again.
+
+
 ## *DEV NOTE: 
 You cannot proceed until an encounter is successfully completed. Have an option to exit the encounters, moving back the way you came. When you exit without a success, the encounter must be reset to start from the beginning, regardless of your initial progress. For a combat encounter, you must randomly generate a new creature.
 
