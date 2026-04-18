@@ -168,11 +168,9 @@ You cannot proceed until an encounter is successfully completed. Have an option 
 
 ## EXAMPLE HMI
 
-![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl1.jpg)
-
-
 ![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl3.jpg)
 
+![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl1.jpg)
 
 ![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl5.jpg)
 
