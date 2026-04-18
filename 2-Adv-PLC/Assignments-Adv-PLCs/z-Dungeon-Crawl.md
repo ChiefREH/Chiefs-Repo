@@ -21,7 +21,7 @@ To enter, navigate and exit the dungeon before reaching zero Hit Points.
 
 ## GAME RULES
 
-### Random Number Generators (RNG)
+### RANDOM NUMBER GENERATORS (RNG)
 
 Use logic to create RNG for the following dice rolls:
 - :game_die: 1d20 for your Initiative and normal Actions. 
@@ -32,7 +32,7 @@ Use logic to create RNG for the following dice rolls:
 - :game_die: :game_die: 2d20 take the highest result for Advantage. 
 - :game_die: :game_die: 2d20 take the lowest result for Disadvantage. 
  
-### Action Economy
+### ACTION ECONOMY
 
 Everyone gets ONE Action on their Turn:
 - Roll 1d20 + relevant Stat + Bonus (if any) vs DC 
@@ -90,14 +90,14 @@ Based on Player input, allocate the following data to each Class:
 Based on Player input, allocate the following data to each Class:
 
 
-**The Fighter**
+**THE FIGHTER**
 - :crossed_swords: Sword stat (+2 bonus to attack, 1d6 dmg)
 
-**The Rogue**
+**THE ROGUE**
 - :dagger: Dagger stat (no attack bonus, 1d6 dmg) 
 - :key: Lock-Pick stat (Advantage on traps, locks and doors) 
 
-**The Wizard**
+**THE WIZARD**
 - :fire: Spell (fireball, no bonus to attack, 2d6 dmg) 
 
 
@@ -141,7 +141,7 @@ Randomly Generated Creature (1-6) for Combat:
 
 When you land on a tile with an ENEMY creature...
  
-**ROLL FOR INITIATIVE:**
+**Roll for Initiative:**
 - Roll 1d20 vs DC 12 (no stats, mods or bonuses)
     - Equal to or greater than the DC, the Character goes first. 
     - Less than the DC, the Enemy goes first! 
