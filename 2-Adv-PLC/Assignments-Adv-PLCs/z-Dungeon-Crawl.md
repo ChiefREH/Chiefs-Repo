@@ -4,6 +4,14 @@
 
 **WHY:** To simulate a large scale, data management scenario common in modern manufacturing environments.
 
+
+
+### EXAMPLE DEMONSTRATION
+
+[![Watch on YouTube](https://img.youtube.com/vi/imOdkZDeAlg/0.jpg)](https://www.youtube.com/watch?v=imOdkZDeAlg)
+
+
+
 ## THE OBJECTIVE
 
 To enter, navigate and exit the dungeon before reaching zero Hit Points.
