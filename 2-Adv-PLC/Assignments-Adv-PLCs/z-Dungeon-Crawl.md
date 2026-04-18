@@ -83,14 +83,14 @@ Based on Player input, allocate the following data to each Class:
 
 
 **The Fighter**
-:crossed_swords: Sword stat (+2 bonus to attack, 1d6 dmg)
+- :crossed_swords: Sword stat (+2 bonus to attack, 1d6 dmg)
 
 **The Rogue**
-- Dagger stat (no attack bonus, 1d6 dmg) 
-- Lock-Pick stat (Advantage on traps, locks and doors) 
+- :dagger: Dagger stat (no attack bonus, 1d6 dmg) 
+- :key: Lock-Pick stat (Advantage on traps, locks and doors) 
 
 **The Mage**
-- Spell (fireball, no bonus to attack, 2d6 dmg) 
+- :fire: Spell (fireball, no bonus to attack, 2d6 dmg) 
 
 
 
