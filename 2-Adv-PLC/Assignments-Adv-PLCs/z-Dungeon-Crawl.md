@@ -2,7 +2,7 @@
 
 **WHAT:** Simulate a dungeon crawl gaming experience using PLC and HMI lab equipment.
 
-**WHY:** To simulate a large scale, data management scenario common in modern manufacturing environments.
+**WHY:** To simulate the complexity of a large scale, data management scenario common in modern manufacturing environments.
 
 
 
