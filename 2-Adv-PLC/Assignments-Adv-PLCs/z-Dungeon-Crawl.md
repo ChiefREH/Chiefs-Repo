@@ -153,9 +153,9 @@ When you land on a tile with an ENEMY creature...
 - This is good when automating the Enemy's turn, so the Player has time to see the Actions take place. 
  
 **How are you going to defeat the enemy?**
-- The FIGHTER will attack the enemy: Roll 1d20 + Physical stat + Bonus vs DC 15 
-- The ROGUE will attack the enemy: Roll 1d20 + Mental stat vs DC 15 
-- The MAGE will attack the enemy: Roll 1d20 + Mystical stat vs DC 15 
+- The :crossed_swords: FIGHTER will attack the enemy: Roll 1d20 + Physical stat + Bonus vs DC 15 
+- The :dagger: ROGUE will attack the enemy: Roll 1d20 + Mental stat vs DC 15 
+- The :fire: MAGE will attack the enemy: Roll 1d20 + Mystical stat vs DC 15 
 
 ## ROLLED OUTCOMES
 
