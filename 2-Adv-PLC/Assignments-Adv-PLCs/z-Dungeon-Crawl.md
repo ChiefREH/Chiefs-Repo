@@ -58,6 +58,15 @@ Based on Player input, allocate the following data to each Class:
 | _Requires user input_ | Mage      |      1       |     2      |      3       |   2    |
 
 
+### CHARACTER SELECTION SCREEN EXAMPLE 1
+
+![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl2.jpg)
+
+
+### CHARACTER SELECTION SCREEN EXAMPLE 2
+
+![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl4.jpg)
+
 
 ## CHARACTER INVENTORY
 
@@ -81,6 +90,10 @@ Based on Player input, allocate the following data to each Class:
 - Navigate an interactive map (boundaries & collision mechanics)
 - Character must be able to travel each square of the map.
     - **No teleportation!**
+
+### DUNGEON TILE EXAMPLE
+
+![Dungeon Tiles](Assignments-Adv-PLC-Images/Dungeon-Tiles.jpg)
 
 
 
@@ -157,11 +170,9 @@ You cannot proceed until an encounter is successfully completed. Have an option 
 
 ![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl1.jpg)
 
-![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl2.jpg)
 
 ![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl3.jpg)
 
-![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl4.jpg)
 
 ![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl5.jpg)
 
@@ -186,7 +197,7 @@ https://youtu.be/GQgHSX2tof4?si=WCkMzTZZxa68seTR
 
 
 ## FINAL PROJECT NOTES
-** A PDF copy of all .ACD files (with YOUR name) will be provided to the instructor for review. Failure to produce a copy by the deadline will result in an automatic 0 for the entire assignment. No exceptions.
+A PDF copy of all .ACD files (with YOUR name) will be provided to the instructor for review. Failure to produce a copy **before the deadline** will result in an automatic 0 for the entire assignment. No exceptions.
  
 And remember, Chief will **almost always** play the game as a MAGE…
 
