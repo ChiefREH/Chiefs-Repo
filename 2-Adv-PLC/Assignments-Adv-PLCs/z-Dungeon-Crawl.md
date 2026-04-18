@@ -83,7 +83,7 @@ Based on Player input, allocate the following data to each Class:
 
 
 **The Fighter**
-- Sword stat (+2 bonus to attack, 1d6 dmg)
+- :crossed_swords: Sword stat (+2 bonus to attack, 1d6 dmg)
 
 **The Rogue**
 - Dagger stat (no attack bonus, 1d6 dmg) 
