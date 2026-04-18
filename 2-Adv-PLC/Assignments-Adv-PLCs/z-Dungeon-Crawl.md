@@ -21,7 +21,7 @@ To enter, navigate and exit the dungeon before reaching zero Hit Points.
 
 ## GAME RULES
 
-**Random Number Generators (RNG)**
+### Random Number Generators (RNG)
 
 Use logic to create RNG for the following dice rolls:
 - :game_die: 1d20 for your Initiative and normal Actions. 
@@ -32,7 +32,7 @@ Use logic to create RNG for the following dice rolls:
 - :game_die: :game_die: 2d20 take the highest result for Advantage. 
 - :game_die: :game_die: 2d20 take the lowest result for Disadvantage. 
  
-**Action Economy**
+### Action Economy
 
 Everyone gets ONE Action on their Turn:
 - Roll 1d20 + relevant Stat + Bonus (if any) vs DC 
