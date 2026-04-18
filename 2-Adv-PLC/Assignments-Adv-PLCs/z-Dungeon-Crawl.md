@@ -47,7 +47,7 @@ Create an interface for Player Class selection based on the following three choi
 
 - Fighter :crossed_swords:
 - Rogue :dagger:
-- Mage :fire:
+- Wizard :fire:
 
 Use navigation and popup screens as needed
 
@@ -72,7 +72,7 @@ Based on Player input, allocate the following data to each Class:
 | --------------------- | --------- | :----------: | :--------: | :----------: | :----: |
 | _Requires user input_ | Fighter   |      3       |     1      |      0       |   6    |
 | _Requires user input_ | Rogue     |      2       |     3      |      2       |   4    |
-| _Requires user input_ | Mage      |      1       |     2      |      3       |   2    |
+| _Requires user input_ | Wizard    |      1       |     2      |      3       |   2    |
 
 
 ### CHARACTER SELECTION SCREEN EXAMPLE 1
@@ -97,7 +97,7 @@ Based on Player input, allocate the following data to each Class:
 - :dagger: Dagger stat (no attack bonus, 1d6 dmg) 
 - :key: Lock-Pick stat (Advantage on traps, locks and doors) 
 
-**The Mage**
+**The Wizard**
 - :fire: Spell (fireball, no bonus to attack, 2d6 dmg) 
 
 
@@ -155,7 +155,7 @@ When you land on a tile with an ENEMY creature...
 **How are you going to defeat the enemy?**
 - The :crossed_swords: FIGHTER will attack the enemy: Roll 1d20 + Physical stat + Bonus vs DC 15 
 - The :dagger: ROGUE will attack the enemy: Roll 1d20 + Mental stat vs DC 15 
-- The :fire: MAGE will attack the enemy: Roll 1d20 + Mystical stat vs DC 15 
+- The :fire: WIZARD will attack the enemy: Roll 1d20 + Mystical stat vs DC 15 
 
 ## ROLLED OUTCOMES
 
@@ -232,7 +232,7 @@ https://youtu.be/GQgHSX2tof4?si=WCkMzTZZxa68seTR
 ## FINAL PROJECT NOTES
 A PDF copy of all .ACD files (with YOUR name) will be provided to the instructor for review. Failure to produce a copy **before the deadline** will result in an automatic 0 for the entire assignment. No exceptions.
  
-And remember, Chief will **almost always** play the game as a MAGE…
+And remember, Chief will **almost always** play the game as a Wizard…
 
 
 
