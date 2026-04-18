@@ -181,7 +181,7 @@ You cannot proceed until an encounter is successfully completed. Have an option 
 ## GAME EXAMPLES FOR INSPIRATION
 
 
-Rogue-lite is a variation of the Rogue video game from the 1980's
+Rogue-lite is a variation of the Rogue video game from the 1980's:
 
 https://en.wikipedia.org/wiki/Rogue_(video_game)
  
