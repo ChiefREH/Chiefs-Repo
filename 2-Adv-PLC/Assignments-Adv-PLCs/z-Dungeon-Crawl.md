@@ -118,14 +118,14 @@ Randomly Generated Creature (1-6) for Combat:
 - Attack Damage (fixed value, no attack RNG) 
 
    
-| **ROLL** | **ENEMY TYPE** | **HP** | **DMG** |
-| :------: | :------------- | :----: | :-----: |
-|    1     | AI ROBOT       |   10   |    2    |
-|    2     | MUTANT BEAR    |   8    |    2    |
-|    3     | MUTANT DOG     |   4    |    1    |
-|    4     | MUTANT SNAKE   |   4    |    1    |
-|    5     | MUTANT SPIDER  |   6    |    2    |
-|    6     | MUTANT ZOMBIE  |   3    |    1    |
+| **ROLL** | **ENEMY TYPE**        | **HP** | **DMG** |
+| :------: | :-------------------- | :----: | :-----: |
+|    1     | :robot: AI ROBOT      |   10   |    2    |
+|    2     | :bear: MUTANT BEAR    |   8    |    2    |
+|    3     | :dog: MUTANT DOG      |   4    |    1    |
+|    4     | :snake: MUTANT SNAKE  |   4    |    1    |
+|    5     | :spider: MUTANT SPIDER|   6    |    2    |
+|    6     | :zombie: MUTANT ZOMBIE|   3    |    1    |
 
 
 
