@@ -7,7 +7,7 @@
 ## THE OBJECTIVE
 
 To enter, navigate and exit the dungeon before reaching zero Hit Points.
-- _There is valuable loot at the far end of the dungeon!_
+- _There is valuable loot at the far end of the dungeon!_ :gem:
 
 
 
