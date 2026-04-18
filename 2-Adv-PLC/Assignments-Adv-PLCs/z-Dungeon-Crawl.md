@@ -45,9 +45,9 @@ Everyone gets ONE Action on their Turn:
 
 Create an interface for Player Class selection based on the following three choices:
 
-- Fighter 
-- Rogue 
-- Mage 
+- Fighter :crossed_swords:
+- Rogue :dagger:
+- Mage :fire:
 
 Use navigation and popup screens as needed
 
