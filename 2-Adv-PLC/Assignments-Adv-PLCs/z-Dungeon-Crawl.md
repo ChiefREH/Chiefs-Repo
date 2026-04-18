@@ -205,7 +205,7 @@ You cannot proceed until an encounter is successfully completed. Have an option 
 
 
 
-## GRADING
+## :moneybag: GRADING
 
 This is a visual design project as much as it is a logic project. Take your time and create something visually stunning, because the aesthetics matter a great deal regarding your final grade.
 
