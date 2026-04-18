@@ -228,4 +228,4 @@ And remember, Chief will **almost always** play the game as a MAGE…
 
 
 
-_"IN GYGAX WE TRUST"_
+:game_die: _"IN GYGAX WE TRUST"_ :game_die:
