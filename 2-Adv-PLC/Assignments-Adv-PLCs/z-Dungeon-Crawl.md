@@ -1,18 +1,21 @@
 # PROJECT: DUNGEON CRAWL
 
-- **WHAT:** Simulate a dungeon crawl gaming experience using PLC and HMI lab equipment.
-- **WHY:** To simulate a large scale, data management scenario common in modern manufacturing environments.
+**WHAT:** Simulate a dungeon crawl gaming experience using PLC and HMI lab equipment.
+
+**WHY:** To simulate a large scale, data management scenario common in modern manufacturing environments.
 
 ## THE OBJECTIVE
 
-- To enter, navigate and exit the dungeon before reaching zero Hit Points.
-    - _There is valuable loot at the far end of the dungeon!_
+To enter, navigate and exit the dungeon before reaching zero Hit Points.
+- _There is valuable loot at the far end of the dungeon!_
 
 
 
 ## GAME RULES
 
 **Random Number Generators (RNG)**
+
+Use logic to create RNG for the following dice rolls:
 - 1d20 for your Initiative and normal Actions. 
 - 1d6 for your Damage rolls. 
     - Enemies have a fixed damage value. No RNG needed. 
@@ -22,10 +25,11 @@
 - 2d20 take the lowest result for Disadvantage. 
  
 **Action Economy**
-- Everyone gets ONE Action on their Turn 
+
+Everyone gets ONE Action on their Turn:
 - Roll 1d20 + relevant Stat + Bonus (if any) vs DC 
-    - If your total is equal to or greater than the DC, you SUCCEED with the Action. 
-    - If your total is less than the DC, you FAIL at the Action. 
+    - If your total is equal to or greater than the DC, you **SUCCEED** with the Action. 
+    - If your total is less than the DC, you **FAIL** at the Action. 
 
 
 
@@ -92,9 +96,13 @@ Based on Player input, allocate the following data to each Class:
 
 ## MAP & MOVEMENT
 
-- Navigate an interactive map (boundaries & collision mechanics)
-- Character must be able to travel each square of the map.
+Navigate the dungeon terrain using an interactive map:
+- Characters must be able to travel each square of the map.
+- Characters may only move one square/tile at a time.
     - **No teleportation!**
+- There will be no straight line dungeon maps!
+    - Maps are like mazes, so plan accordingly.
+
 
 ### DUNGEON TILE EXAMPLE
 
@@ -123,7 +131,7 @@ Randomly Generated Creature (1-6) for Combat:
 
 ## COMBAT ENCOUNTER
 
-When you land on a tile with an ENEMY creature:
+When you land on a tile with an ENEMY creature...
  
 **ROLL FOR INITIATIVE:**
 - Roll 1d20 vs DC 12 (no stats, mods or bonuses)
@@ -169,7 +177,7 @@ When you land on a tile with an ENEMY creature:
 
 ## AT 0 HP:
 
-- When a Player Character or Enemy Creature is reduced to zero Hit Points, they are vanquished!
+When a Player Character or Enemy Creature is reduced to zero Hit Points, they are vanquished!
 - If the Character beats the Enemy in combat, then the Player is free to continue through the dungeon.
 - If the Character is beaten by the Enemy during combat, then the Player must roll up a new character and try again.
 
@@ -188,6 +196,12 @@ You cannot proceed until an encounter is successfully completed. Have an option 
 ![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl5.jpg)
 
 
+
+## GRADING
+
+This is a visual design project as much as it is a logic project. Take your time and create something visually stunning, because the aesthetics matter a great deal regarding your final grade.
+
+- _I want WotC designers to weep with jealousy!_
 
 ## GAME EXAMPLES FOR INSPIRATION
 
