@@ -25,8 +25,8 @@ To enter, navigate and exit the dungeon before reaching zero Hit Points.
 
 Use logic to create RNG for the following dice rolls:
 - :game_die: 1d20 for your Initiative and normal Actions.
-- :game_die: :game_die: 2d20 take the highest result for Advantage. 
-- :game_die: :game_die: 2d20 take the lowest result for Disadvantage.
+- :game_die: :game_die: 2d20 take the **highest** result for Advantage. 
+- :game_die: :game_die: 2d20 take the **lowest** result for Disadvantage.
 - :game_die: 1d6 for your Melee Attack Damage.
 - :game_die: :game_die: 2d6 for your Spell Damage. 
     - Enemies have a fixed damage value. No RNG needed. 
