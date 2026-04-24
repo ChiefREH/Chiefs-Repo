@@ -170,7 +170,11 @@ When you land on a tile with an ENEMY creature...
 - Deal double damage. Deduct damage from Enemy total HP.
 - Continue with the encounter until one side is victorious. 
 
-**:white_check_mark: ON A CRITICAL ATTACK FAILURE (You roll a Natural 1):**
+**:white_check_mark: ON A CRITICAL DEFEND SUCCESS (Enemy rolls a Natural 1):**
+- The Enemy flees and you are safe to proceed.
+
+
+**:x: ON A CRITICAL ATTACK FAILURE (You roll a Natural 1):**
 - You have dropped your weapon, dagger or burned out your spell.
 - You have no options remaining except to flee the area and maybe return another day.* 
 
@@ -181,9 +185,6 @@ When you land on a tile with an ENEMY creature...
 **:x: ON A CRITICAL DEFEND FAILURE (Enemy rolls a Natural 20):**
 - Suffer double damage from the Enemy. Deduct damage from your HP.
 - Continue with the encounter until one side is victorious. 
-
-**:x: ON A CRITICAL DEFEND SUCCESS (Enemy rolls a Natural 1):**
-- The Enemy flees and you are safe to proceed.
 
 
 ## :skull: AT 0 HP:
