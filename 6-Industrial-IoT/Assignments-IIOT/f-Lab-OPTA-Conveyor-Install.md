@@ -17,10 +17,8 @@
     - MQTT monitoring
 - Modify the User Pushbutton to act as an emergency stop only (no toggle)
 
-## WIRING EXAMPLES
+## WIRING EXAMPLE
 
 ### Example 1
 ![OPTA + ESP32](Assignments-IIOT-Images/Opta-ESP32-1.jpg)
 
-### Example 2
-![OPTA + ESP32](Assignments-IIOT-Images/Opta-ESP32-2.jpg)

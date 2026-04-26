@@ -12,6 +12,9 @@
 
 ## Sketch 2
 
-- Code to operate the conveyor motor relay via MQTT messages/Node-Red
-    - Run each motor for 5 seconds, then stop
+- Code to trigger the OPTA via MQTT messages/Node-Red
+    - Run each conveyor motor for 5 seconds, then stop
 - Modify the User Pushbutton to act as an emergency stop only (no toggle)
+
+## OPTA + ESP32 CONFIG
+![OPTA + ESP32](Assignments-IIOT-Images/Opta-ESP32-2.jpg)

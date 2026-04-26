@@ -8,3 +8,7 @@ Requires:
 - ESP32 with proper sketch and libraries included
 
 ![ESP32 Sensors](Homebrew-IIOT-Images/Sensor-ESP32-Wiring.png)
+
+## SENSOR + GRIPPER CONFIG
+
+![text](Homebrew-IIOT-Images/IIOT-Sensor-Lego.jpg)
