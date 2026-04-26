@@ -44,7 +44,3 @@ Perform installation of all necessary hardware (if required):
 - Schematics must be legible. No crayon drawings will be accepted. 
 
 ### SAFETY IN THE LAB IS PARAMOUNT. NO EXCEPTIONS.
-
-## REFERENCE:
-
-[![Watch on YouTube](https://img.youtube.com/vi/4p3hotOA6Vs/0.jpg)](https://www.youtube.com/watch?v=4p3hotOA6Vs)
