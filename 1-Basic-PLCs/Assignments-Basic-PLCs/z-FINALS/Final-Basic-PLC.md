@@ -29,7 +29,7 @@ No SQO instructions are permitted.
 - Only 1 letter will be "on screen" at a time (first 16 bits)
 - Next letter won't start until the last is pushed "off screen"
 
-There will not be whole words on the I/O, only single letters that stream
+There will be no whole words on the I/O, only single letters that stream
 
 
 ## PARAMETERS:
