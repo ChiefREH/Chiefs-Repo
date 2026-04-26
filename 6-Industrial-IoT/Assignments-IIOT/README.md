@@ -1,3 +1,7 @@
 # INDUSTRIAL INTERNET OF THINGS (IIOT)
 
-- I will populate this section with Assignments as I continue to develop the strategy.
+- Wire together different components
+- Give them WiFi capability
+- Make them talk to each other!
+
+![Conveyors](Assignments-IIOT-Images/IIOT-Conveyors.jpg)
