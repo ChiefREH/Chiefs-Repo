@@ -14,19 +14,26 @@ Create a Bit Shift routine using any of the following instructions:
 - COMPARISON instructions 
 - Properly created ARRAY(s) 
 
-## PROGRAMMING TIP: 
+## PROGRAMMING HINT: 
 Think of it as 3 separate steps:
 1. Use a BSL to shift four 1s all the way down
 2. Use a BSR to shift 0s all the way up
 3. Use another BSL to shift 0s back down
-- Repeat 2 and 3
+
+Repeat 2 and 3
 
 
 ## NOTES:
-- "The KITT" sweeping sensor must be **4 bits wide** 
-- The bits must feed into the "screen" 1 bit at a time and not "pop" into existence 
+- The **"K.I.T.T."** sweeping effect must be **4 bits wide** 
+- The bits must feed into the "screen" 1 bit at a time and not "pop" into existence all at once!
 - The routine will operate using SEAL-IN circuit logic. 
-- In the lab, this will be aliased to a physical Push Button. 
+    - In the lab, this will be aliased to a physical Push Button. 
 - Once started, the routine must continually loop 
 
 *Proper rung documentation is mandatory.
+
+## KNIGHT RIDER (1982 TV Series)
+
+[_Knight Rider_ TV series link on Wikipedia](https://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series))
+
+![KITT](../0-Assignment-Basic-PLC-Images/Knight_Rider_KITT.png)
