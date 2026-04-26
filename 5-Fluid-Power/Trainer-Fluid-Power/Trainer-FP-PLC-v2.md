@@ -24,15 +24,15 @@ If we have parts and time:
 The following criteria must be met:
 - Control routine must operate in a continuous loop ("extend - pause - retract - pause") 
 - For a Two Cylinder Sequence: 
-    - cylinder 1 extend 
-    - pause 2 sec 
-    - cylinder 2 extend 
-    - pause 2 sec 
-    - cylinder 1 retract 
-    - pause 2 sec 
-    - cylinder 2 retract 
-    - pause 2 sec 
-    - goto step 1 
+    1. cylinder 1 extend 
+    2. pause 2 sec 
+    3. cylinder 2 extend 
+    4. pause 2 sec 
+    5. cylinder 1 retract 
+    6. pause 2 sec 
+    7. cylinder 2 retract 
+    8. pause 2 sec 
+    9. goto step 1 
 
 ## INSTALLATION:
 
