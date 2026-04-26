@@ -40,3 +40,10 @@ There will be no whole words on the I/O, only single letters that stream
 - Requires properly configured I/O modules for visual feedback (emulated and lab).
 
 *Proper rung documentation is mandatory.
+
+## VIDEO DEMONSTRATION:
+
+- Random letters at first, then "S.O.S." second.
+- This is a representation of the concept, not the actual assignment listed above.
+
+[![Watch the video](https://img.youtube.com/vi/keQ53TRdm9I/maxresdefault.jpg)](https://youtu.be/keQ53TRdm9I)
