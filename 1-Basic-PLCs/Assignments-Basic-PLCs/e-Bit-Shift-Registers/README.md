@@ -6,6 +6,7 @@
 
 How do they differ?
 
+## LAB:
 
 Use the push-button wiring from the previous assignment
 - N.O. to set the Source bit to 1/0 (on/off) 
