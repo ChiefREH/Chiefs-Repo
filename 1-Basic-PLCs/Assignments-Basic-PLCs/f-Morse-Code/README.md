@@ -12,6 +12,7 @@ We will use the following translation for our programming:
 - Next letter won't start until the last is pushed "off screen"
 - There will not be whole words on the I/O, only single letters that stream
 
+
 ## REFERENCE
 
 [Morse Code on Wikipedia](https://en.wikipedia.org/wiki/Morse_code)

@@ -1,3 +1,4 @@
 # FINAL EXAM
 
-- TBD
+- Morse Code automated ticker
+    - See the Assignment for more details
