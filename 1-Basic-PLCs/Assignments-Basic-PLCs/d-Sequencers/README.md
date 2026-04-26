@@ -1,5 +1,17 @@
 # SEQUENCER OUTPUT INSTRUCTION
 
+## INSTRUCTION TAGS:
+
+- **ARRAY:** The "storage" we are pulling from
+- **MASK:** Acts as a "filter" for bit positions
+- **DEST:** The destination tag you are sending data to
+- **CONTROL:**
+    - **Length (.LEN):** How many elements in the array
+    - **Position (.POS):** Current position in the array 
+
+
+## NOTE:
+
 Notice how the SQO does not return to 0 when it loops around.
 - Can we create some logic to fix this? 
 - How convoluted is that logic?
@@ -7,7 +19,7 @@ Notice how the SQO does not return to 0 when it loops around.
 
 Can you use an INT instead of a DINT for the Array data structure?
 
-## DEMONSTRATION:
+## DEMO TASK:
 
 Stack ones in Storage[16]:
 
