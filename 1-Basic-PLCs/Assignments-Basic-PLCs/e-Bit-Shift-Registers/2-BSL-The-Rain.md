@@ -1,4 +1,4 @@
-# BSL ASSIGNMENT - "THE DRIP"
+# BSL ASSIGNMENT - "THE RAIN"
 
 Create an automated Bit Shift routine using the following instructions:
 - All necessary XIC, XIO, OTE and/or ONS as needed. 
@@ -6,8 +6,11 @@ Create an automated Bit Shift routine using the following instructions:
 - CTU - COUNTER instructions as needed. 
 - BSL - BIT SHIFT LEFT instructions as needed. 
 - MOV - MOVE instructions as needed. 
-- Any COMPARISON instructions as needed 
+- Any COMPARISON instructions as needed.
     - _To control the Source Bit and activate a RES/CLR?_
+- COP - COPY instructions as needed.
+- RED - RESET instructions as needed.
+- CLR - CLEAR instructions as needed.
 - Properly created Array(s) as needed. 
 
 

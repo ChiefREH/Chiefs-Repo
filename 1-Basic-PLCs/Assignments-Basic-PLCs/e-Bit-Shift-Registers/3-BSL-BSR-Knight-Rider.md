@@ -7,9 +7,10 @@ Create a Bit Shift routine using any of the following instructions:
 - ONS - ONE-SHOT instructions 
 - BSL - BIT SHIFT LEFT instructions 
 - BSR - BIT SHIFT RIGHT instructions 
-- MOV - MOVE instructions 
+- MOV - MOVE instructions
+- COP - COPY instructions
 - RES - RESET instructions 
-- CLR - CLEAR instructions 
+- CLR - CLEAR instructions
 - COMPARISON instructions 
 - Properly created ARRAY(s) 
 
