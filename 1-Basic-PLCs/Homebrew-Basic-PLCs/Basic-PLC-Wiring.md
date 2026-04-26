@@ -1,4 +1,4 @@
-# BASIC PLC WIRING IN LAB
+# BASIC PLC WIRING LAB
 
 ![PLC Wiring](Homebrew-Basic-PLC-Images/Basic-PLC-Wiring.png)
 
@@ -7,4 +7,5 @@
 - Use terminal blocks (TBs) as needed
 - Do **not** make wiring connections with equipment energized.
     - LOTO is required.
-- Lab safety is non-negotiable.
+
+### Lab safety is non-negotiable.
