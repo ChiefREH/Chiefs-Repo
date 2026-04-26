@@ -13,6 +13,7 @@
 ## ADVANCED SETTINGS
 - Set the Ethernet Mode to STATIC
 - Manually enter the IP address
+- May require cycling of power
 
 ![MLX-IP-Config](Trainer-FP-Images/MLX-IP-Config-3.jpg)
 
