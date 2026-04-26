@@ -8,3 +8,9 @@
     - Overall runtime for entire process
 - This data will help determine areas for improvement
     - _Remember: Time is money!_
+
+### STARTING POINT
+![IIOT-Finish](Assignments-IIOT-Images/IIOT-Conveyor-1.jpg)
+
+### END POINT
+![IIOT-Finish](Assignments-IIOT-Images/IIOT-Conveyor-2.jpg)
