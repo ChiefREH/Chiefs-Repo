@@ -1,6 +1,6 @@
 # MORSE CODE
 
-We will use the following translation ror our programming:
+We will use the following translation for our programming:
 
 - The length of a single dot is one unit, represented by **1 OUTPUT LED**
 - A dash is three units, represented by **3 OUTPUT LEDs**
