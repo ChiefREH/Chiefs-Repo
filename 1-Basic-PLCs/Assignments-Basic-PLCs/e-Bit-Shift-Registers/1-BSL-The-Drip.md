@@ -10,7 +10,7 @@ Create an automated Bit Shift routine using the following instructions:
 - Any COMPARISON instructions as needed 
     - _To control the Source Bit and activate a RES/CLR?_
 - COP - COPY instructions as needed.
-- RED - RESET instructions as needed.
+- RES - RESET instructions as needed.
 - CLR - CLEAR instructions as needed.
 - Properly created Array(s) as needed. 
 
