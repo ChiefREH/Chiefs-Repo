@@ -16,6 +16,7 @@ Create an automated Bit Shift routine using the following instructions:
 
 ## PARAMETERS:
 
+- SQO instructions are not permitted.
 - "The Rain" must **alternate** every other LED on/off. 
 - The routine must **"shift out"** all the rain once the I/O is **"full"**.
 - The routine will operate using SEAL-IN circuit logic. 
