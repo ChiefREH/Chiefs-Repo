@@ -2,6 +2,7 @@
 
 - The Inputs of the OPTA only accept 0-10 VDC
 - Applying 24 VDC may damage the unit
+    - We'll use an ESP32 + MQTT messaging wired to the Sensors to overcome this limitation
 
 [Link to official Arduino OPTA documentation](https://docs.arduino.cc/hardware/opta/)
 
