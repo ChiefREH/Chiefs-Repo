@@ -16,6 +16,7 @@ If time permits, we shall include:
 
 ## NOTE:
 
+- This list represents the minimum specifications required.
 - You may be tasked with additional components/programming.
 - Use the minimum supply pressure to achieve the desired operation.
 

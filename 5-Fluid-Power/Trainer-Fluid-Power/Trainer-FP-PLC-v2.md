@@ -16,23 +16,24 @@ If we have parts and time:
 
 ## NOTE:
 
-- This list represents the minimum specifications required.
 - You may be tasked with additional components/programming.
+- Use the minimum supply pressure to achieve the desired operation.
 
 ## PARAMETERS:
 
 The following criteria must be met:
 - Control routine must operate in a continuous loop ("extend - pause - retract - pause") 
-- For a Two Cylinder Sequence: 
-    1. cylinder 1 extend 
-    2. pause 2 sec 
-    3. cylinder 2 extend 
-    4. pause 2 sec 
-    5. cylinder 1 retract 
-    6. pause 2 sec 
-    7. cylinder 2 retract 
-    8. pause 2 sec 
-    9. goto step 1 
+
+For a Two Cylinder Sequence: 
+1. cylinder 1 extend 
+2. pause 2 sec 
+3. cylinder 2 extend 
+4. pause 2 sec 
+5. cylinder 1 retract 
+6. pause 2 sec 
+7. cylinder 2 retract 
+8. pause 2 sec 
+9. goto step 1 
 
 ## INSTALLATION:
 
