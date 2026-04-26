@@ -20,11 +20,17 @@ Use the following instructions as needed:
 - Properly created ARRAY(s)
 - Direct and/or Indirect Addressing (Index)
 
+No SQO instructions are permitted.
+
 ## SPECIFICATIONS:
 
 - Bits must "stream" into the IO LEDs 1 letter at a time.
-- Bits must "stream" into the IO LEDs, not just "pop" into existence!
-- No SQO instructions are permitted.
+    - Bits cannot just "pop" into existence!
+- Only 1 letter will be "on screen" at a time (first 16 bits)
+- Next letter won't start until the last is pushed "off screen"
+
+There will not be whole words on the I/O, only single letters that stream
+
 
 ## PARAMETERS:
 
