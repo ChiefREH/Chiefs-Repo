@@ -1,7 +1,5 @@
 # BSL ASSIGNMENT - "THE DRIP"
 
-## CODE:
-
 Create an automated Bit Shift routine using the following instructions:
 - All necessary XIC, XIO, OTE and/or ONS as needed. 
 - TON - TIMER instructions as needed. 
