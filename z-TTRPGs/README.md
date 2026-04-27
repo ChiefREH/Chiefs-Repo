@@ -13,25 +13,25 @@ A simple list of resources for my gamers!
 Everything is free and open source, with enough material for "old school" play that will last you 5 years easy.
 More PDfs than you can shake a stick at. It's so good, I bought the hard-cover for 3rd edition.
 
-Internet Archive
-https://archive.org/
+[Internet Archive](https://archive.org/)
+
 They have PDFs (many are free) that you can download. Excellent for original DND content (like Greyhawk)
 
-Mork Borg
-https://morkborg.com/content/
-They have laods of free material for gritty adventures
+[Mork Borg](https://morkborg.com/content/)
+
+They have loads of free material for gritty adventures
 They also have a Cyberpunk version called "Cy_Borg" that's brutal
 
-OpenD6
-http://opend6.wikidot.com/start
+[OpenD6](http://opend6.wikidot.com/start)
+
 The have books for Space, Fantasy, and Adventure.  All free!
 
-Dominion Rules
-https://dominionrules.org/
+[Dominion Rules](https://dominionrules.org/)
+
 This was the first RPG book that I purchased. Old school feel. Watch Me, Myself and Die play this system online.
 
-Star Wars 5e
-https://sw5e.com/
+[Star Wars 5e](https://sw5e.com/)
+
 A version of DND 5e that is converted to the SW universe.  Very cool IMO!
 
 
