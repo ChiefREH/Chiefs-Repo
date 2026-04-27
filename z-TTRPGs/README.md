@@ -39,12 +39,11 @@ A version of DND 5e that is converted to the SW universe.  Very cool IMO!
 
 ## VTT - VIRTUAL TABLETOPS
 
-Owlbear Rodeo
-https://www.owlbear.rodeo/
+[Owlbear Rodeo](https://www.owlbear.rodeo/)
+
 Since you're just getting started with online play, this is probably the best option (free)
 
-Alchemy RPG
-https://alchemyrpg.com/
+[Alchemy RPG](https://alchemyrpg.com/)
 Never used, but people seem to like it...
 
 
@@ -52,10 +51,11 @@ Never used, but people seem to like it...
 
 ## YOUTUBE CHANNELS
 
-Me, Myself and Die for 4 seasons of SOLO play (this channel motivated me!)
-Dungeon Craft with Professor DM
-Questing Beast for ttrpg reviews
-Agranak Studios for guidance
-DnD Shorts for builds
-Tenkar's Tavern for OSR reviews
-Tabletop Bro for Dungeon World commentary
+- Me, Myself and Die for 4 seasons of SOLO play
+    - _this channel motivated me to create my own RPG_
+- Dungeon Craft with Professor DM
+- Questing Beast for ttrpg reviews
+- Agranak Studios for guidance
+- DnD Shorts for builds
+- Tenkar's Tavern for OSR reviews
+- Tabletop Bro for Dungeon World commentary
