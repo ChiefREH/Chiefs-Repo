@@ -4,7 +4,14 @@
 - Bit Shift Left
 - Bit Shift Right
 
-How do they differ?
+
+## INSTRUCTION TAGS
+
+- **ARRAY:** The "storage" DINT we are shifting
+- **CONTROL:** The control structure for the operation
+    - **Length (.LEN):** Number of bits in the array to shift
+- **SOURCE BIT:** The bit we shift into the vacated position
+
 
 ## LAB:
 
