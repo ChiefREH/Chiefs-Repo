@@ -11,7 +11,8 @@
 - **CONTROL:** The control structure for the operation
     - **Length (.LEN):** Number of bits in the array to shift
 - **SOURCE BIT:** The bit we shift into the vacated position
-
+    - It's shifting in a "1" or a "0" to the left
+    - Everything shifts to the left!
 
 ## LAB:
 
