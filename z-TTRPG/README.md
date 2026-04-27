@@ -50,7 +50,7 @@ Never used, but people seem to like it...
 
 
 
-## YouTube CHANNELS
+## YOUTUBE CHANNELS
 
 Me, Myself and Die for 4 seasons of SOLO play (this channel motivated me!)
 Dungeon Craft with Professor DM
