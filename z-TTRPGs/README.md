@@ -35,6 +35,9 @@ This was the first RPG book that I purchased. Old school feel. Watch Trevor Deva
 
 A version of DND 5e that is converted to the SW universe.  Very cool IMO!
 
+### [FATE SRD](https://fate-srd.com/)
+
+Free System Resource Documents (SRD) from Evil Hat Productions. Narrative focused and setting neutral, you can be anything you can imagine!
 
 
 
