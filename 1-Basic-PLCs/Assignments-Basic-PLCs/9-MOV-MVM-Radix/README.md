@@ -5,6 +5,7 @@
 - COP can move multiple elements of a tag
     - Useful when dealing with arrays
 - MVM uses a "mask" to filter out certain bits from Source to Destination
+    - _we will always set this tag to "-1"_
 - RADIX is the style that information is displayed:
     - Decimal format
     - Binary format
