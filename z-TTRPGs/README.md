@@ -4,12 +4,12 @@ A simple list of resources for my gamers!
 
 ## FREE PDFs
 
-Without Numbers by Sine Nome Publishing
-https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition
-- "Worlds/Stars/Cities/Ashes without Number" - a fantastic set of books that have everything you would need for YEARS of gameplay.
+[Without Numbers by Sine Nome Publishing](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition)
 
-Basic Fantasy RPG
-https://www.basicfantasy.org/
+"Worlds/Stars/Cities/Ashes without Number" - a fantastic set of books that have everything you would need for YEARS of gameplay.
+
+[Basic Fantasy RPG](https://www.basicfantasy.org/)
+
 Everything is free and open source, with enough material for "old school" play that will last you 5 years easy.
 More PDfs than you can shake a stick at. It's so good, I bought the hard-cover for 3rd edition.
 
