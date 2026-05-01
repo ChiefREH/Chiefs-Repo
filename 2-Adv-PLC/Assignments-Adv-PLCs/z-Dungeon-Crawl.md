@@ -1,4 +1,4 @@
-# PROJECT: DUNGEON CRAWL
+# PROJECT: DUNGEON CRAWL v1.0
 
 **WHAT:** Simulate a dungeon crawl gaming experience using PLC and HMI lab equipment.
 
