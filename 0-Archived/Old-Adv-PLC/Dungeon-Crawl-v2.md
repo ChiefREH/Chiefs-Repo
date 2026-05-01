@@ -6,3 +6,5 @@
 
 
 - :key: Lock-Pick stat (Advantage on traps, locks and doors) 
+
+ENEMIES have a unique DC

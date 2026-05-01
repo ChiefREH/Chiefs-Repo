@@ -20,7 +20,7 @@ To enter, navigate and exit the dungeon before reaching zero Hit Points.
 
 # MILESTONES
 
-The following tasks will be graded on daily basis to ensure you are keep pace with the project deadline.
+The following tasks will be graded on daily basis to ensure you are keeping pace with the projected timeline.
 
 ## RANDOM NUMBER GENERATORS (RNG)
 
@@ -94,9 +94,10 @@ Based on Player input, allocate the following data to each Class:
 **THE WIZARD**
 - :fire: Spell (fireball, no bonus to attack, 2d6 dmg) 
 
+***
+***
 
-
-## MAP & MOVEMENT
+# MAP & MOVEMENT
 
 Navigate the dungeon terrain using an interactive map:
 - Characters must be able to travel each square of the map.
@@ -140,18 +141,18 @@ Everyone gets **ONE Action** on their Turn:
 
 
 ## COMBAT ENCOUNTER
-When you land on a tile with an ENEMY creature...
+When you **land on a tile** with an ENEMY creature...
  
 **Roll for Initiative:**
 - Roll 1d20 vs DC 12 (no stats, mods or bonuses)
-    - Equal to or greater than the DC, the Character goes first. 
-    - Less than the DC, the Enemy goes first! 
+    - **Equal to or greater** than the DC, the Character goes first. 
+    - **Less than** the DC, the Enemy goes first! 
  
 **Each side gets ONE Action:**
-- Enemies will always ATTACK v. DC 15 (automated)
+- Enemies will always ATTACK v. **DC 15** (automated)
 - Characters always have the option to leave on their turn.* 
 - A normal Action in combat is 6 seconds in length. 
-- This is good when automating the Enemy's turn, so the Player has time to see the Actions take place. 
+    - This is good when automating the Enemy's turn, so the Player has time to see the Actions take place. 
  
 **How are you going to defeat the enemy?**
 - The :crossed_swords: FIGHTER will attack the enemy: Roll 1d20 + Physical stat + Bonus vs DC 15 
