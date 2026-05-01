@@ -130,10 +130,8 @@ Randomly Generated Creature (1-6) for Combat:
 
 
 
-# 4. COMBAT
+# 4. COMBAT ENCOUNTERS
 
-
-## COMBAT ENCOUNTER
 When you **land on a tile** with an ENEMY creature...
  
 ### Roll for Initiative:
