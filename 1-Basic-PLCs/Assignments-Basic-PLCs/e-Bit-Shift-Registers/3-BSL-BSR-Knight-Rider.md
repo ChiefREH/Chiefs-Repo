@@ -27,7 +27,7 @@ Repeat 2 and 3
 
 - SQO instructions are not permitted.
 - The **"K.I.T.T."** sweeping effect must be **4 bits wide** 
-- The bits must feed into the "screen" 1 bit at a time and not "pop" into existence all at once!
+- The 4 initial bits must feed into the "screen" 1 bit at a time and not "pop" into existence all at once!
 - The routine will operate using SEAL-IN circuit logic. 
     - In the lab, this will be aliased to a physical Push Button. 
 - Once started, the routine must continually loop 
