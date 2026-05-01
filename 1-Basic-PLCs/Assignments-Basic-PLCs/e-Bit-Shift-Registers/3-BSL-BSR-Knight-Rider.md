@@ -11,7 +11,8 @@ Create a Bit Shift routine using any of the following instructions:
 - COP - COPY instructions
 - RES - RESET instructions 
 - CLR - CLEAR instructions
-- COMPARISON instructions 
+- COMPARISON instructions
+- MATH instructions
 - Properly created ARRAY(s) 
 
 ## PROGRAMMING HINT: 
