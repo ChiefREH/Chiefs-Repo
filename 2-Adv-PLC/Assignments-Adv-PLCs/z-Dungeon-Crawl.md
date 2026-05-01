@@ -142,7 +142,7 @@ Randomly Generated Creature (1-6) for Combat:
 ***
 
 
-# 4. ACTION ECONOMY
+# 4. COMBAT
 
 Everyone gets **ONE Action** on their Turn:
 - Roll 1d20 + relevant Stat + **Bonus** (if any) vs DC 
