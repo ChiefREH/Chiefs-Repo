@@ -32,8 +32,9 @@ Use logic to create RNG for the following dice rolls:
 - :game_die: :game_die: 2d6 for your **Spell Damage**. 
     - "2d6" means you roll two six-sided dice and add up the value for the total spell damage.
     - This results in a number between 2 and 12, not 1 to 12.
-- Enemies have a fixed damage value. No RNG needed. 
-
+- :game_die: 1d6 for random Enemy combat encounters
+    - Enemies have a fixed damage value. No RNG needed. 
+    - See the Combat section for Enemy stat blocks
 
 
 ## CHARACTER CREATION
