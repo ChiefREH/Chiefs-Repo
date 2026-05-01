@@ -24,13 +24,15 @@ To enter, navigate and exit the dungeon before reaching zero Hit Points.
 ### RANDOM NUMBER GENERATORS (RNG)
 
 Use logic to create RNG for the following dice rolls:
-- :game_die: 1d20 for your **Initiative** and normal **Actions**.
-- :game_die: 1d6 for your **Melee Attack Damage**.
-- :game_die: :game_die: 2d6 for your **Spell Damage**. 
-    - Enemies have a fixed damage value. No RNG needed. 
+- :game_die: 1d20 for your **Initiative** and **Attack** rolls.
     - You may automate your Damage roll RNG on a successful hit, so you don't have to click an additional damage button. 
     - You may **not** automate the player Attack rolls. If you did that, then YOU aren't really the game; the PLC is just playing with itself! 
- 
+- :game_die: 1d6 for your **Melee Attack Damage**.
+- :game_die: :game_die: 2d6 for your **Spell Damage**. 
+    - "2d6" means you roll two six-sided dice and add up the value of each for the total spell damage.
+    - This results in a number between 2 and 12.
+- Enemies have a fixed damage value. No RNG needed. 
+
  
  
 ### ACTION ECONOMY
