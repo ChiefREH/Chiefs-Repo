@@ -81,3 +81,11 @@ Never used Alchemy, but people seem to like it...
 - [**DnD Shorts**](https://www.youtube.com/@DnDShorts) for build guides
 - [**Tenkar's Tavern**](https://www.youtube.com/@TenkarsTavern) for OSR reviews
 - [**Tabletop Bro**](https://www.youtube.com/@tabletopbro) for Dungeon World commentary
+
+
+
+## GITHUB REPOSITORIES
+
+- [Zireael07's Awesome Tabletop RPG list](https://github.com/Zireael07/awesome-tabletop-rpgs)
+- [Olivier Rey's TTRPG list](https://github.com/orey/ttrpg)
+- [Felipe Vogel's solo RPG list](https://github.com/fpsvogel/solo-ttrpgs)
