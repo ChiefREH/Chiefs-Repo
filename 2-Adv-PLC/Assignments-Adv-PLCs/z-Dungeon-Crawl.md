@@ -25,9 +25,7 @@ The following tasks will be graded on daily basis to ensure you are keeping pace
 
 # 1. CHARACTER CREATION & RNG
 
-## RANDOM NUMBER GENERATORS (RNG)
-
-Use logic to create RNG for the following dice rolls:
+Use logic to create **Random Number Generators** for the following dice rolls:
 - :game_die: 1d20 for your **Initiative** and **Attack** rolls.
     - You may automate your Damage roll RNG on a successful hit, so you don't have to click an additional damage button. 
     - You may **not** automate the player Attack rolls. If you did that, then YOU aren't really the game; the PLC is just playing with itself! 
