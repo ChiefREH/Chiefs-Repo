@@ -226,7 +226,7 @@ https://youtu.be/GQgHSX2tof4?si=WCkMzTZZxa68seTR
 
 
 ## FINAL PROJECT NOTES
-A PDF copy of all .ACD files (with YOUR name) will be provided to the instructor for review. Failure to produce a copy **before the deadline** will result in a negative grade outcome. No exceptions.
+A PDF copy of all .ACD files (with YOUR name) will be provided to the instructor for review. Failure to produce a copy for review will result in a negative grade outcome. No exceptions.
  
 And remember, Chief will **almost always** play the game as a Wizard…
 
