@@ -22,6 +22,9 @@ To enter, navigate and exit the dungeon before reaching zero Hit Points.
 
 The following tasks will be graded on daily basis to ensure you are keeping pace with the projected timeline.
 
+
+# 1. CHARACTER CREATION & RNG
+
 ## RANDOM NUMBER GENERATORS (RNG)
 
 Use logic to create RNG for the following dice rolls:
@@ -98,7 +101,7 @@ Based on Player input, allocate the following data to each Class:
 ***
 ***
 
-# MAP & MOVEMENT
+# 2. MAP & MOVEMENT
 
 Navigate the dungeon terrain using an interactive map:
 - Characters must be able to travel each square of the map.
@@ -113,8 +116,11 @@ Navigate the dungeon terrain using an interactive map:
 ![Dungeon Tiles](Assignments-Adv-PLC-Images/Dungeon-Tiles.jpg)
 
 
+***
+***
 
-## ENEMY LOGIC & RNG
+
+# 3. ENEMY LOGIC & RNG
 
 Randomly Generated Creature (1-6) for Combat:
 - Name/Type 
@@ -132,8 +138,11 @@ Randomly Generated Creature (1-6) for Combat:
 |    6     | :zombie: MUTANT ZOMBIE|   3    |    1    |
 
 
+***
+***
 
-# ACTION ECONOMY
+
+# 4. ACTION ECONOMY
 
 Everyone gets **ONE Action** on their Turn:
 - Roll 1d20 + relevant Stat + **Bonus** (if any) vs DC 
