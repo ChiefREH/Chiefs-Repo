@@ -157,7 +157,7 @@ When you land on a tile with an ENEMY creature...
 - The :dagger: ROGUE will attack the enemy: Roll 1d20 + Mental stat vs DC 15 
 - The :fire: WIZARD will attack the enemy: Roll 1d20 + Mystical stat vs DC 15 
 
-## ROLLED OUTCOMES
+## COMBAT OUTCOMES
 
 **:white_check_mark: ON A NORMAL ATTACK SUCCESS:**
 - Roll for damage. Deduct damage from Enemy total HP.
