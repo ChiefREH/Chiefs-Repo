@@ -74,16 +74,6 @@ Based on Player input, allocate the following data to each Class:
 | _Requires user input_ | Wizard    |      1       |     2      |      3       |   2    |
 
 
-### CHARACTER SELECTION SCREEN EXAMPLE 1
-
-![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl2.jpg)
-
-
-### CHARACTER SELECTION SCREEN EXAMPLE 2
-
-![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl4.jpg)
-
-
 ## CHARACTER INVENTORY
 
 Based on Player input, allocate the following data to each Class:
@@ -99,7 +89,18 @@ Based on Player input, allocate the following data to each Class:
 - :fire: Spell (fireball, no bonus to attack, 2d6 dmg) 
 
 ***
-***
+
+### CHARACTER SELECTION SCREEN EXAMPLE 1
+
+![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl2.jpg)
+
+
+### CHARACTER SELECTION SCREEN EXAMPLE 2
+
+![Dungeon Crawl](Assignments-Adv-PLC-Images/Dungeon-Crawl4.jpg)
+
+
+
 
 # 2. MAP & MOVEMENT
 
@@ -115,9 +116,6 @@ Navigate the dungeon terrain using an interactive map:
 
 ![Dungeon Tiles](Assignments-Adv-PLC-Images/Dungeon-Tiles.jpg)
 
-
-***
-***
 
 
 # 3. ENEMY LOGIC & RNG
@@ -163,7 +161,8 @@ When you **land on a tile** with an ENEMY creature...
 - Characters always have the option to leave on their turn.* 
 - A normal Action in combat is 6 seconds in length. 
     - This is good when automating the Enemy's turn, so the Player has time to see the Actions take place. 
- 
+
+## COMBAT LOGIC
 **How are you going to defeat the enemy?**
 - The :crossed_swords: FIGHTER will attack the enemy: Roll 1d20 + Physical stat + Bonus vs DC 15 
 - The :dagger: ROGUE will attack the enemy: Roll 1d20 + Mental stat vs DC 15 
