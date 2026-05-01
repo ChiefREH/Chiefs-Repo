@@ -39,6 +39,14 @@ A version of DND 5e that is converted to the SW universe.  Very cool IMO!
 
 Free System Resource Documents (SRD) from Evil Hat Productions. Narrative focused and setting neutral, you can be anything you can imagine!
 
+### [DUNGEONS & DRAGONS SRD](https://www.dndbeyond.com/srd)
+
+The System Reference Document (SRD) contains D&D rules content you can use and reference to publish content under Creative Commons.
+
+### [DND Beyond](https://www.dndbeyond.com/en)
+
+Official DND tools for digital, online play. Good for basic character creation management.
+
 
 
 ## VTT - VIRTUAL TABLETOPS
