@@ -128,8 +128,6 @@ Randomly Generated Creature (1-6) for Combat:
 |    6     | :zombie: MUTANT ZOMBIE|   3    |    1    |
 
 
-***
-***
 
 
 # 4. COMBAT
