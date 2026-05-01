@@ -40,13 +40,20 @@ Use logic to create RNG for the following dice rolls:
     - See the Combat section for Enemy stat blocks
 
 
-## CHARACTER CREATION
+## CHARACTER CREATION & INVENTORY
 
 Create an interface for Player Class selection based on the following three choices:
 
-- Fighter :crossed_swords:
-- Rogue :dagger:
-- Wizard :fire:
+
+**THE FIGHTER**
+- :crossed_swords: Sword stat (+2 bonus to attack, 1d6 dmg)
+
+**THE ROGUE**
+- :dagger: Dagger stat (no attack bonus, 1d6 dmg) 
+
+**THE WIZARD**
+- :fire: Spell (fireball, no bonus to attack, 2d6 dmg) 
+
 
 Use navigation and popup screens as needed
 
@@ -65,7 +72,7 @@ Based on Player input, allocate the following data to each Class:
 
 
 
-### STAT REFERENCE TABLE
+### CHARACTER STAT TABLE
 
 | **CHARACTER'S NAME**  | **CLASS** | **PHYSICAL** | **MENTAL** | **MYSTICAL** | **HP** |
 | --------------------- | --------- | :----------: | :--------: | :----------: | :----: |
@@ -74,21 +81,6 @@ Based on Player input, allocate the following data to each Class:
 | _Requires user input_ | Wizard    |      1       |     2      |      3       |   2    |
 
 
-## CHARACTER INVENTORY
-
-Based on Player input, allocate the following data to each Class:
-
-
-**THE FIGHTER**
-- :crossed_swords: Sword stat (+2 bonus to attack, 1d6 dmg)
-
-**THE ROGUE**
-- :dagger: Dagger stat (no attack bonus, 1d6 dmg) 
-
-**THE WIZARD**
-- :fire: Spell (fireball, no bonus to attack, 2d6 dmg) 
-
-***
 
 ### CHARACTER SELECTION SCREEN EXAMPLE 1
 
@@ -142,21 +134,19 @@ Randomly Generated Creature (1-6) for Combat:
 
 # 4. COMBAT
 
-Everyone gets **ONE Action** on their Turn:
-- Roll 1d20 + relevant Stat + **Bonus** (if any) vs DC 
-    - If your total is equal to or greater than the DC, you **SUCCEED** with the Action. 
-    - If your total is less than the DC, you **FAIL** at the Action. 
-
 
 ## COMBAT ENCOUNTER
 When you **land on a tile** with an ENEMY creature...
  
-**Roll for Initiative:**
+### Roll for Initiative:
 - Roll 1d20 vs DC 12 (no stats, mods or bonuses)
     - **Equal to or greater** than the DC, the Character goes first. 
     - **Less than** the DC, the Enemy goes first! 
  
-**Each side gets ONE Action:**
+### Everyone gets **ONE Action** on their Turn:
+- Roll 1d20 + relevant Stat + **Bonus** (if any) vs DC 
+    - If your total is equal to or greater than the DC, you **SUCCEED** with the Action. 
+    - If your total is less than the DC, you **FAIL** at the Action. 
 - Enemies will always ATTACK v. **DC 15** (automated)
 - Characters always have the option to leave on their turn.* 
 - A normal Action in combat is 6 seconds in length. 
