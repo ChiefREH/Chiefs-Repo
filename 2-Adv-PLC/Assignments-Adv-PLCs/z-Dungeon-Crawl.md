@@ -96,7 +96,6 @@ Based on Player input, allocate the following data to each Class:
 
 **THE ROGUE**
 - :dagger: Dagger stat (no attack bonus, 1d6 dmg) 
-- :key: Lock-Pick stat (Advantage on traps, locks and doors) 
 
 **THE WIZARD**
 - :fire: Spell (fireball, no bonus to attack, 2d6 dmg) 
