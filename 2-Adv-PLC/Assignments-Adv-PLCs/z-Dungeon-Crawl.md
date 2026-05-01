@@ -5,13 +5,6 @@
 **WHY:** To simulate the complexity of a large scale, data management scenario common to modern manufacturing environments.
 
 
-
-### EXAMPLE DEMONSTRATION
-
-[![Watch on YouTube](https://img.youtube.com/vi/imOdkZDeAlg/0.jpg)](https://www.youtube.com/watch?v=imOdkZDeAlg)
-
-
-
 ## THE OBJECTIVE
 
 To enter, navigate and exit the dungeon before reaching zero Hit Points.
@@ -19,9 +12,17 @@ To enter, navigate and exit the dungeon before reaching zero Hit Points.
 
 
 
-## GAME RULES
+### EXAMPLE DEMONSTRATION
 
-### RANDOM NUMBER GENERATORS (RNG)
+[![Watch on YouTube](https://img.youtube.com/vi/imOdkZDeAlg/0.jpg)](https://www.youtube.com/watch?v=imOdkZDeAlg)
+
+
+
+# MILESTONES
+
+The following tasks will be graded on daily basis to ensure you are keep pace with the project deadline.
+
+## RANDOM NUMBER GENERATORS (RNG)
 
 Use logic to create RNG for the following dice rolls:
 - :game_die: 1d20 for your **Initiative** and **Attack** rolls.
@@ -32,15 +33,6 @@ Use logic to create RNG for the following dice rolls:
     - "2d6" means you roll two six-sided dice and add up the value of each for the total spell damage.
     - This results in a number between 2 and 12.
 - Enemies have a fixed damage value. No RNG needed. 
-
- 
- 
-### ACTION ECONOMY
-
-Everyone gets ONE Action on their Turn:
-- Roll 1d20 + relevant Stat + Bonus (if any) vs DC 
-    - If your total is equal to or greater than the DC, you **SUCCEED** with the Action. 
-    - If your total is less than the DC, you **FAIL** at the Action. 
 
 
 
@@ -120,7 +112,7 @@ Navigate the dungeon terrain using an interactive map:
 
 
 
-## ENEMY LOGIC
+## ENEMY LOGIC & RNG
 
 Randomly Generated Creature (1-6) for Combat:
 - Name/Type 
@@ -139,8 +131,15 @@ Randomly Generated Creature (1-6) for Combat:
 
 
 
-## COMBAT ENCOUNTER
+# ACTION ECONOMY
 
+Everyone gets **ONE Action** on their Turn:
+- Roll 1d20 + relevant Stat + **Bonus** (if any) vs DC 
+    - If your total is equal to or greater than the DC, you **SUCCEED** with the Action. 
+    - If your total is less than the DC, you **FAIL** at the Action. 
+
+
+## COMBAT ENCOUNTER
 When you land on a tile with an ENEMY creature...
  
 **Roll for Initiative:**
