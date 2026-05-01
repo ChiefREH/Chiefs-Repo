@@ -35,11 +35,11 @@ This was the first RPG book that I purchased. Old school feel. Watch Trevor Deva
 
 A version of DND 5e that is converted to the SW universe.  Very cool IMO!
 
-### [FATE SRD](https://fate-srd.com/)
+### [Fate SRD](https://fate-srd.com/)
 
 Free System Resource Documents (SRD) from Evil Hat Productions. Narrative focused and setting neutral, you can be anything you can imagine!
 
-### [DUNGEONS & DRAGONS SRD](https://www.dndbeyond.com/srd)
+### [Dungeons & Dragons SRD](https://www.dndbeyond.com/srd)
 
 The System Reference Document (SRD) contains D&D rules content you can use and reference to publish content under Creative Commons.
 
