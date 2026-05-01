@@ -16,7 +16,16 @@ More PDfs than you can shake a stick at. It's so good, I bought the hard-cover f
 
 ### [Internet Archive](https://archive.org/)
 
-They have PDFs (many are free) that you can download. Excellent for original DND content (like **Greyhawk**)
+They have PDFs (many are free) that you can download. Excellent for original DND content from TSR.
+- [World of Greyhawk fantasy setting](https://archive.org/details/tsr010151sted.addworldofgreyhawkboxedsetfull)
+- [The Keep on the Borderlands](https://archive.org/details/tsr09034b2ddadventure013keepontheborderlands)
+- [Spelljammer](https://archive.org/details/tsr01065spelljammerthelegendofspelljammer)
+- [Dragonlance campaign setting](https://archive.org/details/dragonlance-campaign-setting)
+- [Eberron campaign setting](https://archive.org/details/eberron-campaign-setting)
+
+### [Shadowdark](https://www.thearcanelibrary.com/collections/shadowdark-core-rules/products/shadowdark-rpg-quickstart-set-pdf)
+
+The free Shadowdark RPG Quickstart Set is the perfect way to introduce you to the game! The Quickstart contains two 68-page, digest-sized booklets that give you all you need to play and run thrilling Shadowdark RPG adventures for 1st-3rd level characters.
 
 ### [Mork Borg](https://morkborg.com/content/)
 
