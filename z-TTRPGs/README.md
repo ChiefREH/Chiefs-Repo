@@ -3,7 +3,7 @@
 A simple list of tabletop resources for my gamers!
 
 
-## FREE PDFs
+## FREE RESOURCES
 
 ### [Without Numbers by Sine Nome Publishing](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition)
 
@@ -23,7 +23,6 @@ They have PDFs (many are free) that you can download. Excellent for original DND
 - [Spelljammer](https://archive.org/details/tsr01065spelljammerthelegendofspelljammer)
 - [Dragonlance campaign setting](https://archive.org/details/dragonlance-campaign-setting)
 - [Eberron campaign setting](https://archive.org/details/eberron-campaign-setting)
-
 
 
 ### [Shadowdark](https://www.thearcanelibrary.com/collections/shadowdark-core-rules/products/shadowdark-rpg-quickstart-set-pdf)
