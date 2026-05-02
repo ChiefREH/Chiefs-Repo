@@ -19,9 +19,12 @@ More PDfs than you can shake a stick at. It's so good, I bought the hard-cover f
 They have PDFs (many are free) that you can download. Excellent for original DND content from TSR.
 - [World of Greyhawk fantasy setting](https://archive.org/details/tsr010151sted.addworldofgreyhawkboxedsetfull)
 - [The Keep on the Borderlands](https://archive.org/details/tsr09034b2ddadventure013keepontheborderlands)
+- [The Forgotten Realms campaign setting](https://archive.org/details/tsr01031addsettingforgottenrealmsoriginal)
 - [Spelljammer](https://archive.org/details/tsr01065spelljammerthelegendofspelljammer)
 - [Dragonlance campaign setting](https://archive.org/details/dragonlance-campaign-setting)
 - [Eberron campaign setting](https://archive.org/details/eberron-campaign-setting)
+
+
 
 ### [Shadowdark](https://www.thearcanelibrary.com/collections/shadowdark-core-rules/products/shadowdark-rpg-quickstart-set-pdf)
 
