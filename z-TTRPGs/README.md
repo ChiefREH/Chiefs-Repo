@@ -64,7 +64,7 @@ Official DND tools for digital, online play. Good for basic character creation m
 
 ### [Owlbear Rodeo](https://www.owlbear.rodeo/)
 
-Since you're just getting started with online play, this is probably the best option (free)
+Since you're just getting started with online play, this might be the best option (free)
 
 ### [Alchemy RPG](https://alchemyrpg.com/)
 
