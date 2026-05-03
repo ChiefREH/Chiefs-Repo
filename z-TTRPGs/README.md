@@ -86,7 +86,7 @@ Never used Alchemy, but people seem to like it...
 - [**DnD Shorts**](https://www.youtube.com/@DnDShorts) for build guides
 - [**Tenkar's Tavern**](https://www.youtube.com/@TenkarsTavern) for OSR reviews
 - [**Tabletop Bro**](https://www.youtube.com/@tabletopbro) for Dungeon World commentary
-
+- [**Power Word Spill**](https://www.youtube.com/@powerwordspill) for tools, tips and tricks
 
 
 ## GITHUB REPOSITORIES
