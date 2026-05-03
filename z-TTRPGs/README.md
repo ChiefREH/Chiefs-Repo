@@ -87,7 +87,7 @@ Never used Alchemy, but people seem to like it...
 - [**Tenkar's Tavern**](https://www.youtube.com/@TenkarsTavern) for OSR reviews
 - [**Tabletop Bro**](https://www.youtube.com/@tabletopbro) for Dungeon World commentary
 - [**Power Word Spill**](https://www.youtube.com/@powerwordspill) for tools, tips and tricks
-
+- [**Deck of DM Things**](https://www.youtube.com/@deck_of_DM_Things) for tools, tips and tricks 
 
 ## GITHUB REPOSITORIES
 
