@@ -1,6 +1,6 @@
 # CHIEF'S TTRPG DIRECTORY
 
-A simple list of tabletop resources for my gamers!
+A simple list of tabletop resources!
 
 
 ## FREE RESOURCES
