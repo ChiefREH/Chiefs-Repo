@@ -65,6 +65,10 @@ One Page Solo Engine is a minimal, all-in-one toolkit to play your favorite tabl
 
 ## VTT - VIRTUAL TABLETOPS
 
+### [Tableplop VTT](https://new.tableplop.com/)
+
+Free, easy-to-use virtual tabletop and toolset for pen-and-paper roleplaying games. It was the first VTT that I used and it was very easy to understand.
+
 ### [Owlbear Rodeo](https://www.owlbear.rodeo/)
 
 Since you're just getting started with online play, this might be the best option (free)
@@ -72,10 +76,6 @@ Since you're just getting started with online play, this might be the best optio
 ### [Alchemy RPG](https://alchemyrpg.com/)
 
 Never used Alchemy, but people seem to like it...
-
-### [Tableplop VTT](https://new.tableplop.com/)
-
-Free, easy-to-use virtual tabletop and toolset for pen-and-paper roleplaying games. It was the first VTT that I used and it was very easy to understand.
 
 
 
