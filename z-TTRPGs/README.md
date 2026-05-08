@@ -71,7 +71,7 @@ Free, easy-to-use virtual tabletop and toolset for pen-and-paper roleplaying gam
 
 ### [Owlbear Rodeo](https://www.owlbear.rodeo/)
 
-Since you're just getting started with online play, this might be the best option (free)
+Owlbear Rodeo is an attempt to make a web app to run tabletop encounters without the complicated setup process needed for other VTTs.
 
 ### [Alchemy RPG](https://alchemyrpg.com/)
 
