@@ -63,7 +63,7 @@ Based on Player input, allocate the following data to each Class:
 
 1. Character Name (needs a **$String** to enter your character name?) 
 2. Class type selected
-3. Physical stat (for attacks) 
+3. Physical stat (for melee attacks) 
 4. Mental stat (for lock-picking/trap disarming) 
 5. Mystical stat (for Spell casting) 
 6. Hit Points (HP) 
