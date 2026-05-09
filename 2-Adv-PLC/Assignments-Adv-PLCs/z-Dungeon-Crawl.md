@@ -102,9 +102,13 @@ Navigate the dungeon terrain using an interactive map:
     - Maps are like mazes, so plan accordingly.
 
 
-### DUNGEON TILE EXAMPLE
+### DUNGEON TILE EXAMPLE 1
 
 ![Dungeon Tiles](Assignments-Adv-PLC-Images/Dungeon-Tiles.jpg)
+
+### DUNGEON TILE EXAMPLE 2
+
+![Isometric Map](Assignments-Adv-PLC-Images/Isometric-Map-Grid.png)
 
 
 
