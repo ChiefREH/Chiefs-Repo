@@ -106,11 +106,8 @@ Navigate the dungeon terrain using an interactive map:
 
 ![Dungeon Tiles](Assignments-Adv-PLC-Images/Dungeon-Tiles.jpg)
 
-### ISOMETRIC DUNGEON TILE EXAMPLE
 
-![Isometric Map](Assignments-Adv-PLC-Images/Isometric-Map-Grid.png)
 
->_Map by [Martin Whitfield](https://martimakesthings.artstation.com/)_
 
 # 3. ENEMY LOGIC & RNG
 
