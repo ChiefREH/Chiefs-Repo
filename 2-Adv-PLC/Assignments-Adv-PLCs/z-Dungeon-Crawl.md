@@ -110,7 +110,7 @@ Navigate the dungeon terrain using an interactive map:
 
 ![Isometric Map](Assignments-Adv-PLC-Images/Isometric-Map-Grid.png)
 
-
+>_Map by [Martin Whitfield](https://martimakesthings.artstation.com/)_
 
 # 3. ENEMY LOGIC & RNG
 
