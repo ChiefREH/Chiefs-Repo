@@ -8,3 +8,6 @@
 - :key: Lock-Pick stat (Advantage on traps, locks and doors) 
 
 ENEMIES have a unique DC
+
+PLAYERS have a unique DC
+Does Fighter get a +2 shield?
