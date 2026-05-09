@@ -50,7 +50,7 @@ Create an interface for Player Class selection based on the following three choi
 - :dagger: Dagger stat (no attack bonus, 1d6 dmg) 
 
 **THE WIZARD**
-- :fire: Spell (fireball, no bonus to attack, 2d6 dmg) 
+- :fire: Fireball spell (no bonus to attack, 2d6 dmg) 
 
 
 Use navigation and popup screens as needed
@@ -152,7 +152,7 @@ When you **land on a tile** with an ENEMY creature...
 
 ## COMBAT LOGIC
 **How are you going to defeat the enemy?**
-- The :crossed_swords: FIGHTER will attack the enemy: Roll 1d20 + Physical stat + Bonus vs DC 15 
+- The :crossed_swords: FIGHTER will attack the enemy: Roll 1d20 + Physical stat + weapon bonus vs DC 15 
 - The :dagger: ROGUE will attack the enemy: Roll 1d20 + Physical stat vs DC 15 
 - The :fire: WIZARD will attack the enemy: Roll 1d20 + Mystical stat vs DC 15 
 
