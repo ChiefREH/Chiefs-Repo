@@ -153,7 +153,7 @@ When you **land on a tile** with an ENEMY creature...
 ## COMBAT LOGIC
 **How are you going to defeat the enemy?**
 - The :crossed_swords: FIGHTER will attack the enemy: Roll 1d20 + Physical stat + Bonus vs DC 15 
-- The :dagger: ROGUE will attack the enemy: Roll 1d20 + Mental stat vs DC 15 
+- The :dagger: ROGUE will attack the enemy: Roll 1d20 + Physical stat vs DC 15 
 - The :fire: WIZARD will attack the enemy: Roll 1d20 + Mystical stat vs DC 15 
 
 ## COMBAT OUTCOMES
