@@ -9,7 +9,7 @@ A simple list of tabletop resources!
 
 One Page Solo Engine is a minimal, all-in-one toolkit to play your favorite tabletop RPGs without a GM.  It was designed to be incredibly concise and minimalistic, but still have all the essential tools required to run a game without a GM.
 
-### [Worlds Without Numbers](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition)
+### [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition)
 
 "Worlds/Stars/Cities/Ashes without Number" - a fantastic set of books that have everything you would need for YEARS of gameplay.
 
@@ -61,6 +61,15 @@ The System Reference Document (SRD) contains D&D rules content you can use and r
 ### [DND Beyond](https://www.dndbeyond.com/en)
 
 Official DND tools for digital, online play. Good for basic character creation management.
+
+### [Archives of Nethys](https://2e.aonprd.com/)
+
+Online SRD for Pathfinder 2e and Starfinder 2e
+
+### [Pathbuilder 2e](https://pathbuilder2e.com/)
+
+Online character sheet creator for Pathfinder 2e
+
 
 
 
