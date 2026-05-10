@@ -70,6 +70,13 @@ Online SRD for Pathfinder 2e and Starfinder 2e
 
 Online character sheet creator for Pathfinder 2e
 
+### [Wanderer's Guide](https://wanderersguide.app/)
+
+A character manager for Pathfinder 2e and Starfinder 2e
+
+### [Hephaistos Character Creator](https://sf2e.hephaistos.online/)
+
+Online character creator for Starfinder 2e and 1e
 
 
 
