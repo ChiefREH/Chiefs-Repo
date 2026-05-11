@@ -64,7 +64,7 @@ This System Reference Document (SRD) contains the core mechanics derived from th
 
 ### [OSRIC](https://osricrpg.com/get.php/)
 
-You can also download the free version in PDF format. Be sure to head over to the products section for great titles available, or upcoming for OSRIC.
+You can download the free version in PDF format.
 
 ### [Dungeons & Dragons SRD](https://www.dndbeyond.com/srd)
 
