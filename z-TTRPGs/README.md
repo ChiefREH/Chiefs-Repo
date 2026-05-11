@@ -66,6 +66,10 @@ This System Reference Document (SRD) contains the core mechanics derived from th
 
 You can download the free version in PDF format.
 
+### [Dungeon World](https://www.dungeon-world.com/about/)
+
+The text of Dungeon World is released under a Creative Commons Attribution license. You can make, distribute, and even sell anything you like based on Dungeon World.
+
 ### [Dungeons & Dragons SRD](https://www.dndbeyond.com/srd)
 
 The System Reference Document (SRD) contains D&D rules content you can use and reference to publish content under Creative Commons.
