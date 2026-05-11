@@ -62,6 +62,10 @@ Apocalypse World is the award-winning and critically acclaimed game that launche
 
 This System Reference Document (SRD) contains the core mechanics derived from the Blades in the Dark rpg. Blades in the Dark is a game about a group of daring characters building an enterprising crew. We play to find out if the fledgling crew can thrive amidst the teeming threats that surround it.
 
+### [OSRIC](https://osricrpg.com/get.php/)
+
+You can also download the free version in PDF format. Be sure to head over to the products section for great titles available, or upcoming for OSRIC.
+
 ### [Dungeons & Dragons SRD](https://www.dndbeyond.com/srd)
 
 The System Reference Document (SRD) contains D&D rules content you can use and reference to publish content under Creative Commons.
