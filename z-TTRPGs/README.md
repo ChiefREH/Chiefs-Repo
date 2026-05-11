@@ -56,7 +56,11 @@ Free System Resource Documents (SRD) from Evil Hat Productions. Narrative focuse
 
 ### [Apocalypse World](http://www.apocalypse-world.com/)
 
-Apocalypse World is the award-winning and critically acclaimed game that launched the [Powered by the Apocalypse](http://apocalypse-world.com/pbta/policy) school of rpg design.
+Apocalypse World is the award-winning and critically acclaimed game that launched the [Powered by the Apocalypse (PbtA)](http://apocalypse-world.com/pbta/policy) school of rpg design.
+
+### [Blades in the Dark](https://bladesinthedark.com/basics)
+
+This System Reference Document (SRD) contains the core mechanics derived from the Blades in the Dark rpg. Blades in the Dark is a game about a group of daring characters building an enterprising crew. We play to find out if the fledgling crew can thrive amidst the teeming threats that surround it.
 
 ### [Dungeons & Dragons SRD](https://www.dndbeyond.com/srd)
 
