@@ -56,7 +56,7 @@ Free System Resource Documents (SRD) from Evil Hat Productions. Narrative focuse
 
 ### [Apocalypse World](http://www.apocalypse-world.com/)
 
-Apocalypse World is the award-winning and critically acclaimed game that launched the Powered by the Apocalypse (PbtA) school of rpg design.
+Apocalypse World is the award-winning and critically acclaimed game that launched the [Powered by the Apocalypse](http://apocalypse-world.com/pbta/policy) school of rpg design.
 
 ### [Dungeons & Dragons SRD](https://www.dndbeyond.com/srd)
 
