@@ -115,7 +115,6 @@ Never used Alchemy, but people seem to like it...
 ## YOUTUBE CHANNELS
 
 - [**Me, Myself and Die**](https://www.youtube.com/@MeMyselfandDieRPG) for 4 seasons of SOLO play
-    - _this channel motivated me to create my own RPG_
 - [**Dungeon Craft**](https://www.youtube.com/@DUNGEONCRAFT1) with Professor DM
 - [**Questing Beast**](https://www.youtube.com/@QuestingBeast) for ttrpg reviews
 - [**Stephanie Plays Games**](https://www.youtube.com/@StephaniePlaysGames) for DM tips
