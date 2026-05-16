@@ -118,12 +118,16 @@ Never used Alchemy, but people seem to like it...
     - _this channel motivated me to create my own RPG_
 - [**Dungeon Craft**](https://www.youtube.com/@DUNGEONCRAFT1) with Professor DM
 - [**Questing Beast**](https://www.youtube.com/@QuestingBeast) for ttrpg reviews
+- [**Stephanie Plays Games**](https://www.youtube.com/@StephaniePlaysGames) for DM tips
 - [**Agranak Studios**](https://www.youtube.com/@AgranakStudios) for DM Wisdom
 - [**DnD Shorts**](https://www.youtube.com/@DnDShorts) for build guides
 - [**Tenkar's Tavern**](https://www.youtube.com/@TenkarsTavern) for OSR reviews
 - [**Tabletop Bro**](https://www.youtube.com/@tabletopbro) for Dungeon World commentary
 - [**Power Word Spill**](https://www.youtube.com/@powerwordspill) for tools, tips and tricks
 - [**Deck of DM Things**](https://www.youtube.com/@deck_of_DM_Things) for tools, tips and tricks 
+- [**Corkboards & Curiosities**](https://www.youtube.com/@corkboardsandcuriosities) for horror, mystery & tabletop RPGs.
+
+
 
 ## GITHUB REPOSITORIES
 
