@@ -124,7 +124,7 @@ Never used Alchemy, but people seem to like it...
 - [**Tabletop Bro**](https://www.youtube.com/@tabletopbro) for Dungeon World commentary
 - [**Power Word Spill**](https://www.youtube.com/@powerwordspill) for tools, tips and tricks
 - [**Deck of DM Things**](https://www.youtube.com/@deck_of_DM_Things) for tools, tips and tricks 
-- [**Corkboards & Curiosities**](https://www.youtube.com/@corkboardsandcuriosities) for horror, mystery & tabletop RPGs.
+- [**Corkboards & Curiosities**](https://www.youtube.com/@corkboardsandcuriosities) for horror and mystery
 
 
 
