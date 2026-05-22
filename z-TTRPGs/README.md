@@ -125,7 +125,7 @@ Never used Alchemy, but people seem to like it...
 - [**Power Word Spill**](https://www.youtube.com/@powerwordspill) for tools, tips and tricks
 - [**Deck of DM Things**](https://www.youtube.com/@deck_of_DM_Things) for tools, tips and tricks 
 - [**Corkboards & Curiosities**](https://www.youtube.com/@corkboardsandcuriosities) for horror and mystery
-
+- [**Mystic Arts**](https://www.youtube.com/@Dadi-MysticArts) for excellent DM advice
 
 
 ## GITHUB REPOSITORIES
