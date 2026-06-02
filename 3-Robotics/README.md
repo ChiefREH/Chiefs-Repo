@@ -11,4 +11,4 @@
 
 
 - SUMMARIZE A CURRENT TOPIC
-    - _Performed in class: Summarize a topic (written exam)_
+    - _Performed in class: Summarize a topic (written Exam)_
