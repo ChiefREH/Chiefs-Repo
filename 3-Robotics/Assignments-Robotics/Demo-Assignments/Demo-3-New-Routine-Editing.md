@@ -29,6 +29,7 @@ _All programs will be formatted with these four Sections_
 - **STEP** mode for troubleshooting
     - Notice the @ symbol in the program?
 - **FCTN > ABORT (ALL)** to kill a program running in the background
+- Export your Routine as an .LS file
 
 
 ## SECTION SPECIFIC
@@ -45,7 +46,6 @@ _All programs will be formatted with these four Sections_
 ### !END OF LINE
 - Remark & Label only. No code needed
 
-Export your Routines as .LS files
 
 
 ## VIDEO REFERENCE
