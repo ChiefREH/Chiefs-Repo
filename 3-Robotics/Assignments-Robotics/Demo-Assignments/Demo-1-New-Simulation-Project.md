@@ -22,3 +22,7 @@ _*Some choices will vary by software version._
 ## VIEW
 
 - Window > 3D Panes > Split into 3 different Views
+
+## REFERENCE
+
+- Roboguide-1
