@@ -10,20 +10,19 @@
 
 ## ROBOGUIDE PARAMETERS
 
-Table21 with proper scale and location
-ConeAtZero with proper scale and location
+- Table21 with proper scale and location
+- ConeAtZero with proper scale and location
 
 ## LAB PARAMETERS
 
-See Fanuc Default Parameters PDF in the "Homebrew Rules" module for guidance
-Set up the TCP stands as required for each robot station
-
-This is far easier to do in Lab than in Roboguide!
+- See Fanuc Default Parameters PDF in the "Homebrew Rules" module for guidance
+- Set up the TCP stands as required for each robot station'
+    - _This is far easier to do in Lab than in Roboguide!_
 
 # WARNING
 
-DO NOT let the EOAT make contact with any part, fixture or work area.
-Doing so is an automatic failure.
+- DO NOT let the EOAT make contact with any part, fixture or work area.
+- Doing so is an automatic failure.
 
 ## VIDEO REFERENCE
 
