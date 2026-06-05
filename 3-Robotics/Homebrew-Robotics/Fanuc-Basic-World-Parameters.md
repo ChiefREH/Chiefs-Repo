@@ -31,3 +31,24 @@ Fixture > Tables > “Table21”
 | **P** |  0  | **WT** |     |
 | **R** |  0  |        | n/a |
 
+## CONE FOR TCP EXERCISE
+
+Parts > Workpieces > “ConeAtZero”
+
+|  LOC  |     | SCALE  |        |
+| :---: | :-: | :----: | :----: |
+| **X** |  0  | **X**  |  1.0   |
+| **Y** |  0  | **Y**  |  1.0   |
+| **Z** |  0  | **Z**  |  1.0   |
+| **W** |  0  |        |        |
+| **P** |  0  | **WT** |        |
+| **R** |  0  |        | 1.0 kg |
+
+Add to Table21 > Parts tab > Edit Part Offset > Z = +100
+
+## POINTER TOOL EOAT
+
+Tooling > EOAT1 > Properties > CAD Drawing > “Pointer”
+
+
+
