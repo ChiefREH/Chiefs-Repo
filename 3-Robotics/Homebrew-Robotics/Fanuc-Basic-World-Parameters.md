@@ -22,3 +22,12 @@ Basic data for simulated components I use in class.
 
 Fixture > Tables > “Table21”
 
+|  LOC  |     | SCALE  |     |
+| :---: | :-: | :----: | :-: |
+| **X** | 400 | **X**  | 0.5 |
+| **Y** |  0  | **Y**  | 0.5 |
+| **Z** | 300 | **Z**  | 0.5 |
+| **W** |  0  |        |     |
+| **P** |  0  | **WT** |     |
+| **R** |  0  |        | n/a |
+
