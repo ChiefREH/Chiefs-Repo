@@ -129,6 +129,7 @@ Fixture > Tables > “Table21” (_see previous table for data_)
     - _we’ll change to 3 seconds after we see the timing issue_
 - Change both to RED at the end, so it looks like a single box
 
+
 ## 2 TABLE SIMULATION
 
 **GREEN PICK-UP TABLE**
@@ -144,8 +145,54 @@ Fixture > Tables > “Table21” > Color = GREEN
 | **P** |  0   | **WT** |     |
 | **R** |  0   |        | n/a |
 
-**ADDITIONAL PARAMETERS**
+ADDITIONAL PARAMETERS
 
-- Parts tab > “Blue Box” > Edit Parts Offset > Z = 30 mm // check Visible at Teach, Visible at Run
+- Parts tab > “Blue Box” > Edit Parts Offset > Z = +30 mm // check Visible at Teach, Visible at Run
 - Simulation tab > check “Allow part to be picked” > 2 sec // uncheck “Allow parts to be placed”
+
+**RED DROP TABLE**
+
+Fixture > Tables > “Table21” > Color = RED
+
+|  LOC  |      | SCALE  |     |
+| :---: | :--: | :----: | :-: |
+| **X** | +300 | **X**  | 0.5 |
+| **Y** | +300 | **Y**  | 0.5 |
+| **Z** | +300 | **Z**  | 1.0 |
+| **W** |  0   |        |     |
+| **P** |  0   | **WT** |     |
+| **R** |  0   |        | n/a |
+
+ADDITIONAL PARAMETERS
+
+- Parts tab > “BLUE BOX” > Edit Parts Offset > Z = 30 mm // check Visible at Teach // uncheck Visible at Run
+- Simulation tab > uncheck “Allow part to be picked” // check “Allow parts to be placed” > 2 sec
+
+## USERFRAMES
+
+Fixture > Tables > **“Table-With-Legs”**
+
+TABLE STARTING LOCATION
+
+|  LOC  |      | SCALE  |     |
+| :---: | :--: | :----: | :-: |
+| **X** | +300 | **X**  | 0.5 |
+| **Y** | -200 | **Y**  | 0.5 |
+| **Z** | +290 | **Z**  | 0.5 |
+| **W** |  90  |        |     |
+| **P** |  0   | **WT** |     |
+| **R** |  90  |        | n/a |
+
+Parts > Add Parts > Blue BOX
+
+BOX ON TABLE
+
+|  LOC  |     | SCALE  |        |
+| :---: | :-: | :----: | :----: |
+| **X** |  0  | **X**  | 100 mm |
+| **Y** |  0  | **Y**  | 100 mm |
+| **Z** |  0  | **Z**  | 30 mm  |
+| **W** | 90  |        |        |
+| **P** | 90  | **WT** |        |
+| **R** |  0  |        | 1.0 kg |
 
