@@ -11,9 +11,9 @@
 
 A standard Routine will **always** contain four (4) Sections:
 
-- **!SETUP:** Instructions that only run once at start-up
-- **!MAIN [100]:** Instructions that are constantly repeated (mostly)
-- **!ERRORS [900]:** To alert the operator of faulty conditions
+- **!SETUP:** Instructions that run once at start
+- **!MAIN [100]:** Instructions that loop
+- **!ERRORS [900]:** Alert the operator of faulty conditions
 - **!END OF LINE [999]:** When all instructions are complete
 
 _All programs will be formatted with these four Sections. Future programs of higher complexity may have additional Sections as needed._
