@@ -227,4 +227,17 @@ Fixture > Tables > “Table21”
 | **P** |  0  | **WT** |     |
 | **R** |  0  |        | n/a |
 
+BLUE CYLINDER
 
+|  LOC  |     |   SCALE   |        |
+| :---: | :-: | :-------: | :----: |
+| **X** |  0  | **DIAM.** | 200 mm |
+| **Y** |  0  | **LEN.**  | 50 mm  |
+| **Z** |  0  |           |        |
+| **W** |  0  |           |        |
+| **P** |  0  |  **WT**   |        |
+| **R** |  0  |           | 1.0 kg |
+
+**ADDITIONAL PARAMETERS**
+
+- Add to Table21 > Parts tab > Edit Part Offset > W + 90
