@@ -12,7 +12,7 @@
 A standard Routine will **always** contain four (4) Sections:
 
 - **!SETUP:** Instructions that run once at start
-- **!MAIN [100]:** Instructions that loop
+- **!MAIN [100]:** Instructions that loop continuously
 - **!ERRORS [900]:** Alert the operator of faulty conditions
 - **!END OF LINE [999]:** When all instructions are complete
 
