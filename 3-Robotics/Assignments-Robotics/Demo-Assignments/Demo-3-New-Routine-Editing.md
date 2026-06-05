@@ -29,7 +29,7 @@ _All programs will be formatted with these four Sections. Future programs of hig
 - **STEP** mode for troubleshooting
     - Notice the @ symbol in the program?
 - **FCTN > ABORT (ALL)** to kill a program running in the background
-- Export your Routine as an .LS file
+- Export your Routine as an .LS file for offline review
 
 
 ## SECTION SPECIFIC
