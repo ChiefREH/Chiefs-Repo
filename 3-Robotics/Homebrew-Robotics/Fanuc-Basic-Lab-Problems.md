@@ -12,7 +12,7 @@ Common problems when working with live robots in the lab.
 ## COMMON START-UP PROBLEMS IN LAB
 
 - If you need to **CONFIRM PAYLOAD** [F2] after start-up, enter the Master Code (ask your Instructor)
-    - _This sometimes happens with the CR-7_
+    - _This happens with "Green Machine"_
 - If **APPLY DCS PARAM** alarm is active, then:
     - MENU > SYSTEM > DCS > [APPLY] > enter code > [OK]
 - When directed to **“cycle power”** after applying DCS, manually turn off the power, wait 15-20 seconds and then turn power back on.
@@ -21,3 +21,4 @@ Common problems when working with live robots in the lab.
 - Alarm **MCTL-013** can be disabled from:
     - Menu > System > Variable > $OP_WORK > ENTER > set UOP Disable = 1 (TRUE) > ENTER
 - If you get a blank screen at start-up, perform an **INIT START** with Instructor guidance.
+    - _This happens with "Slim"_
