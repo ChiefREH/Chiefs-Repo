@@ -34,3 +34,5 @@ _*Some options will vary by software version._
 **!END OF LINE [LBL 999]**
 - When the run is complete and all conditions are normal
 - Contains a Message instruction to notify the Operator
+
+_All programs will be formatted with these four Sections. Future programs of higher complexity may have additional Sections as needed._
