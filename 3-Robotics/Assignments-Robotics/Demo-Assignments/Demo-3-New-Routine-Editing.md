@@ -7,16 +7,16 @@
     - Touchup from the TP??
 
 
-## PROGRAM PARAMETERS
+## PROGRAM SECTIONS
 
 A standard Routine will **always** contain four (4) Sections:
 
-- **!SETUP section:** Instructions that only run once at start-up
-- **!MAIN section [100]:** Instructions that are constantly repeated (mostly)
-- **!ERRORS section [900]:** To alert the operator of faulty conditions
-- **!END OF LINE section [999]:** When all instructions are complete
+- **!SETUP:** Instructions that only run once at start-up
+- **!MAIN [100]:** Instructions that are constantly repeated (mostly)
+- **!ERRORS [900]:** To alert the operator of faulty conditions
+- **!END OF LINE [999]:** When all instructions are complete
 
-_All programs will be formatted with these four Sections_
+_All programs will be formatted with these four Sections. Future programs of higher complexity may have additional Sections as needed._
 
 
 ## FOCUS
