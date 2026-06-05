@@ -196,3 +196,35 @@ BOX ON TABLE
 | **P** | 90  | **WT** |        |
 | **R** |  0  |        | 1.0 kg |
 
+After USERFRAME has been entered, move the Table here and touch-up
+
+|  LOC  |      | SCALE  |     |
+| :---: | :--: | :----: | :-: |
+| **X** | +300 | **X**  | 0.5 |
+| **Y** | +200 | **Y**  | 0.5 |
+| **Z** | +290 | **Z**  | 0.5 |
+| **W** |  90  |        |     |
+| **P** |  0   | **WT** |     |
+| **R** |  90  |        | n/a |
+
+**ADDITIONAL PARAMETERS**
+
+- Don’t forget to SETIND for your new frame in the SETUP > FRAMES list
+
+
+## BASIC CIRCLES
+
+SINGLE TABLETOP FIXTURE
+
+Fixture > Tables > “Table21”
+
+|  LOC  |     | SCALE  |     |
+| :---: | :-: | :----: | :-: |
+| **X** | 400 | **X**  | 0.5 |
+| **Y** |  0  | **Y**  | 0.5 |
+| **Z** | 300 | **Z**  | 1.0 |
+| **W** |  0  |        |     |
+| **P** |  0  | **WT** |     |
+| **R** |  0  |        | n/a |
+
+
