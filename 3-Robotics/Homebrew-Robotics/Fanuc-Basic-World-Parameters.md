@@ -44,7 +44,8 @@ Parts > Workpieces > “ConeAtZero”
 | **P** |  0  | **WT** |        |
 | **R** |  0  |        | 1.0 kg |
 
-Add to Table21 > Parts tab > Edit Part Offset > Z = +100
+**ADDITIONAL PARAMETERS**
+- Add to Table21 > Parts tab > Edit Part Offset > Z = +100
 
 ## POINTER TOOL EOAT
 
@@ -87,10 +88,64 @@ Tooling > EOAT1 > Properties > CAD Drawing > “Grippers” > 3600f5-200
 | **P** |  0  |   **P**   |  0  | **WT** |        |
 | **R** | 90  |   **R**   |  0  |        | 1.0 kg |
 
-ADDITIONAL PARAMETERS
+**ADDITIONAL PARAMETERS**
 
 - Parts tab > Edit Parts Offset > Y= -180, W= -90, P= 90 (to show the box when gripper closed)
 - Simulation tab > Material Handling Clamp // Articulated CAD > 3600f5-200-4
 
 ## SINGLE TABLE SIMULATION
+
+Fixture > Tables > “Table21” (_see previous table for data_)
+
+**RED BOX**
+- Parts > Add Parts > Box (color: red)
+
+|  LOC  |      | SCALE  |        |
+| :---: | :--: | :----: | :----: |
+| **X** | -120 | **X**  | 30 mm  |
+| **Y** | -150 | **Y**  | 30 mm  |
+| **Z** | +30  | **Z**  | 30 mm  |
+| **W** | n/a  |        |        |
+| **P** | n/a  | **WT** |        |
+| **R** | n/a  |        | 1.0 kg |
+
+**BLUE BOX**
+- Parts > Add Parts > Box (color: blue)
+
+|  LOC  |      | SCALE  |        |
+| :---: | :--: | :----: | :----: |
+| **X** | +120 | **X**  | 30 mm  |
+| **Y** | +150 | **Y**  | 30 mm  |
+| **Z** | +30  | **Z**  | 30 mm  |
+| **W** | n/a  |        |        |
+| **P** | n/a  | **WT** |        |
+| **R** | n/a  |        | 1.0 kg |
+
+**ADDITIONAL PARAMETERS**
+
+- Red: Create Delay = 2 sec
+    - _we’ll change to 3 seconds after we see the timing issue_
+- Blue: Destroy Delay = 2 sec
+    - _we’ll change to 3 seconds after we see the timing issue_
+- Change both to RED at the end, so it looks like a single box
+
+## 2 TABLE SIMULATION
+
+**GREEN PICK-UP TABLE**
+
+Fixture > Tables > “Table21” > Color = GREEN
+
+|  LOC  |      | SCALE  |     |
+| :---: | :--: | :----: | :-: |
+| **X** | +300 | **X**  | 0.5 |
+| **Y** | -300 | **Y**  | 0.5 |
+| **Z** | +300 | **Z**  | 1.0 |
+| **W** |  0   |        |     |
+| **P** |  0   | **WT** |     |
+| **R** |  0   |        | n/a |
+
+**ADDITIONAL PARAMETERS**
+
+- Parts tab > “Blue Box” > Edit Parts Offset > Z = 30 mm // check Visible at Teach, Visible at Run
+- Simulation tab > check “Allow part to be picked” > 2 sec // uncheck “Allow parts to be placed”
 
