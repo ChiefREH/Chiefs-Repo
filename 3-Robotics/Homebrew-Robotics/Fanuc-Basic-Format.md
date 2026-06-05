@@ -6,7 +6,7 @@ This is the way I structure my simulation programs. I'm not saying it's the only
 
 Accept *most defaults, with these exceptions: 
 
-- Project name with YOUR initials
+- Project name with **YOUR initials**
 - Process Selection: **HandlingPro**
 - Software Version: default (9.4 or higher)
 - No EOAT attached (we'll add this later)
