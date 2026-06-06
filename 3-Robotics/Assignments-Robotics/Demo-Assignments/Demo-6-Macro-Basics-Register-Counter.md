@@ -34,6 +34,8 @@
     - _R[2] **can** be changed on the fly when the program is running._
 
 
+## NOTE
+
 _Use a single Remark instead of the full Section format for these simple logic instructions._
 
 ## VIDEO REFERENCE
