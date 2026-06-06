@@ -17,25 +17,30 @@
 - **SPLIT SCREEN** to view the number of loops stored in the **REGISTER**
 
 ## SECTION SPECIFIC
+
 **!SETUP**
-- UTOOL_NUM = 1 for our new pointer
-- Don’t forget to SETIND for this tool
-- OVERRIDE =25% to slow down the speed of the routine
-- REGISTER R[1] = for storing the number of required loops
-- Include Register NAMES to differentiate each R[ ]
+- **UTOOL_NUM** = 1 for our new pointer
+    - Don’t forget to **SETIND** for this tool
+- **OVERRIDE =25%** to slow down the speed of the routine
+- **REGISTER R[1]** = for storing the number of required loops
+    - _Include Register NAMES to differentiate each R[ ]_
 
-**!MAIN**
-- LBL/JMP LBL instructions to loop the program
-- IF/THEN LOGIC
-- R[1] = R[1] + 1 <<< what I call an “adder”
-- IF R[1] = 3 … JMP LBL [999]  <<< hard-coded/direct coding
 
-**!ERRORS**
-- UALM[1] for faulted conditions.
+**!MAIN [100]**
+- **LBL/JMP LBL** instructions to loop the program
+    - **R**[1] = **R**[1] + 1 
+- **IF/THEN** LOGIC
+    - IF **R**[1] = 3 … **JMP LBL** [999]
+        - _hard-coded/direct coding_
 
-**!END OF LINE**
+**!ERRORS [900]**
+- **UALM**[1] for faulted conditions.
+
+
+**!END OF LINE [999]**
 - Move the robot to the SAFE position
-- MESSAGE for completed condition.
+- **MESSAGE** for completed condition.
+
 
 ## VIDEO REFERENCE
 
