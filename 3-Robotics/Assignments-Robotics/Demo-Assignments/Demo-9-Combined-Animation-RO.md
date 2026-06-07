@@ -49,4 +49,3 @@ None. Simulation Editor only.
 ## VIDEO REFERENCE
 
 - Roboguide-Gripper-Setup
-    - _This example doesn’t use RO[ ] or any logic_
