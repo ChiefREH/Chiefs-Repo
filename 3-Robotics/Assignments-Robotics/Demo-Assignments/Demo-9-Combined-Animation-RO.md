@@ -21,14 +21,14 @@
 
 ```text
 LBL [100]
-RO[1] = OFF
-RO[2] = ON
-CALL Z_Grip_PICK
-WAIT 6 sec
-RO[2] = OFF
-RO[1] = ON
-CALL Z_Grip_DROP
-WAIT 6 sec
+- RO[1] = OFF
+- RO[2] = ON
+- CALL Z_Grip_PICK
+- WAIT 6 sec
+- RO[2] = OFF
+- RO[1] = ON
+- CALL Z_Grip_DROP
+- WAIT 6 sec
 JMP LBL [100]
 ```
 
