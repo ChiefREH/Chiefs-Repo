@@ -25,8 +25,6 @@ Properly configure a **PR [ i , j ]** Offset:
     - PR[5: Z OFFSET] > [POSITION] > manually enter "0" for XYZ WPR coordinates > [DONE]
         - _This is a new twist on PR[ ]_
 
-NOTE
-- _If Toolframe 1 or Userframe 1 create problems, we will omit them and carry on!_
 
 ## SECTION SPECIFIC
 
@@ -62,8 +60,10 @@ QUESTIONS
 
 ## LAB PARAMETERS
 - Properly configured **Gripper MACROS** (Tool 1 & Tool 2) are required to hold the Pointer
-- Verify the UTOOL data is properly entered for your robot
-- If you get an "Invalid Frame Error" in the lab, set your user frame to UFRAME = 1
+- Verify the **UTOOL** data is properly entered for your robot
+- If you get an **"Invalid Frame Error"** in the lab, set your user frame to UFRAME = 1
+
+_If Toolframe 1 or Userframe 1 create problems, we will omit them and carry on!_
 
 ## WARNING
 - DO NOT let the EOAT make contact with any part, fixture or work area.
