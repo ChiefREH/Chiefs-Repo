@@ -43,7 +43,7 @@ Right-click C:1 Robot Controller > Add Robot > Add Robot Clone
 
 ## SECTION SPECIFIC
 ```
-!SETUP:
+!SETUP
 - UTOOL_NUM = 1
 - UFRAME = 1
 - OVERRIDE = 50%
@@ -54,19 +54,19 @@ LBL [50]
 - Move to P[1] READY position
 - WAIT (DI[1]) TIMEOUT, LBL [950]
 
-!MAIN:
+!MAIN
 LBL [100]
 - All 4 corner points. Return to READY position.
 - JMP LBL [999]
 
-!ERRORS:
+!ERRORS
 LBL [900]
 - None for this exercise.
 
 LBL [950]
 - UALM 2 (“Wait Time Elapsed”)
 
-!END OF LINE:
+!END OF LINE
 LBL [999]
 - Move to a SAFE position
 - R[7:Month] = ($SYS_TIME.$MONTH)
