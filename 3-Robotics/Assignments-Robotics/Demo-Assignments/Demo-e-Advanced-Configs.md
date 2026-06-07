@@ -50,6 +50,7 @@ Right-click C:1 Robot Controller > Add Robot > Add Robot Clone
 - DO[1] = OFF
 
 !READY POSITION
+LBL [50]
 - Move to P[1] READY position
 - WAIT (DI[1]) TIMEOUT, LBL [950]
 
