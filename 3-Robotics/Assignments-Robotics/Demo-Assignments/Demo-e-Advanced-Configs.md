@@ -21,7 +21,7 @@ $SYS_TIME.$MINUTE
  - Mixed Logic Register adds a “$” to the beginning of the “Parameter”
  - SHIFT+DISP for Split Screen with Data Registers
 
-## Control the Program with a Time Out:
+## Control the Program with a Time Out
 - **WAIT (DI[1]) TIMEOUT, LBL [950]**
     - **TIMEOUT** located in MENU > next > SYSTEM > VARIABLES > **$WAITTMOUT**
     - Measured in hundredths of a second.
@@ -36,7 +36,7 @@ Right-click C:1 Robot Controller > Add Robot > Add Robot Clone
 - Controller 2 DO[1] > Controller 1 DI[1]
 - Controller 1 DO[1] > Controller 2 DI[1]
 
-## Control a Robot remotely with Digital Inputs:
+## Control a Robot remotely with Digital Inputs
 - ROBOT 1: WAIT **DI[1] = ON**
 - ROBOT 2: Doesn’t need a Program, just toggle **DO[1]**
     - Split Screen both Inputs and Outputs
