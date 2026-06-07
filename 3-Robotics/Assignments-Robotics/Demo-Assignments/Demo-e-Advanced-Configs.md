@@ -78,6 +78,9 @@ LBL [999]
 - DO[1] = OFF to stop signaling
 ```
 
+NOTE
+- Adjust the default TIMEOUT to 1000 (10 seconds)
+
 ## VIDEO REFERENCE
 - Adv-Configs-1
 - Adv-Configs-2
