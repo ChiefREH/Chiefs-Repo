@@ -1,14 +1,14 @@
 # POSITION REGISTER OFFSETS (PALLETIZING)
 
-Trace a rectangle pattern with an increasing +Z height
+Trace a rectangle pattern with an increasing Z coordinate of +5mm
 
 ## TASK
-Properly configure a PR [ i , j ] Offset to add +5mm to the Z coordinate every loop
+Properly configure a **PR [ i , j ]** Offset:
 - i = which **PR[ ]** to look at in the **DATA** list
 - j = which **coordinate** inside the **PR[ ]** to look at:
     - X = 1
     - Y = 2
-    - Z = 3
+    - Z = 3 < _we will modify this coordinate_
     - W = 4
     - P = 5
     - R = 6
@@ -61,15 +61,14 @@ QUESTIONS
 - _What happens if the Register stores a negative number?_
 
 ## LAB PARAMETERS
-Properly configured Gripper MACROS (Tool 1 & Tool 2) are required to hold the Pointer
-Verify the UTOOL data is properly entered for your robot
-If you get an "Invalid Frame Error" in the lab, set your user frame to UFRAME = 1
+- Properly configured **Gripper MACROS** (Tool 1 & Tool 2) are required to hold the Pointer
+- Verify the UTOOL data is properly entered for your robot
+- If you get an "Invalid Frame Error" in the lab, set your user frame to UFRAME = 1
 
 ## WARNING
-DO NOT let the EOAT make contact with any part, fixture or work area.
-Doing so is an automatic failure.
+- DO NOT let the EOAT make contact with any part, fixture or work area.
+- Doing so is an automatic failure. No exceptions.
 
 ## VIDEO REFERENCE
 
 - PR-Offsets
-
