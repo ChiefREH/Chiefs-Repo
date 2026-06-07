@@ -11,7 +11,7 @@ In **WORLD MODE**, record the following Points:
 
 _Remember, the gripper will not animate properly unless the Main Program is run in **CYCLE MODE**_
 
-## FOCUS
+## WORLD-BUILDING PARAMETERS
 Include FIXTURE and PARTS:
 - TABLE21
 - RED Box
