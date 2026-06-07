@@ -13,6 +13,15 @@ Batteries are dead or you changed batteries with the robot turned off, losing al
 
 ![Master Calibrate Position](Homebrew-Robot-Images/Master-Cal-Position.jpg)
 
+Joint Positions for Master-Calibration should be close to all zero. If they're off, don't panic!
+
+![Joint Positions](Homebrew-Robot-Images/Joint-Coordinates-1.png)
+
+If the robot doesn't "look" right, then use the "Witness Marks" located on the robot to align all 6 joints:
+
+![Witness Marks](Homebrew-Robot-Images/Witness-Marks.png)
+
+
 ## 3. Enable the Mastering/Calibration Menu:
 - Menu > System > Variables > scroll down to "$MASTER_ENB = 0"
 - Set "$MASTER_ENB = 0" to "$MASTER_ENB = 1" and press ENTER
