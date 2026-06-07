@@ -68,6 +68,7 @@ LBL [950]
 
 !END OF LINE:
 LBL [999]
+- Move to a SAFE POSITION
 - R[7:Month] = ($SYS_TIME.$MONTH)
 - R[8:Day] = ($SYS_TIME.$DAY)
 - R[9:Hour] = ($SYS_TIME.$HOUR)
