@@ -15,8 +15,8 @@ STUDENT ASSIGNMENT
 ```
 
 ## OFFSET PARAMETERS
-- 10 loops for each direction
-- +5 mm / layer SOFT-CODED in a Register R[ ]
+- **10 loops** for each direction
+- **+5 mm** / layer SOFT-CODED in a Register R[ ]
 
 
 ## VIDEO REFERENCE
