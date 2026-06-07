@@ -71,7 +71,7 @@ LBL [999]
 - R[8:Day] = ($SYS_TIME.$DAY)
 - R[9:Hour] = ($SYS_TIME.$HOUR)
 - R[10:Minute] = ($SYS_TIME.$MINUTE)
-- DO[1] = ON to trigger the other robot
+- DO[1] = ON to signal the other robot
 - WAIT 3 sec
 - DO[1] = OFF to stop signaling
 ```
