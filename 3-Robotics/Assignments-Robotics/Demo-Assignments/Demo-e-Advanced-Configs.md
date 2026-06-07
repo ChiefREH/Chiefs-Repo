@@ -22,10 +22,10 @@ $SYS_TIME.$MINUTE
  - SHIFT+DISP for Split Screen with Data Registers
 
 ## Control the Program with a Time Out:
-- WAIT (DI[1]) TIMEOUT, LBL [950]
-    - TIMEOUT located in MENU > next > SYSTEM > VARIABLES > $WAITTMOUT
-- Measured in hundredths of a second.
-- Default is 3000 = 30 seconds
+- **WAIT (DI[1]) TIMEOUT, LBL [950]**
+    - **TIMEOUT** located in MENU > next > SYSTEM > VARIABLES > **$WAITTMOUT**
+    - Measured in hundredths of a second.
+    - Default is 3000 = 30 seconds
 
 ## CLONE a full Robot model
 Right-click C:1 Robot Controller > Add Robot > Add Robot Clone
