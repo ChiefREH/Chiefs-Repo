@@ -27,7 +27,7 @@ $SYS_TIME.$MINUTE
     - Measured in hundredths of a second.
     - Default is 3000 = 30 seconds
 
-## CLONE a full Robot model
+## Clone a full Robot model
 Right-click C:1 Robot Controller > Add Robot > Add Robot Clone
 - Accept default location parameters.
 - Properly configured DI and DO interface
