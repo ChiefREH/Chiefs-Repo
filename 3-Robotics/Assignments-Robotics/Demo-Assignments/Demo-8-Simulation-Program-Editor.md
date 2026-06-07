@@ -15,7 +15,7 @@ Create a new project using this Editor. Record basic points.
     - Can we run from the TP??
 
 ## SECTION SPECIFIC
-```
+
 **!SETUP**
 - Explain the **WAIT** instruction
     - Include a WAIT DI[1]=ON
@@ -32,7 +32,7 @@ Create a new project using this Editor. Record basic points.
 
 **!END OF LINE**
 - Remark & Label only. No code needed.
-```
+
 
 ## VIDEO REFERENCE
 - Sim-Editor-1 
