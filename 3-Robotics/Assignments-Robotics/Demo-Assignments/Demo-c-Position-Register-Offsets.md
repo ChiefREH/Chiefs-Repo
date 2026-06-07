@@ -41,7 +41,7 @@ LBL
 - All box corners are recorded, add Offset, PR[5] to each      
     - PR[5,3:Z OFFSET] = PR[5,3:Z OFFSET] + 5 
 - IF PR[5,3:Z OFFSET] => 300 JMP LBL 999
-    - This is a "soft safety fence"
+    - This is a "safety fence"
 JMP LBL
 
 !ERRORS
@@ -57,6 +57,7 @@ JMP LBL
 - _Can we replace the hard-coded constant "5" with a Register?_
 - _Why would we want to replace the constant?_
 - _What happens if the Register stores a negative number?_
+- _Should we rely on code alone for robot motion safety?_
 
 ## LAB PARAMETERS
 - Properly configured **Gripper MACROS** (Tool 1 & Tool 2) are required to hold the Pointer
