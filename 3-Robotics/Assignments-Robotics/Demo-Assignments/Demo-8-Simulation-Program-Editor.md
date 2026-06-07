@@ -20,7 +20,7 @@ Create a new project using this Editor. Record basic points.
     - Include a WAIT DI[1]=ON
     - Won’t work unless the input is set to SIM
 
-**!MAIN **
+**!MAIN**
 - FOR LOOP LOGIC
     - FOR R[1] = 1 to 3
     - ENDFOR to loop the program x3
