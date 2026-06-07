@@ -4,7 +4,7 @@ Create a 4-corner tracing Program using Table21 and a blue Box
 
 Remember to run both in **CYCLE MODE**
 
-## TASK:
+## TASK
 Install Optional Package "Internet Conn/Custo (R558)"
 - Right-click LR MATE 200iD > Properties > Serialize
 - **DO NOT** use SERIALIZE WIZARD. It will add a NEW robot!
