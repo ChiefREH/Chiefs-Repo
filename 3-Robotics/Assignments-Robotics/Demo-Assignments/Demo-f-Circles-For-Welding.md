@@ -40,7 +40,7 @@ JMP LBL
 **QUESTIONS**
 - _Notice the pause between each arc?_
 - _How can we eliminate the pause?_
-    - _Change 1st point on Circle to LINEAR 250mm/sec CNT100 ?_
+    - _Change 1st point on Circle to LINEAR 250mm/sec **CNT100** ?_
 
 
 ## LAB PARAMETERS
