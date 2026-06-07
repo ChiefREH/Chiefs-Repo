@@ -53,7 +53,7 @@ JMP LBL
     - Does not require a PR, CALL or a SAFE MACRO
 ```
 
-QUESTIONS
+**QUESTIONS**
 - _Can we replace the hard-coded constant "5" with a Register?_
 - _Why would we want to replace the constant?_
 - _What happens if the Register stores a negative number?_
