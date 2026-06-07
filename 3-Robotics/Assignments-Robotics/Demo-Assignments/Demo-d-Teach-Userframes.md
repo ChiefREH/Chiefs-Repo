@@ -2,7 +2,7 @@
 
 _Cannot move tables around Big Yella and Benchie, so I limit this exercise to Roboguide._
 
-## TASK:
+## TASK
 Teach a UFRAME_NUM origin for a fixture (**Table-With-Legs**) in the world
 1. **SETIND** for your new UFRAME number
 2. Set one BOX on the Table and record all the top corner Points
@@ -13,17 +13,17 @@ Teach a UFRAME_NUM origin for a fixture (**Table-With-Legs**) in the world
 6. Verify the box tracing Program works properly in the new location
 
 
-## ROBOGUIDE PARAMETERS:
+## ROBOGUIDE PARAMETERS
 - Part: Blue "Box"
 - Fixture Model: **"Table-With-Legs”**
 
 
-## TEACH PENDANT / MENU PARAMETERS:
+## TEACH PENDANT / MENU PARAMETERS
 - Coordinates: **WORLD**
 - Active Frames: Tool Frame 1 & User Frame 1
     - **UFrame** must be taught first (**Three-Point Method**)
 
-## SECTION SPECIFIC:
+## SECTION SPECIFIC
 
 ```
 !SETUP
