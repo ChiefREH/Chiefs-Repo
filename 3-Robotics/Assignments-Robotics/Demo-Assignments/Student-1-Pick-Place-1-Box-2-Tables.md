@@ -3,7 +3,7 @@
 Student Assignment 
 
 
-## SIMULATION PARAMETERS (100 points)
+## SIMULATION PARAMETERS
 - Proper Gripper setup
     - Animated grippers in Simulation
     - Bind Open/Close macros to TP keys
@@ -14,7 +14,7 @@ Student Assignment
 - Include message indicating when all loops are complete
 
 
-## LAB PARAMETERS (100 points)
+## LAB PARAMETERS
 - Proper Gripper setup
     - Bind Open/Close macros to TP keys
 - Loop 3 times
