@@ -27,7 +27,7 @@
 ## Simple IF - THEN statement (SERIES)
 
 - Moving left to right on the ladder rung:
-    - If there is a 1 at address "Tag_1"
+    - IF there is a 1 at address "Tag_1"
         - THEN
     - OTE will write a 1 to address "Tag_2"
 
