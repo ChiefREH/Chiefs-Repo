@@ -12,8 +12,14 @@
 ## TRUTH TABLE
 
 - XIC sends a true signal on 1, false signal on 0
+    - Think of it as a N.O. pushbutton
+    - When you press and hold, it **sends** the voltage signal
 - XIO sends a true signal on 0, false signal on 1
+    - Think of it as a N.C. pushbutton
+    - When you press and hold, it **breaks** the voltage signal
 - OTE is 1 if continuity is true, 0 if continuity is false*
+    - Think of it as a coil/electromagnet
+    - When it gets a voltage signal, it does its thing!
 
 > _*OTL -( L )- and OTU -( U )- break this logic_
 
