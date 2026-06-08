@@ -1,4 +1,4 @@
-# WORK-CELL SETUP AND LAB EQUIPMENT
+# WORK-CELL SETUP AND LAB SAFETY
 
 REVIEW FEDERAL REGULATIONS
 
@@ -22,3 +22,5 @@ https://www.osha.gov/otm/section-4-safety-hazards/chapter-4#intro
 - Emergency Exit(s)
 - Muster location after leaving KNY
 - Tornado shelter(s)
+
+![Work Zones](Lab-Images/Work-Zones.png)

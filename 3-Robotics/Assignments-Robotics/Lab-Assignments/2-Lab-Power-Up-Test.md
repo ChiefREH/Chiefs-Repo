@@ -14,4 +14,4 @@
 - Number: UR5
 - Nickname: “Silver”
 
-![text](Lab-Images/UR5-Silver.jpg)
+![Silver UR5](Lab-Images/UR5-Silver.jpg)
