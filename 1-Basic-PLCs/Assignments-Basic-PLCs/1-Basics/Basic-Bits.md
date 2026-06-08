@@ -65,3 +65,47 @@ L         Tag_1             Tag_3      R
 
 ```
 
+## Simple AND-OR statement (COMBO)
+
+- Reading left to right on the ladder rung:
+    - If there is a 1 at address "Tag_1"
+        - AND
+    - If there is a 1 at address "Tag_2"
+        - OR
+    - If there is a 1 at address "Tag_3"
+        - THEN
+    - OTE will write a 1 to address "Tag_4"
+
+```text
+L      Tag_1           Tag_2             Tag_4      R
+|------[   ]-------+---[   ]---+---------(   )------|
+                   |           |
+                   |   Tag_3   |
+                   |---[   ]---|
+
+
+-[   ]- XIC
+-[ / ]- XIO
+-(   )- OTE
+
+```
+
+## Simple Seal-In Circuit
+
+QUESTION
+- _How does this combo differ from the previous example?_
+- _Why configure the ladder in this way?_
+
+```text
+L      Tag_1           Tag_2             Tag_4      R
+|------[ / ]-------+---[   ]---+---------(   )------|
+                   |           |
+                   |   Tag_4   |
+                   |---[   ]---|
+
+
+-[   ]- XIC
+-[ / ]- XIO
+-(   )- OTE
+
+```
