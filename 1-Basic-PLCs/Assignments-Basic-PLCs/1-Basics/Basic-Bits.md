@@ -90,7 +90,7 @@ L      Tag_1           Tag_2             Tag_4      R
 
 ```
 
-## Simple Seal-In Circuit
+## Simple Seal-In Circuit for Motor Control
 
 QUESTION
 - _How does this combo differ from the previous examples?_
