@@ -18,7 +18,7 @@
 > _*OTL -( L )- and OTU -( U )- break this logic_
 
 
-## Simple boolean AND statement
+## Simple boolean AND statement (SERIES)
 
 - Reading left to right on the ladder rung:
     - If there is a 0 at address "Tag_2"
@@ -33,13 +33,14 @@
 L      Tag_2        Tag_1        Tag_3      R
 |------[ / ]--------[   ]--------(   )------|
 
+
 -[   ]- XIC
 -[ / ]- XIO
 -(   )- OTE
 
 ```
 
-## Simple boolean OR statement
+## Simple boolean OR statement (PARALLEL)
 
 - Reading left to right on the ladder rung:
     - If there is a 1 at address "Tag_1"
@@ -56,6 +57,7 @@ L         Tag_1             Tag_3      R
       |           |
       |   Tag_4   |
       |---[   ]---|
+
 
 -[   ]- XIC
 -[ / ]- XIO
