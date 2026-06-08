@@ -93,7 +93,7 @@ L      Tag_1           Tag_2             Tag_4      R
 ## Simple Seal-In Circuit
 
 QUESTION
-- _How does this combo differ from the previous example?_
+- _How does this combo differ from the previous examples?_
 - _Why configure the ladder in this way?_
 
 ```text
