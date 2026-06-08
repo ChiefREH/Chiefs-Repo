@@ -18,7 +18,7 @@
 > _*OTL -( L )- and OTU -( U )- break this logic_
 
 
-## Simple IF-THEN statement (SERIES)
+## Simple IF - THEN statement (SERIES)
 
 - Moving left to right on the ladder rung:
     - If there is a 1 at address "Tag_1"
@@ -86,7 +86,7 @@ L         Tag_1             Tag_3      R
 
 ```
 
-## Simple AND-OR statement (COMBO)
+## Simple AND - OR statement (COMBO)
 
 - Moving left to right on the ladder rung:
     - If there is a 1 at address "Tag_1"
