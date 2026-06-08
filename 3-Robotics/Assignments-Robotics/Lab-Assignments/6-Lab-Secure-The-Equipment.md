@@ -7,3 +7,5 @@ At the end of class, perform the following tasks:
 - Thoroughly clean the lab.
 - Secure all stations for the next class.
 - Update any documentation as required.
+
+![Lab Cleanup](Lab-Images/Final-Lab-Cleanup.jpg)
