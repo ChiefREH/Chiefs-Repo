@@ -43,7 +43,7 @@ L         Tag_1            Tag_2         R
 
 - Moving left to right on the ladder rung:
     - If there is a 1 at address "Tag_1"
-        - And
+        - AND
     - If there is a 1 at address "Tag_2"
         - THEN
     - OTE will write a 1 to address "Tag_3"
