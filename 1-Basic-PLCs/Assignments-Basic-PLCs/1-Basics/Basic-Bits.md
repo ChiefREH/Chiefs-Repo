@@ -21,17 +21,17 @@
 ## Simple boolean AND statement (SERIES)
 
 - Reading left to right on the ladder rung:
-    - If there is a 0 at address "Tag_2"
+    - If there is a 1 at address "Tag_1"
         - And
-    - There is a 1 at address "Tag_1"
+    - If there is a 1 at address "Tag_2"
         - THEN
     - OTE will write a 1 to address "Tag_3"
 
 > _This is a boolean expression of an AND statement_
 
 ```text
-L      Tag_2        Tag_1        Tag_3      R
-|------[ / ]--------[   ]--------(   )------|
+L      Tag_1        Tag_2        Tag_3      R
+|------[   ]--------[   ]--------(   )------|
 
 
 -[   ]- XIC
