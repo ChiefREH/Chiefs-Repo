@@ -42,22 +42,20 @@ L      Tag_2        Tag_1        Tag_3      R
 ## Simple boolean OR statement
 
 - Reading left to right on the ladder rung:
-    - If there is a 0 at address "Tag_2"
-    - And there is a 1 at address "Tag_1"
+    - If there is a 1 at address "Tag_1"
         - OR
-    - There is a 0 at address "Tag_2"
-    - And there is a 1 at address "Tag_4"
+    - If there is a 1 at address "Tag_4"
         - THEN
     - OTE will write a 1 to address "Tag_3"
 
 > _This is a boolean expression of an OR statement_
 
 ```text
-L      Tag_2        Tag_1       Tag_3      R
-|------[ / ]----+---[   ]---+---(   )------|
-                |           |
-                |   Tag_4   |
-                |---[   ]---|
+L         Tag_1             Tag_3      R
+|-----+---[   ]---+---------(   )------|
+      |           |
+      |   Tag_4   |
+      |---[   ]---|
 
 -[   ]- XIC
 -[ / ]- XIO
