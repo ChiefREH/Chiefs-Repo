@@ -36,8 +36,8 @@
 
 Moving left to right on the ladder rung:
 
-- IF there is a 1 at address "Tag_1"
-    - THEN the OTE will write a 1 to address "Tag_2"
+- **IF** there is a 1 at address "Tag_1"
+    - **THEN** the OTE will write a 1 to address "Tag_2"
 
 > _This is a boolean expression of an AND statement_
 
@@ -57,10 +57,10 @@ L         Tag_1            Tag_2         R
 
 Moving left to right on the ladder rung:
 
-- IF there is a 1 at address "Tag_1"
-    - AND
-- IF there is a 1 at address "Tag_2"
-    - THEN the OTE will write a 1 to address "Tag_3"
+- **IF** there is a 1 at address "Tag_1"
+    - **AND**
+- **IF** there is a 1 at address "Tag_2"
+    - **THEN** the OTE will write a 1 to address "Tag_3"
 
 > _This is a boolean expression of an AND statement_
 
@@ -79,10 +79,10 @@ L      Tag_1        Tag_2        Tag_3      R
 
 Moving left to right on the ladder rung:
 
-- IF there is a 1 at address "Tag_1"
-    - OR
-- IF there is a 1 at address "Tag_2"
-    - THEN the OTE will write a 1 to address "Tag_3"
+- **IF** there is a 1 at address "Tag_1"
+    - **OR**
+- **IF** there is a 1 at address "Tag_2"
+    - **THEN** the OTE will write a 1 to address "Tag_3"
 
 > _This is a boolean expression of an OR statement_
 
@@ -104,12 +104,12 @@ L         Tag_1             Tag_3      R
 
 Moving left to right on the ladder rung:
 
-- IF there is a 1 at address "Tag_1"
-    - AND
-- IF there is a 1 at address "Tag_2"
-    - OR
-- IF there is a 1 at address "Tag_3"
-    - THEN the OTE will write a 1 to address "Tag_4"
+- **IF** there is a 1 at address "Tag_1"
+    - **AND**
+- **IF** there is a 1 at address "Tag_2"
+    - **OR**
+- **IF** there is a 1 at address "Tag_3"
+    - **THEN** the OTE will write a 1 to address "Tag_4"
 
 ```text
 L      Tag_1           Tag_2             Tag_4      R
