@@ -27,9 +27,10 @@
 ## Simple IF - THEN statement (SERIES)
 
 - Moving left to right on the ladder rung:
-    - IF there is a 1 at address "Tag_1"
-        - THEN
-    - OTE will write a 1 to address "Tag_2"
+    - IF
+        - There is a 1 at address "Tag_1"
+    - THEN
+        - OTE will write a 1 to address "Tag_2"
 
 > _This is a boolean expression of an AND statement_
 
@@ -48,9 +49,9 @@ L         Tag_1            Tag_2         R
 ## Simple boolean AND statement (SERIES)
 
 - Moving left to right on the ladder rung:
-    - If there is a 1 at address "Tag_1"
+    - IF there is a 1 at address "Tag_1"
         - AND
-    - If there is a 1 at address "Tag_2"
+    - IF there is a 1 at address "Tag_2"
         - THEN
     - OTE will write a 1 to address "Tag_3"
 
@@ -70,9 +71,9 @@ L      Tag_1        Tag_2        Tag_3      R
 ## Simple boolean OR statement (PARALLEL)
 
 - Moving left to right on the ladder rung:
-    - If there is a 1 at address "Tag_1"
+    - IF there is a 1 at address "Tag_1"
         - OR
-    - If there is a 1 at address "Tag_2"
+    - IF there is a 1 at address "Tag_2"
         - THEN
     - OTE will write a 1 to address "Tag_3"
 
@@ -95,11 +96,11 @@ L         Tag_1             Tag_3      R
 ## Simple AND - OR statement (COMBO)
 
 - Moving left to right on the ladder rung:
-    - If there is a 1 at address "Tag_1"
+    - IF there is a 1 at address "Tag_1"
         - AND
-    - If there is a 1 at address "Tag_2"
+    - IF there is a 1 at address "Tag_2"
         - OR
-    - If there is a 1 at address "Tag_3"
+    - IF there is a 1 at address "Tag_3"
         - THEN
     - OTE will write a 1 to address "Tag_4"
 
