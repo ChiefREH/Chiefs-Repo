@@ -1,6 +1,6 @@
 # 4-Way Traffic (N-S-E-W) TON Timers
 
-Emulate a 4-way NORTH-SOUTH-EAST-WEST traffic pattern using the following LD instructions:
+Emulate a 4-way **NORTH-SOUTH-EAST-WEST** traffic pattern using the following LD instructions:
 - All necessary XIC and XIO instructions 
 - (3) TON Timers to control the NORTH-SOUTH lights 
 - (3) TON Timers to control the EAST-WEST lights 
