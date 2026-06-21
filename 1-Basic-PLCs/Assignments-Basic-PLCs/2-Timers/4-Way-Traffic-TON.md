@@ -13,7 +13,10 @@ Emulate a 4-way NORTH-SOUTH-EAST-WEST traffic pattern using the following LD ins
 
 ## PARAMETERS
 
-- Lights must function as they do in the real world. 
+- Use a SEAL-IN circuit to start/stop the routine 
+- Once started, the routine must continually loop 
+- The light sequence must follow the common logical sequence 
+- Do not create a traffic jam or motor vehicle accident!
 
 ### Do NOT create a traffic jam!
 
