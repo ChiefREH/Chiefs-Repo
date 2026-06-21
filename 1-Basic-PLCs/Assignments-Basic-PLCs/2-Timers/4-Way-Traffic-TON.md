@@ -18,6 +18,5 @@ Emulate a 4-way **NORTH-SOUTH-EAST-WEST** traffic pattern using the following LD
 - The light sequence must follow the common logical sequence 
 - Do not create a traffic jam or motor vehicle accident!
 
-### Do NOT create a traffic jam!
 
 *Proper rung documentation is mandatory.
