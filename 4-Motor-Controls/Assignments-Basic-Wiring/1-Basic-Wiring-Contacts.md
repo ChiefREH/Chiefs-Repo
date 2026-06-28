@@ -12,7 +12,7 @@ Wire (arrow) comes in from the left and goes out the right...
 
 ![NO good](Assignment-Motors-Basic-Images/Good-Wiring-2.png)
 
-You can wire in/out on the NC and NO at the same time
+You can wire in/out on the NC and NO at the same time!
 
 ![Both good](Assignment-Motors-Basic-Images/Good-Wiring-3.png)
 
