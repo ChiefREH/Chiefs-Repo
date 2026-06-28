@@ -1,7 +1,7 @@
 # BASIC PUSHBUTTON WIRING
 
 - For this example, power moves from left to right
-- The internal contacts are arranged horizontally (parallel)
+- The internal contacts are arranged in pairs horizontally (parallel)
 
 ![NC good](Assignment-Motors-Basic-Images/Good-Wiring-1.png)
 
@@ -9,7 +9,7 @@
 
 ![Both good](Assignment-Motors-Basic-Images/Good-Wiring-3.png)
 
-- Do not wire in on one contact and exit on another (diagonally)
+- Do not wire in on one pair and exit on another pair (diagonally)
 
 ![Not good](Assignment-Motors-Basic-Images/Bad-Wiring-1.png)
 
