@@ -6,7 +6,7 @@ For this example, power moves from left to right
 
 ![Pushbutton Contacts](Assignment-Motors-Basic-Images/Pushbutton-Pairs.png)
 
-Wire comes in from the left and goes out the right...
+Wire (arrow) comes in from the left and goes out the right...
 
 ![NC good](Assignment-Motors-Basic-Images/Good-Wiring-1.png)
 
