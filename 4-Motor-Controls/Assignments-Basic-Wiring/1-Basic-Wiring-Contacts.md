@@ -1,11 +1,14 @@
 # BASIC PUSHBUTTON WIRING
 
-![text](Assignment-Motors-Basic-Images/Good-Wiring-1.png)
+- The internal contacts are arranged horizontally (parallel)
+- Do not criss-cross the wiring diagonally
 
-![text](Assignment-Motors-Basic-Images/Good-Wiring-2.png)
+![NC good](Assignment-Motors-Basic-Images/Good-Wiring-1.png)
 
-![text](Assignment-Motors-Basic-Images/Good-Wiring-3.png)
+![NO good](Assignment-Motors-Basic-Images/Good-Wiring-2.png)
 
-![text](Assignment-Motors-Basic-Images/Bad-Wiring-1.png)
+![Both good](Assignment-Motors-Basic-Images/Good-Wiring-3.png)
 
-![text](Assignment-Motors-Basic-Images/Bad-Wiring-2.png)
+![Not good](Assignment-Motors-Basic-Images/Bad-Wiring-1.png)
+
+![Not good](Assignment-Motors-Basic-Images/Bad-Wiring-2.png)
