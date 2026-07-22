@@ -7,7 +7,7 @@
 
 
 - DISTINGUISH BETWEEN ROBOTIC TYPES
-    - _Performed in class: Quiz_
+    - _Performed in class: Written Quiz_
 
 
 - SUMMARIZE A CURRENT TOPIC
