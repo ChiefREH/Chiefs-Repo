@@ -19,7 +19,7 @@ _*Some options will vary by software version._
 
 **!SETUP**
 - No **LBL** required for this Section
-- Instructions in this Section will only be executed once during start
+- Instructions in this Section will only be executed once during start-up
 - Data/Variables can be hard-coded or placed in Registers
 
 **!MAIN [LBL 100]**
