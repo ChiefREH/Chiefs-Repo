@@ -18,7 +18,7 @@ _*Some options will vary by software version._
 ## PROGRAM SECTIONS
 
 **!SETUP**
-- No LBL required for this Section
+- No **LBL** required for this Section
 - Contains code that will only be executed once during start
 - Data/Variables can be hard-coded or placed in Registers
 
