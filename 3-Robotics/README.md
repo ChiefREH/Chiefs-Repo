@@ -3,12 +3,12 @@
 ## COURSE LEARNING OUTCOMES
 
 - IDENTIFY ASPECTS OF INDUSTRIAL ROBOTICS SAFETY
-    - _Performed in lab: Pick-and-Place program_
+    - _Performed in lab: Work-cell Safety & Lab Setup_
 
 
 - DISTINGUISH BETWEEN ROBOTIC TYPES
-    - _Performed in lab: Power up and Troubleshooting Alarms_
+    - _Performed in class: Written Exam_
 
 
 - SUMMARIZE A CURRENT TOPIC
-    - _Performed in class: Summarize a topic (written Exam)_
+    - _Performed in class: Written Exam_
