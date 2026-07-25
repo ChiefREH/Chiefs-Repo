@@ -16,5 +16,3 @@
 - However, it is done using the old language, RS500 for MicroLogix
 - Regardless of the interface, the instructions are nearly identical
 - I highly recommend you grab a copy of RS500 to practice these skills
-
-testing out new git
