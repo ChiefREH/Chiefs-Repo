@@ -241,3 +241,34 @@ BLUE CYLINDER
 **ADDITIONAL PARAMETERS**
 
 - Add to Table21 > Parts tab > Edit Part Offset > W + 90
+
+## CONVEYOR FIXTURE
+
+Machines > Fixture > Conveyors > convyr
+
+|  LOC  |     | SCALE  |       |
+| :---: | :-: | :----: | :---: |
+| **X** | 300 | **X**  | 0.25  |
+| **Y** | 250 | **Y**  | 0.25  |
+| **Z** | 185 | **Z**  | 0.25  |
+| **W** |  0  |        |       |
+| **P** |  0  | **WT** |       |
+| **R** |  0  |        | 10 kg |
+
+Right-Click > Add **Link** > Box
+Tab > Link CAD
+
+|  LOC  |     | SCALE  |       |
+| :---: | :-: | :----: | :---: |
+| **X** | 30  | **X**  | 30 mm |
+| **Y** | 85  | **Y**  | 30 mm |
+| **Z** | 30  | **Z**  | 30 mm |
+| **W** |  0  |        |       |
+| **P** |  0  | **WT** |       |
+| **R** |  0  |        | 1 kg  |
+
+**ADDITIONAL PARAMETERS**
+
+- Properties > Edit Axis Origin > P: 90
+    - The Box will be underneath the conveyor
+- Link CAD tab > Location > X:  -15
