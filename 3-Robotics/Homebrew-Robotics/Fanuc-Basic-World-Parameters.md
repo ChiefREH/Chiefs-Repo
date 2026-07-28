@@ -269,6 +269,8 @@ Tab > Link CAD
 
 **ADDITIONAL PARAMETERS**
 
-- Properties > Edit Axis Origin > P: 90
-    - The Box will be underneath the conveyor
-- Link CAD tab > Location > X:  -15
+- General tab > Align Origin of 3D Motor dropdown > select "X Axis"
+    - If you leave at Z Axis, take the following steps:
+        - Properties > Edit Axis Origin > P: 90
+        - The Box will be underneath the conveyor
+        - Link CAD tab > Location > X:  -15
