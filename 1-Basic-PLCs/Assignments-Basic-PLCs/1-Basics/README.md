@@ -4,11 +4,11 @@
 
 ## PROGRAMMING LANGUAGES
 
-- **LD: Ladder Diagram** (our focus)
+- **LD: Ladder Diagram** (our focus this semester)
+- ST: Structured Text
 - FBD: Function Block Diagram
 - SFC: Sequential Function Charts
-- ST: Structured Text
-- IL: Instruction List
+- IL: Instruction List (removed, deprecated)
 
     
 ## SOFTWARE
