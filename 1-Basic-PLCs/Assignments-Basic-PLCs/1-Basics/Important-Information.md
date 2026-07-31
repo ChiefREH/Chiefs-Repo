@@ -23,4 +23,3 @@
 - If possible, download a copy of the installed code BEFORE troubleshooting
 - This way, if you accidentally erase something, you have the original as backup
 
-
