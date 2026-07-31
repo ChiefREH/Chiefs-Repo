@@ -1,13 +1,13 @@
 # IMPORTANT INFORMATION
 
 
-## PROGRAMMING LANGUAGES
+## IEC 61131-3 STANDARD PROGRAMMING LANGUAGES
 
 - **LD: Ladder Diagram** (our focus this semester)
 - ST: Structured Text
 - FBD: Function Block Diagram
 - SFC: Sequential Function Charts
-- IL: Instruction List (removed, deprecated)
+- IL: Instruction List (removed 2025, deprecated)
 
 
 ## SCAN CYCLE
