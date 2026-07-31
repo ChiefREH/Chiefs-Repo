@@ -1,5 +1,6 @@
 # BASIC INFORMATION
 
+
 ## PROGRAMMING LANGUAGES
 
 - **LD: Ladder Diagram** (our focus this semester)
