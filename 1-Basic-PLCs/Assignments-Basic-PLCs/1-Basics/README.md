@@ -2,13 +2,6 @@
 
 [Studio 5000 General Instructions PDF](https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/1756-rm003_-en-p.pdf)
 
-## PROGRAMMING LANGUAGES
-
-- **LD: Ladder Diagram** (our focus this semester)
-- ST: Structured Text
-- FBD: Function Block Diagram
-- SFC: Sequential Function Charts
-- IL: Instruction List (removed, deprecated)
 
     
 ## SOFTWARE
