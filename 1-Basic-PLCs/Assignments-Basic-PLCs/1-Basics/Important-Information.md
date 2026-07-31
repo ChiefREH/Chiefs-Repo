@@ -7,3 +7,13 @@
 - FBD: Function Block Diagram
 - SFC: Sequential Function Charts
 - IL: Instruction List (removed, deprecated)
+
+
+## SCAN CYCLE
+
+- Scan the Inputs
+- Execute Logic
+- Update the Outputs
+- Housekeeping (watchdog timer)
+
+
