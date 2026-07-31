@@ -22,6 +22,7 @@
 
 - If possible, download a copy of the installed code BEFORE troubleshooting
     - This way, if you accidentally erase something, you have the original as backup
+    - AND, that code is not yours, it belongs to the client, so handle accordingly
 
 
 ## TROUBLESHOOTING
