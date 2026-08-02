@@ -12,7 +12,7 @@
 - Linear moves in line with the Axis selected
 
 ## SPEED
-- Top Speed Option is how fast the package moves away from the starting point
+- Top Speed option is how fast the package moves away from the starting point
 - Bottom Speed option is how fast the package returns to the starting point
     - We’ll set this to 100,000 so it snaps back really fast
 
