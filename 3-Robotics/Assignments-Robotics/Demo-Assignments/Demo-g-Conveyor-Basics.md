@@ -32,3 +32,8 @@
     - This is a good way to set the timing of robot motion without relying on timers.
 
 > Example read right to left: When the Box arrives at the location 50mm from the starting position, send an OFF signal to the Robot Controller 1 Digital Input DI[3].
+
+## VIDEO REFERENCE
+
+- Conveyor Basics
+- Conveyor Table Pick & Place
