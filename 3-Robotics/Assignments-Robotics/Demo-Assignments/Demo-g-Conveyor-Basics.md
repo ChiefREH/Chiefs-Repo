@@ -24,7 +24,7 @@
 - When the Controller listed in “Output Dev” activates the “IO Tag” with “Value,” the Conveyor will then move the package to the “Location” indicated at the SPEED set above.
 - This section receives signal from the Robot IO.
 
-> Example read left to right: When Robot Controller 1 turns Digital Output DO[3] ON, move the Box 950mm away from the starting position at 250mm/sec.
+> Example read left to right: When Robot Controller 1 turns Digital Output DO[3] to ON, move the Box 950mm away from the starting position at 250mm/sec.
 
 ### Outputs (bottom)
 - When the package arrives at the “Location” indicated, the conveyor will signal the Controller listed in “Input Dev” at the “IO Tag” with the “Value” indicated.
