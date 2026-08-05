@@ -13,3 +13,26 @@ After pressing the Start button the motor, fan and oil pump will turn on. The mo
 There are 2 lights (**“Green_Light”** and **“Yellow_light”**). The green light will be on while the motor is running. The yellow light will be on while the motor is stopped.
 
 Use a counter to count the times that push start has been pressed. When the counter reaches 10, turn on a bit called **“SERVICE”**. Use a push button input called **“RESET”** to reset the count and turn off the **“SERVICE”** bit.
+
+## EXAMPLE
+
+```text
++----------------------------------------------------------------------------------------+
+|                                                                                        |
+|                                                                                        |
+|                                                                                        |
+|      +------------------+    +----------------------+      +--------------------+      |
+|      | INPUTS           |    |                      |      | OUTPUTS            |      |
+|      |                  |    |                      |      |                    |      |
+|      | START_PB         |----|                      |------| GREEN_LIGHT        |      |
+|      |                  |    |                      |------| YELLOW_LIGHT       |      |
+|      | STOP_PB          |----|         PLC          |------| M1_25              |      |
+|      |                  |    |                      |------| M1_50              |      |
+|      | RESET            |----|                      |------| M1_75              |      |
+|      |                  |    |                      |------| M1_100             |      |
+|      |                  |    |                      |------| OIL_PUMP           |      |
+|      +------------------+    |                      |------| FAN                |      |
+|                              +----------------------+      +--------------------+      |
+|                                                                                        |
++----------------------------------------------------------------------------------------+
+```
