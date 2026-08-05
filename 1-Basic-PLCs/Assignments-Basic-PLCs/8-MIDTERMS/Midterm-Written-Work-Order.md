@@ -1,6 +1,6 @@
 # LJ's WRITTEN WORK ORDER
 
-# PLC Program Test
+## PLC Program Test
 
 Create a PLC program for the startup and stop of a motor with its oil pump and fan. There are 2 inputs called **“Start_PB”** and **“Stop_PB”**. The initial state remains with the motor off. There are 4 motor speeds (25%, 50%, 75% and 100%).
 
