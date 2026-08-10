@@ -10,4 +10,4 @@
     - _Performed in lab: Program a 4-way traffic light pattern_
 
 3. Reconstruct ladder logic diagrams for programmable logic controller software implementation.
-    - _Performed in lab: Seal-In circuit controls aliased to external Pushbuttons_
+    - _Performed in lab: Seal-In circuit controls aliased to external Push-buttons_
