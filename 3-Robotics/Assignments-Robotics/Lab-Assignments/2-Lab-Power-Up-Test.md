@@ -2,7 +2,7 @@
 
 ## TASK
 
-- Identify the nickname for each robot
+- Identify the nickname for each Robot
 - Record the Make/model of each Robot
 - Record the Make/model of each Controller
     - Record the robot “F-Number” for Fanuc models
