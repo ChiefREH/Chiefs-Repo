@@ -1,10 +1,5 @@
 # WORK-CELL SETUP AND LAB SAFETY
 
-REVIEW FEDERAL REGULATIONS
-
-https://www.osha.gov/otm/section-4-safety-hazards/chapter-4#intro
-
-## WORK CELLS
 - Verify safety barriers around the robot stations
 - Orient the bench mounted robots for easier access to power supplies
 - Discuss best arrangement of available equipment for use in final projects

@@ -5,6 +5,11 @@
 - Define what a robot is
 - Identify 7 types of robots
 
+### REVIEW FEDERAL REGULATIONS
+
+https://www.osha.gov/otm/section-4-safety-hazards/chapter-4#intro
+
+
 ## LAB TASK
 
 - Identify the nickname for our Robots
