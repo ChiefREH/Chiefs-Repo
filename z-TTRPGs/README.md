@@ -70,6 +70,10 @@ You can download the free version in PDF format.
 
 The text of Dungeon World is released under a Creative Commons Attribution license. You can make, distribute, and even sell anything you like based on Dungeon World.
 
+### [Index Card RPG](https://www.runehammer.online/index-card-rpg)
+
+ICRPG provides a role-playing framework, a creative mindset, and heaps of LOOT players will need to get the job done, no matter what kind of game you're playing. MASTER EDITION combines all the biggest pieces of the ICRPG puzzle, with revised rules, tighter writing, and art from all over the multiverse. It truly is a system at your command.​
+
 ### [Dungeons & Dragons SRD](https://www.dndbeyond.com/srd)
 
 The System Reference Document (SRD) contains D&D rules content you can use and reference to publish content under Creative Commons.
