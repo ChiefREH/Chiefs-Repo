@@ -25,7 +25,7 @@ With the controller power OFF, press and HOLD [F1] and [F5] keys on the Teach Pe
 ## CLEAR ALARMS
 
 - Once you've got to the main menu screen, test to see if you can jog the robot.
-- Chances are you will have a couple alarms to clear first.
+- Chances are you will have some common alarms to clear first.
 
 ### Enter MASTER CODE
 - When asked, enter the Master Code and continue to follow onscreen instructions.
@@ -43,6 +43,7 @@ With the controller power OFF, press and HOLD [F1] and [F5] keys on the Teach Pe
 
 ###  ETHERNET/IP Alarm
 - You can disable the ETH/IP alarm from > Menu > I/O menu > last menu on the far right (right arrow 2 times) > EtherNet/IP > ENTER > the first entry is TRUE > change to FALSE.
+
 
 ## JOG THE ROBOT
 
