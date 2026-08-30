@@ -32,7 +32,7 @@ With the controller power OFF, press and HOLD [F1] and [F5] keys on the Teach Pe
 
 
 ### Apply DCS
-- This may require you to hit F2 [APPLY] and then [OK] to accept changes to DCS.
+- This may require you to hit [APPLY] and then [OK] to accept changes to DCS.
 - "Cycle Power" means turning off the controller for 20-30 seconds, then turning the power on for the changes to take effect.
 - On some robots, you will do this 2-3 times.
 
