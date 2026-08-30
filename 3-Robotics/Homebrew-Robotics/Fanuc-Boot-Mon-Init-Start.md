@@ -38,7 +38,7 @@ With the controller power OFF, press and HOLD [F1] and [F5] keys on the Teach Pe
 
 
 ### "HOLD" Alarm
-- Alarm **MCTL-013** can be disabled from > Menu > System > Variable > $OP_WORK > ENTER > set UOP Disable = 1 (TRUE) > ENTER.
+- Alarm **MCTL-013** can be cleared from > Menu > System > Variable > $OP_WORK > ENTER > set UOP Disable = 1 (TRUE) > ENTER.
 
 
 ###  ETHERNET/IP Alarm
