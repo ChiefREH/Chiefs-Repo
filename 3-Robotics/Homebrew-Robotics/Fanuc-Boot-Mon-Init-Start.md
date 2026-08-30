@@ -46,7 +46,7 @@ With the controller power OFF, press and HOLD [F1] and [F5] keys on the Teach Pe
 
 ## JOG THE ROBOT
 
-- With the alarms cleared, "jog" each robot axis 20-30 degrees in both directions from the current position.
+- With the alarms cleared, "jog" each robot axis **20-30 degrees in both directions** from the current position.
 - We're doing this to send fresh **PULSECODER** signals to the controller.
 - Once this is done, jog each axis to it's **MECHANICAL ZERO** position using the **WITNESS MARKS** at each joint.
 - See my **MASTER/CAL** instructions for the next steps.
