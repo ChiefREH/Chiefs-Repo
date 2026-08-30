@@ -54,9 +54,6 @@ If the robot doesn't "look" right, then use the "Witness Marks" located on the r
 
 ![Programming Position](Homebrew-Robot-Images/Programming-Position.jpg)
 
-- You can disable the ETH/IP alarm from > Menu > I/O menu > last menu on the far right (right arrow 2 times) > EtherNet/IP > ENTER > the first entry is TRUE > change to FALSE.
-
-- Alarm MCTL-013 can be disabled from > Menu > System > Variable > $OP_WORK > ENTER > set UOP Disable = 1 (TRUE) > ENTER.
 
 - If your robot speed will not go beyond 50% during its run: MENU > SYSTEM > VARIABLES > $SCR > change RUNOVLIM = 100. JOGOVLIM will override the manual jog speed, potentially preventing a crash!
 

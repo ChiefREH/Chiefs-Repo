@@ -22,3 +22,10 @@
 - When it appears, you must press FCTN to access the FUNCTION MENU. Select the option to COLD START (usually the first or default option) and allow the controller to reboot one more time
 - Once that finishes, you should be able to start work on clearing all alarms
 
+## CLEAR ALARMS
+
+- Once you've got to the main menu screen, test to see if you can jog the robot.
+- Chances are you will have a couple alarms to clear first.
+- Alarm MCTL-013 can be disabled from > Menu > System > Variable > $OP_WORK > ENTER > set UOP Disable = 1 (TRUE) > ENTER.
+- You can disable the ETH/IP alarm from > Menu > I/O menu > last menu on the far right (right arrow 2 times) > EtherNet/IP > ENTER > the first entry is TRUE > change to FALSE.
+
