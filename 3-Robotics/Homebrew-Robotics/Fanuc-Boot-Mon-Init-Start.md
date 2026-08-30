@@ -30,8 +30,12 @@ With the controller power OFF, press and HOLD [F1] and [F5] keys on the Teach Pe
 ### Enter MASTER CODE
 - When asked, enter the Master Code and continue to follow onscreen instructions.
 
+
 ### Apply DCS
-- 
+- This may require you to hit F2 [APPLY] and then [ON] to accept changes to DCS.
+- "Cycle Power" means turning off the controller for 20-30 seconds, then turning the power back on for the setting changes to apply.
+- On some robots, you will do this 2-3 times.
+
 
 ### "HOLD" Alarm
 - Alarm **MCTL-013** can be disabled from > Menu > System > Variable > $OP_WORK > ENTER > set UOP Disable = 1 (TRUE) > ENTER.
@@ -40,3 +44,7 @@ With the controller power OFF, press and HOLD [F1] and [F5] keys on the Teach Pe
 ###  ETHERNET/IP Alarm
 - You can disable the ETH/IP alarm from > Menu > I/O menu > last menu on the far right (right arrow 2 times) > EtherNet/IP > ENTER > the first entry is TRUE > change to FALSE.
 
+## JOG THE ROBOT
+
+- With the alarms cleared, "jog" each robot axis 20-30 degrees in both directions from the current position.
+- We're doing this to send fresh **PULSECODER** signals to the controller.
