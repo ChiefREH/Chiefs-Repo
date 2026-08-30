@@ -1,7 +1,7 @@
 
 # Access the Boot Monitor menu using the following techniques:
 
-- With the controller power OFF, press and HOLD [F1] and [F5] keys on the Teach Pendant
+With the controller power OFF, press and HOLD [F1] and [F5] keys on the Teach Pendant
 
 ![Teach Pendant](Homebrew-Robot-Images/Teach-Pendant.jpg)
 
@@ -12,20 +12,31 @@
 ![Boot Monitor Menu](Homebrew-Robot-Images/Boot-Mon.jpg)
 
 - To FORMAT the controller to a default setting, select option #3 from the main Boot Monitor menu
-    - CAUTION: This will delete all data and factory reset the machine. BE WARNED!
+    - **CAUTION:** This will delete all data and factory reset the machine. BE WARNED!
 - Following the onscreen instructions, enter “1” for Yes when asked (this normally happens twice!)
 - It may take several minutes and reboot a couple times.  Be patient!
-- When the Home screen finally loads, know that the process is not yet complete.  Look in the upper right-hand corner of the display for the indicator “CTRL START” or “CONTROL START”
+- When the Home screen finally loads, know that the process is not yet complete.  Look in the upper right-hand corner of the display for the indicator “**CTRL START**” or “**CONTROL START**”
 
 ![Function / Cold Start](Homebrew-Robot-Images/Cold-Start.jpg)
 
-- When it appears, you must press FCTN to access the FUNCTION MENU. Select the option to COLD START (usually the first or default option) and allow the controller to reboot one more time
+- When it appears, you must press **FCTN** to access the FUNCTION MENU. Select the option to **COLD START** (usually the first or default option) and allow the controller to reboot one more time
 - Once that finishes, you should be able to start work on clearing all alarms
 
 ## CLEAR ALARMS
 
 - Once you've got to the main menu screen, test to see if you can jog the robot.
 - Chances are you will have a couple alarms to clear first.
-- Alarm MCTL-013 can be disabled from > Menu > System > Variable > $OP_WORK > ENTER > set UOP Disable = 1 (TRUE) > ENTER.
+
+### Enter MASTER CODE
+- When asked, enter the Master Code and continue to follow onscreen instructions.
+
+### Apply DCS
+- 
+
+### "HOLD" Alarm
+- Alarm **MCTL-013** can be disabled from > Menu > System > Variable > $OP_WORK > ENTER > set UOP Disable = 1 (TRUE) > ENTER.
+
+
+###  ETHERNET/IP Alarm
 - You can disable the ETH/IP alarm from > Menu > I/O menu > last menu on the far right (right arrow 2 times) > EtherNet/IP > ENTER > the first entry is TRUE > change to FALSE.
 
