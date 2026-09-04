@@ -7,3 +7,6 @@
     - Change Maximum Value to "2"
     - Change Minimum Value to "-1"
         - This will put the trace right in the center of the chart
+
+
+Run the program and observe the firing of the bit
