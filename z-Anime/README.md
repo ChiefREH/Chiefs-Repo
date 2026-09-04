@@ -20,7 +20,7 @@
 - Sentenced to Be a Hero
 - Kaiju No.8
 - Cyberpunk: Edgerunners
-
+- Kabaneri of the Iron Fortress
 
 
 ## Anime Movies
