@@ -1,6 +1,5 @@
 # ANIME RECOMMENDATIONS
 
-Have watched, can recommend!
 
 ## Anime Series
 
@@ -17,7 +16,7 @@ Have watched, can recommend!
 - Patlabor
 - Hellsing Ultimate
 - Demon Slayer
-- Jujitsu Kaisen
+- Jujutsu Kaisen
 - Sentenced to Be a Hero
 - Kaiju No.8
 - Cyberpunk: Edgerunners
@@ -29,3 +28,6 @@ Have watched, can recommend!
 - Fist of the North Star
 - Ninja Scroll
 - Vampire Hunter D
+- Akira
+- The Animatrix
+- Interstella 5555
