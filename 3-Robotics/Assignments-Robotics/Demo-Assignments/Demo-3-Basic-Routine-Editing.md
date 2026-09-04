@@ -2,15 +2,14 @@
 
 ## TASK
 
-- A an EOAT Pointer to the J6 flange at proper location and scale
+- A an EOAT "Pointer" to the J6 flange at proper location and scale
 - Add Fixture "Table21" at proper location and scale
-
 - Record a continuous loop of 4 corner points using the **WORLD** coordinate system
     - Can we reposition points already created?
-        - Touchup from the TP??
-
-- Does the path of travel follow the edge of the table?
-    - How can we fix this?
+        - In Lab? Touchup from the TP??
+    - Does the path of travel between corner points follow the edge of the table?
+        - How can we fix this?
+            - Joint > Linear motion type
 
 ## PROGRAM SECTIONS
 
@@ -40,7 +39,7 @@ _All programs will be formatted with these four Sections. Future programs of hig
 ## SECTION SPECIFIC
 
 ### !SETUP
-- **OVERRIDE** = 25% to slow down the speed of the routine
+- **OVERRIDE** = 10% to slow down the speed of the routine
 
 ### !MAIN
 - **LBL/JMP LBL** instructions to loop the routine
