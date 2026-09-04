@@ -1,7 +1,9 @@
-# NEW ROUTINE & EDITING (NO EOAT)
+# NEW ROUTINE & EDITING (TABLE + POINTER)
 
 ## TASK
 
+- A an EOAT Pointer to the J6 flange at proper location and scale
+- Add Fixture "Table21" at proper location and scale
 - Record a minimum of 4 points using the **WORLD** coordinate system
 - Can we reposition points already created?
     - Touchup from the TP??
