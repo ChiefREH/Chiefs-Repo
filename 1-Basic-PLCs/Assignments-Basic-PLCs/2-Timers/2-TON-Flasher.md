@@ -1,4 +1,4 @@
-## SIMPLE FLASHING LIGHT
+# SIMPLE FLASHING LIGHT
 
 Create a simple "flashing light" routine using the following instructions:
 
@@ -10,7 +10,7 @@ Create a simple "flashing light" routine using the following instructions:
 
 - "Flash" the OTE on for 2 seconds, off for 2 seconds
 - Use a seal-in circuit as the timer control
-- Routine must run in a continuous loop
+- Once started, the routine must run in a continuous loop
 
 ## TRENDING & MONITORING
 
