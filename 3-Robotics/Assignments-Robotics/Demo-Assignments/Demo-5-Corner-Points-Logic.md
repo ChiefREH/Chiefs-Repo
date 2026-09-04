@@ -1,4 +1,4 @@
-# BASIC CORNER POINTS
+# CORNER POINTS WITH LOGIC
 
 ## TASK
 - Add an End-of-Arm-Tool (**EOAT**) to the robot (Pointer)
