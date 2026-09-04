@@ -3,6 +3,7 @@
 When running a routine, it is often helpful to see whether or not a bit is actually being triggered.
 
 Trend a Tag value:
+
 - Right-click a tag name and select "Trend"
 - Select the PENS tab and change the color to a more visible option
 - Select Y-AXIS to scale for a BOOL value of 1 or 0
@@ -12,4 +13,4 @@ Trend a Tag value:
         - This will put the trace right in the center of the chart
 
 
-Run the program and observe the firing of the bit
+Run the program and observe the firing of the bit.
