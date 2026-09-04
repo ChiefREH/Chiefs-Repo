@@ -4,10 +4,13 @@
 
 - A an EOAT Pointer to the J6 flange at proper location and scale
 - Add Fixture "Table21" at proper location and scale
-- Record a minimum of 4 points using the **WORLD** coordinate system
-- Can we reposition points already created?
-    - Touchup from the TP??
 
+- Record a continuous loop of 4 corner points using the **WORLD** coordinate system
+    - Can we reposition points already created?
+        - Touchup from the TP??
+
+- Does the path of travel follow the edge of the table?
+    - How can we fix this?
 
 ## PROGRAM SECTIONS
 
