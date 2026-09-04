@@ -2,8 +2,8 @@
 
 ## TASK
 
-- A an EOAT "Pointer" to the J6 flange at proper location and scale
-- Add Fixture "Table21" at proper location and scale
+- Add an EOAT "Pointer" to the J6 flange at proper location and scale
+- Add a Fixture "Table21" at proper location and scale
 - Record a continuous loop of 4 corner points using the **WORLD** coordinate system
     - Can we reposition points already created?
         - In Lab? Touchup from the TP??
