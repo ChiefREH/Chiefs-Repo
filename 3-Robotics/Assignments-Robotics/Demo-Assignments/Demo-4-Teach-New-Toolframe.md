@@ -13,6 +13,8 @@
     - The instructor will observe the recording of the final point position
     - Compare the TCP data to known pr previously recorded tool data
 
+_Do we need to flip W to 180 in Lab after recording?_
+
 ## ROBOGUIDE PARAMETERS
 
 - **Table21** with proper scale and location
