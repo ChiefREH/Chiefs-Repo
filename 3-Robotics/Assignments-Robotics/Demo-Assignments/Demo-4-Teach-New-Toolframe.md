@@ -6,6 +6,7 @@
 - Show, but do not manually enter, the Utool parameters
     - _If you manually enter the dimensions, it defeats the point of “teaching” the robot the TCP_
 - Teach a new Tool Frame using the TCP **"Three-Point Method"**
+    - Use a slow speed for safe operations (1-5%)
     - Approach from TOP first, then LEFT, and finally RIGHT
     - Approach from the **ROBOT’S POV**, not the operators
 - Record TCP data using the JOINT COORDINATE system (not WORLD)
