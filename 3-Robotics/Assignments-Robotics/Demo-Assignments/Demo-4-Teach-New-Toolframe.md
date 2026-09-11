@@ -10,6 +10,7 @@
     - Approach from TOP first, then LEFT, and finally RIGHT
     - Approach from the **ROBOT’S POV**, not the operators
 - Record TCP data using the JOINT COORDINATE system (not WORLD)
+    - The instructor will observe the recording of the final point position
 
 ## ROBOGUIDE PARAMETERS
 
