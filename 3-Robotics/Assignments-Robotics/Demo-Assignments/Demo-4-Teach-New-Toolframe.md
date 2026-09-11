@@ -11,6 +11,7 @@
     - Approach from the **ROBOT’S POV**, not the operators
 - Record TCP data using the JOINT COORDINATE system (not WORLD)
     - The instructor will observe the recording of the final point position
+    - Compare the TCP data to known pr previously recorded tool data
 
 ## ROBOGUIDE PARAMETERS
 
