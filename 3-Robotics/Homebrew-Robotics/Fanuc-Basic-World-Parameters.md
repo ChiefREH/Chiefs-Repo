@@ -56,9 +56,11 @@ Tooling > EOAT1 > Properties > CAD Drawing > “Pointer”
 | **X** |  0  |   **X**   |  0  | **X**  |  0.5   |
 | **Y** |  0  |   **Y**   |  0  | **Y**  |  0.5   |
 | **Z** |  0  |   **Z**   | 90  | **Z**  |  0.5   |
-| **W** |  0  |   **W**   | 180 |        |        |
+| **W** |  0  |   **W**   | 180*|        |        |
 | **P** |  0  |   **P**   |  0  | **WT** |        |
 | **R** |  0  |   **R**   |  0  |        | 1.0 kg |
+
+*Only rotate W 180 degrees in simulation, not in lab.
 
 ## BASIC BLUE BOX
 
