@@ -1,6 +1,6 @@
 # ANIME RECOMMENDATIONS
 
-Some series have movies. Some movies have series.
+Some series have movies. Some movies have series. Go watch them all right now!
 
 ## Anime Series
 
