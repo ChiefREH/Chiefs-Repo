@@ -1,4 +1,4 @@
-# SPRING CAREER FAIR
+# CAREER FAIR ASSIGNMENT
 
 - Attend the Spring Career Fair for ~2 hours.
     - There are over 20 vendors
