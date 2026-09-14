@@ -34,7 +34,7 @@ After attending the career fair, prepare a written report describing your experi
 Your report must:
 
 - Be at least **750 words**.
-Identify the vendors and presenters you interacted with.
+- Identify the vendors and presenters you interacted with.
 - Summarize the information you learned from your conversations.
 - Describe the questions you asked and the responses you received.
 - Identify information, opportunities, or organizations that you found particularly interesting or useful.
