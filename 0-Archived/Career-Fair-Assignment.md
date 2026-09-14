@@ -12,4 +12,4 @@
 - Upload the written report via Canvas.
     - 750 words minimum. More is better!
     - Word document format or PDF only.
-- Be prepared for follow-up questions after instructor review!
+- Be prepared for follow-up questions after instructor review.
