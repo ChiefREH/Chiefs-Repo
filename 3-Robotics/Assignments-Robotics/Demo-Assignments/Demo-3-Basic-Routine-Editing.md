@@ -20,7 +20,8 @@ A standard Routine will **always** contain four (4) Sections:
 - **!ERRORS:** Alert the operator of faulty conditions
 - **!END OF LINE:** When all instructions are complete
 
->_All programs will be formatted with these four Sections.<br>Future programs of higher complexity may have additional Sections as needed._
+>_All programs will be formatted with these four Sections.<br>
+>Future programs of higher complexity may have additional Sections as needed._
 
 
 ## FOCUS
