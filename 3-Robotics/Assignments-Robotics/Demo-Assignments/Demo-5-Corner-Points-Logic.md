@@ -38,7 +38,7 @@
 - **IF/SELECT** logic:
     - IF **R**[1:Counter] **=** 3, **JMP LBL** [999]
     - IF **R**[1:Counter] **>** 3, **JMP LBL** [900]
-        - _hard-coded/direct coding_
+        - _Hard-coded constant. Cannot be changed while running._
 
 **!ERRORS [900]**
 - **UALM**[1] for faulted conditions.
