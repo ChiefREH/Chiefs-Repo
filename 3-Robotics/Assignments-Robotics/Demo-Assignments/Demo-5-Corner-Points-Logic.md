@@ -3,7 +3,7 @@
 ## TASK
 - Add an End-of-Arm-Tool (**EOAT**) to the robot (Pointer)
 - Record a **READY** position to serve as your starting point
-- Record an **APPROACH** position that is **100mm** above the first table corner point
+- Record an **APPROACH** position that is **100mm** above the first Table corner
 - Record 4 corner points of a Table using the **WORLD** COORDINATE system
     - _Not JOINT mode_
 - Record a **SAFE** position away from the work area
@@ -30,9 +30,9 @@
 
 **!MAIN [100]**
 - **LBL/JMP LBL** instructions to loop the program
-    - **R**[1] = **R**[1] + 1 
+    - **R**[1:Counter] = **R**[1:Counter] + 1 
 - **IF/THEN** LOGIC
-    - IF **R**[1] = 3 … **JMP LBL** [999]
+    - IF **R**[1:Counter] = 3 … **JMP LBL** [999]
         - _hard-coded/direct coding_
 
 **!ERRORS [900]**
