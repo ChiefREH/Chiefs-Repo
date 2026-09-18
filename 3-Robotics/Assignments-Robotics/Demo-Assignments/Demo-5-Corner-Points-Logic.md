@@ -23,15 +23,15 @@
 **!SETUP**
 - **UTOOL_NUM** = 1 for our new pointer
     - _Don’t forget to **SETIND** for this tool_
-- **OVERRIDE =25%** to slow down the speed of the routine
-- **REGISTER R[1]** = for storing the number of required loops
+- **OVERRIDE = 50%** to slow down the speed of the routine
+- **REGISTER R[1:Counter]** = 0
+    - _For storing the number of required loops_
     - _Include Register NAMES to differentiate each R[ ]_
 
 
 **!MAIN [100]**
-- **LBL/JMP LBL** instructions to loop the program
-    - **R**[1:Counter] = **R**[1:Counter] + 1 
-- **IF/THEN** LOGIC
+- **R**[1:Counter] = **R**[1:Counter] + 1 
+- **IF/SELECT** LOGIC
     - IF **R**[1:Counter] = 3 … **JMP LBL** [999]
         - _hard-coded/direct coding_
 
