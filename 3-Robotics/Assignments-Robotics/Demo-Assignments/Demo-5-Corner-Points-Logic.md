@@ -41,7 +41,7 @@
     - IF **R**[1:Counter] **>** 3, **JMP LBL** [900]
 - **JMP LBL** [100]
 
->Counting to 3 is our target number
+>Counting to 3 is our target number<br>
 >Numbers higher than 3 are abnormal
 
 **!ERRORS**
