@@ -37,10 +37,8 @@
 - Data Register math function:
     - **R**[1:Counter] = **R**[1:Counter] **+ 1** 
 - **IF/SELECT** logic:
->The desired target condition
-- IF **R**[1:Counter] **=** 3, **JMP LBL** [999]
->Abnormal logic conditions
-- IF **R**[1:Counter] **>** 3, **JMP LBL** [900]
+    - IF **R**[1:Counter] **=** 3, **JMP LBL** [999]
+    - IF **R**[1:Counter] **>** 3, **JMP LBL** [900]
 - **JMP LBL** [100]
 
 **!ERRORS [900]**
