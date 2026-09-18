@@ -16,11 +16,11 @@
 A standard Routine will **always** contain four (4) Sections:
 
 - **!SETUP:** Instructions that run once at start
-- **!MAIN [100]:** Instructions that loop continuously
-- **!ERRORS [900]:** Alert the operator of faulty conditions
-- **!END OF LINE [999]:** When all instructions are complete
+- **!MAIN:** Instructions that loop continuously
+- **!ERRORS:** Alert the operator of faulty conditions
+- **!END OF LINE:** When all instructions are complete
 
-_All programs will be formatted with these four Sections. Future programs of higher complexity may have additional Sections as needed._
+>_All programs will be formatted with these four Sections. Future programs of higher complexity may have additional Sections as needed._
 
 
 ## FOCUS
@@ -42,13 +42,16 @@ _All programs will be formatted with these four Sections. Future programs of hig
 - **OVERRIDE** = 10% to slow down the speed of the routine
 
 ### !MAIN
-- **LBL/JMP LBL** instructions to loop the routine
+- **LBL [100]**
+- **JMP LBL [100]**
+
+>_Everything in between LBL and JMP LBL will be looped_
 
 ### !ERRORS
-- Remark & Label only. No code needed
+- **LBL** [900]
 
 ### !END OF LINE
-- Remark & Label only. No code needed
+- **LBL** [999]
 
 
 
