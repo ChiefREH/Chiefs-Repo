@@ -4,7 +4,8 @@
 - Add an End-of-Arm-Tool (**EOAT**) to the robot (Pointer)
 - Record a **SAFE** position away from the work area
 - Record a **READY** position to serve as your starting point
-- Record 4 corner points of a Table using the **WORLD** COORDINATE system (not JOINT mode)
+- Record 4 corner points of a Table using the **WORLD** COORDINATE system
+    - _Not JOINT mode_
 
 ## ROBOGUIDE PARAMETERS
 - Include a properly configured **EOAT**
