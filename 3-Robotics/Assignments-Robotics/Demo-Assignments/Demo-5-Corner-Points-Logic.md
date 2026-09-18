@@ -39,7 +39,7 @@
 
 
 **!END OF LINE [999]**
-- Move the robot to the SAFE position
+- Move the robot to the **SAFE** position
 - **MESSAGE** for completed condition.
 
 
