@@ -20,7 +20,7 @@
 
 **!SETUP**
 - **UTOOL_NUM** = 1 for our new pointer
-    - Don’t forget to **SETIND** for this tool
+    - _Don’t forget to **SETIND** for this tool_
 - **OVERRIDE =25%** to slow down the speed of the routine
 - **REGISTER R[1]** = for storing the number of required loops
     - _Include Register NAMES to differentiate each R[ ]_
