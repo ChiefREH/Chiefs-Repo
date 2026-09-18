@@ -41,6 +41,9 @@
     - IF **R**[1:Counter] **>** 3, **JMP LBL** [900]
 - **JMP LBL** [100]
 
+>Counting to 3 is our target number
+>Numbers higher than 3 are abnormal
+
 **!ERRORS**
 - **LBL** [900]
 - **UALM**[1] for faulted condition alarm.
