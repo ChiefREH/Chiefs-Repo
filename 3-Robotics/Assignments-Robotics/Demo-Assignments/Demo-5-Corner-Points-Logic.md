@@ -33,9 +33,11 @@
 **!MAIN [100]**
 - Record 4 table corner positions:
     - **P**[3], **P**[4], **P**[5], **P**[6], **P**[3]
-- **R**[1:Counter] = **R**[1:Counter] + 1 
+- Register "Adder"
+    - **R**[1:Counter] = **R**[1:Counter] + 1 
 - **IF/SELECT** LOGIC
-    - IF **R**[1:Counter] = 3 … **JMP LBL** [999]
+    - IF **R**[1:Counter] **=** 3, **JMP LBL** [999]
+    - IF **R**[1:Counter] **>** 3, **JMP LBL** [900]
         - _hard-coded/direct coding_
 
 **!ERRORS [900]**
