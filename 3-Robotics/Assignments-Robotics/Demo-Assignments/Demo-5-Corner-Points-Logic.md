@@ -41,7 +41,7 @@
         - _Hard-coded constant. Cannot be changed while running._
 
 **!ERRORS [900]**
-- **UALM**[1] for faulted conditions.
+- **UALM**[1] for faulted condition alarm.
 
 
 **!END OF LINE [999]**
