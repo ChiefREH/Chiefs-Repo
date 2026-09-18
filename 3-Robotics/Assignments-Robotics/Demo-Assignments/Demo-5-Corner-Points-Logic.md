@@ -33,7 +33,7 @@
 **!MAIN [100]**
 - Record 4 table corner positions:
     - **P**[3], **P**[4], **P**[5], **P**[6], **P**[3]
-- Data Register math logic:
+- Data Register math function:
     - **R**[1:Counter] = **R**[1:Counter] **+ 1** 
 - **IF/SELECT** logic:
     - IF **R**[1:Counter] **=** 3, **JMP LBL** [999]
