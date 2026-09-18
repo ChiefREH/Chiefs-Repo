@@ -30,7 +30,7 @@
 - Record the **READY** position here at **P**[1]
 - Record the **APPROACH** position here at **P**[2]
 
-**!MAIN [100]**
+**!MAIN**
 - **LBL** [100]
 - Record 4 table corner positions:
     - **P**[3], **P**[4], **P**[5], **P**[6], **P**[3]
@@ -41,11 +41,13 @@
     - IF **R**[1:Counter] **>** 3, **JMP LBL** [900]
 - **JMP LBL** [100]
 
-**!ERRORS [900]**
+**!ERRORS**
+- **LBL** [900]
 - **UALM**[1] for faulted condition alarm.
 
 
-**!END OF LINE [999]**
+**!END OF LINE**
+- **LBL** [999]
 - Record the **SAFE** position here at **P**[7]
 - **MESSAGE** for completed condition.
 
