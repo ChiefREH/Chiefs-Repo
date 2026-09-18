@@ -14,7 +14,7 @@
 - Include a properly placed **FIXTURE**
 
 ## FOCUS
-- Use **REGISTERS** and **IF/SELECT** logic to control the number of loops
+- Use **DATA REGISTERS** and **IF/SELECT** logic to control the number of loops
 - Using the Toolbar shortcut keys for different **VIEWS** of the robot
 - **SPLIT SCREEN** to view the number of loops stored in the **REGISTER**
 
