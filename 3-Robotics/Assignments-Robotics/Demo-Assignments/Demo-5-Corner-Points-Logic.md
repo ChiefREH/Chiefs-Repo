@@ -25,11 +25,14 @@
     - _Don’t forget to **SETIND** for this tool_
 - **OVERRIDE = 50%** to slow down the speed of the routine
 - **REGISTER R[1:Counter]** = 0
-    - _For storing the number of required loops_
+    - _This resets the Register to 0 on start_
     - _Include Register NAMES to differentiate each R[ ]_
-
+- Record the **READY** position here at **P**[1]
+- Record the **APPROACH** position here at **P**[2]
 
 **!MAIN [100]**
+- Record 4 table corner positions:
+    - **P**[3], **P**[4], **P**[5], **P**[6], **P**[3]
 - **R**[1:Counter] = **R**[1:Counter] + 1 
 - **IF/SELECT** LOGIC
     - IF **R**[1:Counter] = 3 … **JMP LBL** [999]
@@ -40,7 +43,7 @@
 
 
 **!END OF LINE [999]**
-- Move the robot to the **SAFE** position
+- Record the **SAFE** position here at **P**[7]
 - **MESSAGE** for completed condition.
 
 
