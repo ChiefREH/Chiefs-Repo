@@ -31,6 +31,7 @@
 - Record the **APPROACH** position here at **P**[2]
 
 **!MAIN [100]**
+- **LBL** [100]
 - Record 4 table corner positions:
     - **P**[3], **P**[4], **P**[5], **P**[6], **P**[3]
 - Data Register math function:
@@ -38,7 +39,8 @@
 - **IF/SELECT** logic:
     - IF **R**[1:Counter] **=** 3, **JMP LBL** [999]
     - IF **R**[1:Counter] **>** 3, **JMP LBL** [900]
-        - _Hard-coded constant. Cannot be changed while running._
+        - _Hard-coded constants. Cannot be changed while running._
+- **JMP LBL** [100]
 
 **!ERRORS [900]**
 - **UALM**[1] for faulted condition alarm.
