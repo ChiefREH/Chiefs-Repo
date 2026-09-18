@@ -25,8 +25,7 @@
     - _Don’t forget to **SETIND** for this tool_
 - **OVERRIDE = 50%** to slow down the speed of the routine
 - **REGISTER R[1:Counter]** = 0
-    - _This resets the Register to 0 on start_
-    - _Include Register NAMES to differentiate each R[ ]_
+    - _This resets the Register to 0 on start up_
 - Record the **READY** position here at **P**[1]
 - Record the **APPROACH** position here at **P**[2]
 
