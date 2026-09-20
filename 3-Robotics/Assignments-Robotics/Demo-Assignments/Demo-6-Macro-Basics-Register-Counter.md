@@ -24,14 +24,14 @@
     - Assign “**SU 3**” to Move Menu
 
 ## HARD-CODED LOGIC
-- R[1: Counter] = R[1: Counter] + 1
-- R[1: Counter] = R[1: Counter] – 1
-    - The constant **cannot be changed** when the program is running.
+- R[1: Counter] = R[1: Counter] **+** 1
+- R[1: Counter] = R[1: Counter] **–** 1
+    - _The constant **cannot be changed** when the program is running._
 
 ## SOFT-CODED LOGIC
 - R[1: Counter] = R[1: Counter] + R[2: Control]
 - R[1: Counter] = R[1: Counter] – R[2: Control]
-    - _R[2] **can** be changed on the fly when the program is running._
+    - _R[2:Control] **can** be changed on when the program is running._
 
 
 ## NOTE
