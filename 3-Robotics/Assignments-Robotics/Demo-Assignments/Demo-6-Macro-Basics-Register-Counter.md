@@ -1,6 +1,6 @@
 # MACRO BASICS (REGISTER COUNTER)
 
-- Can use **Macro** keys to execute code without running in an active program!
+- We can use **Macro** keys to execute code without running in an active program!
     - _What's the difference between **UK** and **SK** ?_
 
 ## TASK
