@@ -1,7 +1,7 @@
 # MACRO BASICS (REGISTER COUNTER)
 
 - Can use **Macro** keys to execute code without running in an active program!
-    - Difference between **UK** and **SK** ??
+    - _What's the difference between **UK** and **SK** ?_
 
 ## TASK
 - Create (1) program to **count up** and store value in **REGISTER R**[1]
