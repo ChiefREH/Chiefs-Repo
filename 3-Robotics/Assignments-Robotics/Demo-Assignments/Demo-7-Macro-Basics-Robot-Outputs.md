@@ -35,12 +35,12 @@
 **OPEN MACRO**
 - RO[1] = OF
 - RO[2] = ON
-> RO[1] must be off first
+> Why must RO[1] be off first?
 
 **CLOSED MACRO**
 - RO[2] = OFF
 - RO[1] = ON
-> RO[2] must be off first
+> Why must RO[2] be off first?
 
 _Why must the output be turned off before turning the next one on?_
 
