@@ -42,8 +42,6 @@
 - RO[1] = ON
 > Why must RO[2] be off first?
 
-_Why must the output be turned off before turning the next one on?_
-
 
 ## NOTES
 - _Can we eliminate the need for this code by using **Complimentary Pairs**?_
