@@ -39,7 +39,11 @@
 - R[1: Counter] = R[1: Counter] **–** **R[2: Control]**
     - _R[2:Control] **can** be changed when the program is running._
 
-## 
+## SAFE POSITION
+- Record a SAFE position away from the work area
+- Record this position in a Macro and assign to TP key
+- Jog the robot back to the READY position
+- Test the TP key for movement
 
 ## NOTE
 
