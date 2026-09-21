@@ -33,7 +33,7 @@
 ## LOGIC
 
 **OPEN MACRO**
-- RO[1] = OF
+- RO[1] = OFF
 - RO[2] = ON
 > Why must RO[1] be off first?
 
