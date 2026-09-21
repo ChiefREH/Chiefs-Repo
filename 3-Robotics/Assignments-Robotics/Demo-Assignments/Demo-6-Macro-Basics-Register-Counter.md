@@ -29,8 +29,8 @@
     - _The constant **cannot be changed** when the program is running._
 
 ## v2.0 - SOFT-CODED LOGIC
-- R[1: Counter] = R[1: Counter] **+** R[2: Control]
-- R[1: Counter] = R[1: Counter] **–** R[2: Control]
+- R[1: Counter] = R[1: Counter] **+** **R[2: Control]**
+- R[1: Counter] = R[1: Counter] **–** **R[2: Control]**
     - _R[2:Control] **can** be changed when the program is running._
 
 
