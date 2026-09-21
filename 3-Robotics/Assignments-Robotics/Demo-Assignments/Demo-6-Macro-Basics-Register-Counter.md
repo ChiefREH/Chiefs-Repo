@@ -1,7 +1,9 @@
 # MACRO BASICS (REGISTER COUNTER)
 
 - We can use **Macro** keys to execute code without running in an active program!
-    - _What's the difference between **User Key - UK** and **Shift Key - SK** ?_
+- What's the difference between:
+    - **User Key - UK**
+    - **Shift Key - SK**
 
 ## TASK
 - Create (1) Macro to **count up** and store value in **REGISTER R**[1:Counter]
