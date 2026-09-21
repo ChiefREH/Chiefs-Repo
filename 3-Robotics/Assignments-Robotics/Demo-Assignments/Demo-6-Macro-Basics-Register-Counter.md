@@ -23,15 +23,15 @@
     - Assign “**UK 2**” to Tool 2
     - Assign “**SU 3**” to Move Menu
 
-## HARD-CODED LOGIC
+## v1.0 - HARD-CODED LOGIC
 - R[1: Counter] = R[1: Counter] **+** 1
 - R[1: Counter] = R[1: Counter] **–** 1
     - _The constant **cannot be changed** when the program is running._
 
-## SOFT-CODED LOGIC
+## v2.0 - SOFT-CODED LOGIC
 - R[1: Counter] = R[1: Counter] **+** R[2: Control]
 - R[1: Counter] = R[1: Counter] **–** R[2: Control]
-    - _R[2:Control] **can** be changed on when the program is running._
+    - _R[2:Control] **can** be changed when the program is running._
 
 
 ## NOTE
