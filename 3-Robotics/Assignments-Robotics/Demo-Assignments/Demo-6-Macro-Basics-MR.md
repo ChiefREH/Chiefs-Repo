@@ -1,6 +1,6 @@
 # MACRO BASICS (REGISTER COUNTER & SAFE POSITION)
 
-We can use **Macro** keys to execute code without running in an active program
+We can use **Macros** to execute code without running in an active program
 - How many TP keys can we assign as custom Macros?
 - What's the difference between:
     - **User Key - UK**
