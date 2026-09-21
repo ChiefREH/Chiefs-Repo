@@ -9,9 +9,9 @@
 - Create (1) Macro to **count up** and store value in **REGISTER R**[1:Counter]
 - Create (1) Macro to **count down** and store value in **REGISTER R**[1:Counter]
 - Create (1) Macro to move the robot to a **SAFE POSITION**
-    - Bind count up macro to **TOOL 1**
-    - Bind count down macro to **TOOL 2**
-    - Bind safe position macro to **MOVE MENU**
+    - Bind count **up** macro to **TOOL 1**
+    - Bind count **down** macro to **TOOL 2**
+    - Bind **safe** position macro to **MOVE MENU**
 
 ## FOCUS
 - **Binding programs** as Macros to TP soft keys
