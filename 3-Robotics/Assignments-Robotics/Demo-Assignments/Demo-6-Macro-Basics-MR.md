@@ -11,10 +11,10 @@
 
 ## TASK
 - Create (1) Macro to **count up** and store value in **REGISTER R**[1:Counter]
-- Create (1) Macro to **count down** and store value in **REGISTER R**[1:Counter]
-- Create (1) Macro to move the robot to a **SAFE POSITION**
     - Bind count **up** macro to **TOOL 1**
+- Create (1) Macro to **count down** and store value in **REGISTER R**[1:Counter]
     - Bind count **down** macro to **TOOL 2**
+- Create (1) Macro to move the robot to a **SAFE POSITION**
     - Bind **safe** position macro to **MOVE MENU**
 
 ## FOCUS
@@ -25,9 +25,9 @@
 - Properly assign the Macro programs to the TP soft keys
     - [MENU] > [SETUP] > [MACRO]
 - Assign Macro routines to the appropriate [PROGRAM]
-    - Assign "**UK 1**" to Tool 1
-    - Assign “**UK 2**” to Tool 2
-    - Assign “**SU 3**” to Move Menu
+    - Assign "**UK 1**" to **Tool 1**
+    - Assign “**UK 2**” to **Tool 2**
+    - Assign “**SU 3**” to **Move Menu**
 
 ## HARD-CODED COUNTER v1.0
 - R[1: Counter] = R[1: Counter] **+** 1
