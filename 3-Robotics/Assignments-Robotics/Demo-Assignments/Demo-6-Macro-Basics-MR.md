@@ -40,10 +40,10 @@
     - _R[2:Control] **can** be changed when the program is running._
 
 ## SAFE POSITION
-- Record a SAFE position away from the work area
+- Record a **SAFE** position away from the work area
 - Record this position in a Macro and assign to TP key
-- Jog the robot back to the READY position
-- Test the TP key for movement
+- Jog the robot back to the **READY** position
+- Test the TP key for proper movement
 
 ## NOTE
 
