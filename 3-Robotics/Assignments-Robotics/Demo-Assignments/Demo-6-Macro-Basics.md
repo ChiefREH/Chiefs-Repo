@@ -1,4 +1,4 @@
-# MACRO BASICS (REGISTER COUNTER)
+# MACRO BASICS (REGISTER COUNTER & SAFE POSITION)
 
 - We can use **Macro** keys to execute code without running in an active program!
 - What's the difference between:
