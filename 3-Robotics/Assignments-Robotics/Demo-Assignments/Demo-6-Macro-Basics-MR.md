@@ -43,7 +43,7 @@
 - Record a **SAFE** position away from the work area
 - Record this position in a Macro and assign to TP key
 - Jog the robot back to the **READY** position
-- Test the TP key for proper movement
+- Test the TP key for proper robot movement
 
 ## NOTE
 
