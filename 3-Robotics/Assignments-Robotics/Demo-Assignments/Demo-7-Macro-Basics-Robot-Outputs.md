@@ -22,7 +22,7 @@
 - I/O screen > [TYPE] > **Robot** for viewing the outputs
 
 ## BASIC PARAMETERS
-- Set program **DETAILS** to * for logic instead of 1 for Motion Groups
+- Set program **DETAILS** to * for logic instead of **1** for Motion Groups
 - Properly assign the Macro programs to the TP soft keys
     - [MENU] > [SETUP] > [MACRO]
 - Assign Macro routines to the appropriate [PROGRAM]
