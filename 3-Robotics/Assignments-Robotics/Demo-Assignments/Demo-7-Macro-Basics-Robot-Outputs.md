@@ -33,11 +33,11 @@
 ## LOGIC
 
 **OPEN MACRO**
-- RO[1] = OFF <<< _must be off FIRST_
+- RO[1] = OF
 - RO[2] = ON
 
 **CLOSED MACRO**
-- RO[2] = OFF <<< _must be off FIRST_
+- RO[2] = OFF
 - RO[1] = ON
 
 _Why must the output be turned off before turning the next one on?_
