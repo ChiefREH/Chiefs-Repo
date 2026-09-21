@@ -4,6 +4,10 @@
 - What's the difference between:
     - **User Key - UK**
     - **Shift Key - SK**
+- In the "**Group Mask**" field, what is the purpose of setting:
+    - the number one (1)
+    - an asterisk (*)
+
 
 ## TASK
 - Create (1) Macro to **count up** and store value in **REGISTER R**[1:Counter]
