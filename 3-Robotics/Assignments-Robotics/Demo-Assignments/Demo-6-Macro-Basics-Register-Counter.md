@@ -6,7 +6,7 @@
     - **Shift Key - SK**
 - In the "**Group Mask**" field, what is the purpose of setting:
     - the number one (1)
-    - an asterisk (*)
+    - or an asterisk (*)
 
 
 ## TASK
