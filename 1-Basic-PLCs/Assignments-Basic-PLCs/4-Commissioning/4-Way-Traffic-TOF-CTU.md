@@ -5,11 +5,11 @@
 2. Convert for use in the lab
 
 A 4-way **NORTH-SOUTH/EAST-WEST** traffic pattern using the following LD instructions:
-- All necessary XIC,XIO and OTE instructions
-- (3) TOF Timers to control the NORTH-SOUTH lights 
-- (3) TOF Timers to control the EAST-WEST lights 
-- (1) CTD Counter to control the number of program loops
-- (1) RES Reset instruction to **manually** reset the CTD from software
+- All necessary **BRANCHES, XIC,XIO, and OTE** instructions
+- (3) **TOF** Timers to control the NORTH-SOUTH lights 
+- (3) **TOF** Timers to control the EAST-WEST lights 
+- (1) **CTD** Counter to control the number of program loops
+- (1) **RES** Reset instruction to **manually** reset the CTD from software
 > The RES instruction does not require an additional button.
 
 
