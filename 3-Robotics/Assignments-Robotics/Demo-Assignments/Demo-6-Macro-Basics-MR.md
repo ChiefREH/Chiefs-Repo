@@ -53,12 +53,19 @@ We can use **Macros** to execute code without running an active program
 
 Use the macro keys to move the robot between positions.
 
+---
+
 # MAIN ROUTINE
 
-Create a Main Loop program that includes the following:
+Create a **Main Loop** program that includes the following:
 - CALL each macro to execute instructions
 - WAIT for 3 seconds between each call
 
+Once completed, modify the **Main Routine**:
+- Move the WAIT to each individual Macro
+    - _This gives us time to see the screen change_
+- Substitute the seconds interval with a REGISTER value
+    - WAIT > ... sec > **INDIRECT** at the bottom > REGISTER
 
 ## VIDEO REFERENCE
 
