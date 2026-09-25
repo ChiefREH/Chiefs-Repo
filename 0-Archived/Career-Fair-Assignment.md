@@ -4,7 +4,7 @@ The Career Fair assignment gives you an opportunity to learn about employers, ca
 
 # What You Need to Do
 
-Attend the Spring Career Fair for approximately **2 hours**.
+Attend the INDT Career Fair for approximately **2 hours**.
 
 During the career fair:
 
