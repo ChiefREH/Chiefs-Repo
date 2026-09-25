@@ -2,7 +2,7 @@
 
 ## TASKS
 1. Emulate in the classroom
-2. Convert for use in the lab
+2. Convert and deploy in the lab
 
 A 4-way **NORTH-SOUTH/EAST-WEST** traffic pattern using the following LD instructions:
 - All necessary **BRANCHES, XIC,XIO, and OTE** instructions
@@ -14,9 +14,9 @@ A 4-way **NORTH-SOUTH/EAST-WEST** traffic pattern using the following LD instruc
 
 
 ## TIMING
-- All Red Lights = 10 seconds 
-- All Green Lights = 7 seconds 
-- All Yellow Lights = 3 seconds
+- All **Red** Lights = 10 seconds 
+- All **Green** Lights = 7 seconds 
+- All **Yellow** Lights = 3 seconds
 - Counter = 3 loops
 
 > Refer to the Traffic Light Output file in Homebrew for proper LED spacing
