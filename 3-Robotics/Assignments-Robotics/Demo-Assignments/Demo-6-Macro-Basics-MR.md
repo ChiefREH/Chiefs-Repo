@@ -45,11 +45,15 @@ We can use **Macros** to execute code without running an active program
 - R[1: Counter] = R[1: Counter] **–** **R[2: Control]**
     - _R[2:Control] **can** be changed when the program is running._
 
+## READY POSITION BINDING
+- Record the default **READY** position
+- Record this position in a Macro and assign to TP key
+
 ## SAFE POSITION BINDING
 - Record a **SAFE** position away from the work area
 - Record this position in a Macro and assign to TP key
-- Jog the robot back to the **READY** position
-- Test the TP key for proper robot movement
+
+Use the macro keys to move the robot between positions.
 
 ## NOTE
 
