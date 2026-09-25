@@ -24,12 +24,11 @@ A 4-way **NORTH-SOUTH/EAST-WEST** traffic pattern using the following LD instruc
 ## PARAMETERS
 
 - Use a SEAL-IN circuit to start/stop the routine
-    - Must use wired push-buttons in the lab
+    - _Must use the wired push-buttons in the lab_
 - Routine must continually loop until the Counter is done
 - When the Counter is done, the routine must shutdown on its own
-    - _Operator must manually toggle the RES on/off to reset the CTD **before** restarting the program_
 - The light sequence must follow the common logical sequence 
-- Do not create a traffic jam or motor vehicle accident!
+    - Do not create a traffic jam or motor vehicle accident!
 
 
 *Proper rung documentation is mandatory.
