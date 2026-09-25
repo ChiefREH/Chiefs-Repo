@@ -35,6 +35,8 @@ We can use **Macros** to execute code without running an active program
     - Assign “**SU 3**” to **Move Menu**
     - Assign “**SU 4**” to **Set Up**
 
+![TP-Macro](Demo-Images/Macro-Keys.jpg)
+
 ## HARD-CODED COUNTER v1.0
 - R[1: Counter] = R[1: Counter] **+** 1
 - R[1: Counter] = R[1: Counter] **–** 1
@@ -51,7 +53,7 @@ We can use **Macros** to execute code without running an active program
 ## SAFE POSITION BINDING
 - Record a **SAFE** position as a Macro and assign to TP key
 
-Use the macro keys to move the robot between positions.
+>Use the macro keys to move the robot between positions.
 
 ---
 
