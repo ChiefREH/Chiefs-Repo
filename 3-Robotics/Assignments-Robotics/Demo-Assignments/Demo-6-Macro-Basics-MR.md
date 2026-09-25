@@ -46,12 +46,10 @@ We can use **Macros** to execute code without running an active program
     - _R[2:Control] **can** be changed when the program is running._
 
 ## READY POSITION BINDING
-- Record the default **READY** position
-- Record this position in a Macro and assign to TP key
+- Record the default **READY** position as a Macro and assign to TP key
 
 ## SAFE POSITION BINDING
-- Record a **SAFE** position away from the work area
-- Record this position in a Macro and assign to TP key
+- Record a **SAFE** position as a Macro and assign to TP key
 
 Use the macro keys to move the robot between positions.
 
