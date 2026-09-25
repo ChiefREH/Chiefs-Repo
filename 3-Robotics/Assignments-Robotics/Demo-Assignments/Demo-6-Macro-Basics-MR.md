@@ -4,7 +4,7 @@ We can use **Macros** to execute code without running an active program
 - How many TP keys can we assign as custom Macros?
 - What's the difference between:
     - **User Key - UK**
-    - **Shift Key - SK**
+    - **Shift User - SU**
 - In the "**Group Mask**" field, what is the purpose of setting:
     - the number one (1)
     - or an asterisk (*)
