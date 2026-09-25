@@ -13,4 +13,6 @@
 
 ![Wire Nuts](Assignment-Motors-Basic-Images/Motor-Connections.jpg)
 
+## LADDER DIAGRAMS
+
 When wiring from 
