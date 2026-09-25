@@ -14,8 +14,6 @@
 - **Measuring Tool** to determine size of the Blue Box for CLOSED gripper model
 - Create 1 macro program to turn RO[1] OFF and RO[2] ON (Gripper Open)
 - Create 1 macro program to turn RO[2] OFF and RO[1] ON (Gripper Closed)
-    - Bind the Open macro program to **TOOL 1**
-    - Bind the Closed macro program to **TOOL 2**
 
 ## FOCUS
 - Binding programs as Macros to TP soft keys
@@ -26,8 +24,10 @@
 - Properly assign the Macro programs to the TP soft keys
     - [MENU] > [SETUP] > [MACRO]
 - Assign Macro routines to the appropriate [PROGRAM]
-    - **OPEN** GRIPPER: Assign "**UK 1**" to **Tool 1**
-    - **CLOSED** GRIPPER: Assign “**UK 2**” to **Tool 2**
+    - **OPEN:** "**UK 1**" to **Tool 1**
+    - **CLOSED:** “**UK 2**” to **Tool 2**
+    - **SAFE:** “**SU 3**” to **Move Menu**
+    - **READY:** “**SU 4**” to **Set Up**
 - I/O Screen to view RO[1] status change
 
 ## LOGIC
