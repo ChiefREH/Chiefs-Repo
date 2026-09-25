@@ -1,6 +1,6 @@
 # EMULATE + CONVERT 4-Way TOF + CTD
 
-Emulate a 4-way **NORTH-SOUTH-EAST-WEST** traffic pattern using the following LD instructions:
+Emulate a 4-way **NORTH-SOUTH/EAST-WEST** traffic pattern using the following LD instructions:
 - All necessary XIC and XIO instructions 
 - (3) TOF Timers to control the NORTH-SOUTH lights 
 - (3) TOF Timers to control the EAST-WEST lights 
@@ -19,7 +19,7 @@ Emulate a 4-way **NORTH-SOUTH-EAST-WEST** traffic pattern using the following LD
 - Use a SEAL-IN circuit to start/stop the routine 
 - Routine must continually loop until the Counter is done
 - When the Counter is done, the routine must shutdown on its own
-    - _Operator must manually toggle the RES on/off to reset the CTU **before** restarting the program_
+    - _Operator must manually toggle the RES on/off to reset the CTD **before** restarting the program_
 - The light sequence must follow the common logical sequence 
 - Do not create a traffic jam or motor vehicle accident!
 
