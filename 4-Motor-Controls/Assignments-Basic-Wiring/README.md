@@ -15,4 +15,6 @@
 
 ## LADDER DIAGRAMS
 
-When wiring from 
+When wiring from a ladder diagram:
+- Wire from top to bottom
+- Wire from left to right
