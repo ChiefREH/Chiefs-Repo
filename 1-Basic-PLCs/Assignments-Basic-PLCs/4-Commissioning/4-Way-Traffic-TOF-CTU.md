@@ -19,7 +19,7 @@ A 4-way **NORTH-SOUTH/EAST-WEST** traffic pattern using the following LD instruc
 - All Yellow Lights = 3 seconds
 - Counter = 3 loops
 
-
+> Refer to the Traffic Light Output file in Homebrew for proper LED spacing
 
 ## PARAMETERS
 
