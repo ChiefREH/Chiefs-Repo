@@ -57,7 +57,7 @@ Use the macro keys to move the robot between positions.
 
 # MAIN ROUTINE
 
-Create a **Main Loop** program (properly formatted) that includes the following:
+Create a **Main Loop** program (properly formatted) that includes:
 - **CALL** each macro to execute instructions
 - **WAIT** for 3 seconds between each call
 
