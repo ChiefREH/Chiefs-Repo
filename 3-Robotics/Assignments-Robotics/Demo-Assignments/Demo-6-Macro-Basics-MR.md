@@ -22,20 +22,7 @@ We can use **Macros** to execute code without running an active program
 
 ![TP-Macro](Demo-Images/Macro-Keys.jpg)
 
-## FOCUS
-- **Binding programs** as Macros to TP soft keys
 
-## BASIC PARAMETERS
-- Set program **DETAILS** to:
-    - "*" for logic
-    - "1" for motion
-- Properly assign the Macro programs to the TP soft keys
-    - [MENU] > [SETUP] > [MACRO]
-- Assign Macro routines to the appropriate [PROGRAM]
-    - Assign "**UK 1**" to **Tool 1**
-    - Assign “**UK 2**” to **Tool 2**
-    - Assign “**SU 3**” to **Move Menu**
-    - Assign “**SU 4**” to **Set Up**
 
 ## HARD-CODED COUNTER v1.0
 - R[1: Counter] = R[1: Counter] **+** 1
