@@ -26,8 +26,8 @@
 - Properly assign the Macro programs to the TP soft keys
     - [MENU] > [SETUP] > [MACRO]
 - Assign Macro routines to the appropriate [PROGRAM]
-    - Assign "**UK 1**" to **Tool 1**
-    - Assign “**UK 2**” to **Tool 2**
+    - **OPEN** GRIPPER: Assign "**UK 1**" to **Tool 1**
+    - **CLOSED** GRIPPER: Assign “**UK 2**” to **Tool 2**
 - I/O Screen to view RO[1] status change
 
 ## LOGIC
