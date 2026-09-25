@@ -23,8 +23,8 @@ A 4-way **NORTH-SOUTH/EAST-WEST** traffic pattern using the following LD instruc
 
 ## PARAMETERS
 
-- Use a SEAL-IN circuit to start/stop the routine
-    - _Must use the wired push-buttons in the lab_
+- Use a **SEAL-IN** circuit to start/stop the routine
+    - _Must alias to wired push-buttons in the lab_
 - Routine must continually loop until the Counter is done
 - When the Counter is done, the routine must shutdown on its own
 - The light sequence must follow the common logical sequence 
