@@ -5,7 +5,7 @@
 2. Convert and deploy in the lab
 
 A 4-way **NORTH-SOUTH/EAST-WEST** traffic pattern using the following LD instructions:
-- All necessary **BRANCHES, XIC,XIO, and OTE** instructions
+- All necessary **BRANCHES, XIC, XIO, and OTE** instructions
 - (3) **TOF** Timers to control the NORTH-SOUTH lights 
 - (3) **TOF** Timers to control the EAST-WEST lights 
 - (1) **CTD** Counter to control the number of program loops
