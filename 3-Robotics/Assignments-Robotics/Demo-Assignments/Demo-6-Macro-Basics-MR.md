@@ -53,9 +53,12 @@ We can use **Macros** to execute code without running an active program
 
 Use the macro keys to move the robot between positions.
 
-## NOTE
+# MAIN ROUTINE
 
-_Use a single Remark instead of the full Section format for these simple logic instructions._
+Create a Main Loop program that includes the following:
+- CALL each macro to execute instructions
+- WAIT for 3 seconds between each call
+
 
 ## VIDEO REFERENCE
 
