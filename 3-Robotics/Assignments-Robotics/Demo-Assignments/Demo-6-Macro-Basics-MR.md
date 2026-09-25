@@ -61,6 +61,7 @@ Create a **Main Loop** program (properly formatted) that includes:
 - **CALL** each macro to execute instructions
 - **WAIT** for 3 seconds between each call
 
+Test the operation while using Split Screen for the Data page.<br>
 Once completed, modify the **Main Routine**:
 - Move the **WAIT** instruction to each individual Macro program
     - _This gives us time to see the screen change_
