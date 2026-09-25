@@ -1,4 +1,4 @@
-# MACRO BASICS (REGISTER COUNTER & SAFE POSITION)
+# MACRO BASICS (COUNTER | SAFE | READY)
 
 We can use **Macros** to execute code without running an active program
 - How many TP keys can we assign as custom Macros?
