@@ -1,4 +1,4 @@
-# 4-Way TOF + CTD
+# EMULATE + CONVERT 4-Way TOF + CTD
 
 Emulate a 4-way **NORTH-SOUTH-EAST-WEST** traffic pattern using the following LD instructions:
 - All necessary XIC and XIO instructions 
