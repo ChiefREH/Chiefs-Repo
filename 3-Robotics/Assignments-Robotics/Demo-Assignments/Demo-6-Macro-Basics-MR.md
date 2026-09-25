@@ -20,6 +20,8 @@ We can use **Macros** to execute code without running an active program
 - Create (1) Macro to move the robot to the **READY POSITION**
     - Bind **ready** position macro to **SET UP**
 
+![TP-Macro](Demo-Images/Macro-Keys.jpg)
+
 ## FOCUS
 - **Binding programs** as Macros to TP soft keys
 
@@ -34,8 +36,6 @@ We can use **Macros** to execute code without running an active program
     - Assign “**UK 2**” to **Tool 2**
     - Assign “**SU 3**” to **Move Menu**
     - Assign “**SU 4**” to **Set Up**
-
-![TP-Macro](Demo-Images/Macro-Keys.jpg)
 
 ## HARD-CODED COUNTER v1.0
 - R[1: Counter] = R[1: Counter] **+** 1
