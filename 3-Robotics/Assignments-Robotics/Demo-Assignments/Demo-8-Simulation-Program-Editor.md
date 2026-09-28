@@ -17,7 +17,7 @@ Create a new project using this Editor. Record basic points.
 ## SECTION SPECIFIC
 
 **!SETUP**
-- Explain the **WAIT** instruction
+- Review the **WAIT** instruction
     - Include a WAIT DI[1]=ON
     - Won’t work unless the input is set to SIM
 
