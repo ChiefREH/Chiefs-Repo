@@ -22,6 +22,6 @@ L1        STOP             START              RUN          L2
 ```
 
 ## Question
-- Does programming the wiring diagram indicates yield the desired result?
+- Does programming this wiring diagram yield the desired result?
 - If not, what needs to change?
 - Explain why the changes might be needed?
