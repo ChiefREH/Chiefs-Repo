@@ -21,6 +21,6 @@ L1        STOP             START              RUN          L2
 --(   )--  OTE / COIL
 ```
 
-## Questions
+## Question
 - Does programming the rung as shown above yield the desired result?
 - If not, what needs to change?
