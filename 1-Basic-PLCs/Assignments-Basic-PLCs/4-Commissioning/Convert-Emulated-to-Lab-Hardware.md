@@ -24,3 +24,4 @@ L1        STOP             START              RUN          L2
 ## Question
 - Does programming the rung as shown above yield the desired result?
 - If not, what needs to change?
+- Why?
