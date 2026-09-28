@@ -16,12 +16,12 @@ L1        STOP             START              RUN          L2
                     |------|   |-------|
 
 
---|   |--  XIC / N.O. Contact
---| / |--  XIO / N.C. Contact
---(   )--  OTE / COIL
+--|   |--  N.O. Contact
+--| / |--  N.C. Contact
+--(   )--  COIL
 ```
 
 ## Question
-- Does programming the rung as shown above yield the desired result?
+- Does programming the wiring diagram indicates yield the desired result?
 - If not, what needs to change?
 - Explain why the changes might be needed?
