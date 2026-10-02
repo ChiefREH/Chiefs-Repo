@@ -14,7 +14,7 @@
 - Spawn in a BLUE BOX
 - Add BOX to Table and EOAT
     - _Do the Pickup/Drop routines update?_
-- Create a Main Loop simulation program
+- Create a Main Loop simulation program to CALL the animated routines
 
 ```text
 LBL [100]
