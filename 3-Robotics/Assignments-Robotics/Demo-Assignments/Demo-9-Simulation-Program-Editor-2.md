@@ -34,7 +34,7 @@ JMP LBL [100]
 
 ## MOTION
 - Record J P[1] 100% FINE at 100mm ABOVE the BOX (Open/Drop)
-- Use the MoveTo feature to position the robot at the BOX
+- Use the **MoveTo** feature to position the robot directly at the BOX
 - Record J P[2] 100% FINE at the BOX (Close/Pickup)
 
 ## QUESTION
