@@ -7,7 +7,7 @@
 - Record a basic program:
     - READY position
     - APPROACH position 100mm above the table corner
-    - Four corner points:
+    - Four Table21 corner points:
 
 ```text
 !SETUP
