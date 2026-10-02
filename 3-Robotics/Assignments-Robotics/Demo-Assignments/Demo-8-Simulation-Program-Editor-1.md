@@ -24,7 +24,7 @@
 - JMP LBL [100]
 ```
 - Cannot create a "dummy point" in the simulation editor
-    - _use Copy/Paste of P[3] for P[7]_
+    - _Right-click, copy P[3], paste as P[7]_
 - Modify the points:
     - JOINT P[ ] 100% FINE to **LINEAR P[ ] 250mm/sec FINE**
         - _What's the difference between Joint and Linear?_
