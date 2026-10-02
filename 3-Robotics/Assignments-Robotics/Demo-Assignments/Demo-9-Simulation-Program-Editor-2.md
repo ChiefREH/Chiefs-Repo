@@ -4,7 +4,18 @@
 - Animate an OPEN gripper operation with the Simulation Editor
 - Animate a CLOSED gripper operation with the Simulation Editor
 
-## FOCUS
+## STEPS
+- Add Robot to the work-cell
+- Add Gripper CAD for Open and Closed
+- Sim Editor
+    - Create Pickup and Drop routines
+        - _Notice there are no options_
+- Add Table21
+- Spawn in a BLUE BOX
+- Add BOX to Table and EOAT
+    - _Do the Pickup/Drop routines update?_
+- 
+
 - Properly assigning the BOX to the EOAT and FIXTURE
 - Demonstrate **Create Delay** (6 sec) and **Destroy Delay** (6 sec)
 - Use **CALL** instructions to make use of SIM EDITOR programs
