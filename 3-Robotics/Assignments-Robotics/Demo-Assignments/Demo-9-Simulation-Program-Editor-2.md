@@ -38,10 +38,6 @@ LBL [100]
 JMP LBL [100]
 ```
 
-NOTE
-- The **CALL** instruction is needed for the animation/simulation
-- A 6 second **WAIT** is best for viewing the Create/Destroy delay
-
 **!ERRORS**
 - Remark & Label only. No code needed.
 
