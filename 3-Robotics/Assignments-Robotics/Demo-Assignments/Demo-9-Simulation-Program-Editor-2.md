@@ -33,9 +33,13 @@ JMP LBL [100]
 - Run the program in **CYCLE MODE** to see the animations function properly
 
 ## MOTION
-- Record J P[1] 100% FINE at 100mm ABOVE the BOX (Open/Drop)
+- Record J P[1] 100% FINE at **100mm** ABOVE the BOX (Open/Drop)
 - Use the **MoveTo** feature to position the robot directly at the BOX
 - Record J P[2] 100% FINE at the BOX (Close/Pickup)
+
+## MODIFICATION
+- Loop the entire simulation program 3 times
+    - _Replace LBL/JMP LBL with FOR/ENDFOR_
 
 ## QUESTION
 - Can you assign/bind the animated routines to a Macro key?
