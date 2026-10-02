@@ -11,7 +11,7 @@ Create (2) Temperature Conversion programs using the following instructions:
     - Do NOT put all Routines/Subroutines into a single TASK directory
 - Use only MATH instructions for the calculations
 - No other instructions are necessary
-- All tags are REAL data type structures
+- All tags are **REAL** data type structures
 - Include the formulas as a ladder rung comments
 
 *Proper rung documentation is mandatory.
