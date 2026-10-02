@@ -1,8 +1,8 @@
 # COMBINE ANIMATION AND ROBOT OUTPUT RO[ ]
 
 ## TASK
-- Animate an OPEN gripper operation with the Simulation Editor
-- Animate a CLOSED gripper operation with the Simulation Editor
+- Animate an **OPEN** gripper operation with the Simulation Editor
+- Animate a **CLOSE**D gripper operation with the Simulation Editor
 
 ## STEPS
 - Add Robot to the work-cell
