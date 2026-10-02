@@ -1,17 +1,7 @@
 # MACRO BASICS (ROBOT OUTPUTS RO)
 
-## WORLD-BUILDING COMPONENTS
-- Table21
-- two Blue Boxes
-    - one for the table top
-    - one for the closed gripper model
-- **Open** Gripper CAD model as the EOAT
-- **Closed** Gripper CAD model to the EOAT
-    - Demonstrate how to manually open/close gripper
-    - Demonstrate how the animation does not work in code
 
 ## TASK
-- **Measuring Tool** to determine size of the Blue Box for CLOSED gripper model
 - Create 1 macro program to turn RO[1] OFF and RO[2] ON (Gripper Open)
 - Create 1 macro program to turn RO[2] OFF and RO[1] ON (Gripper Closed)
 
@@ -26,8 +16,8 @@
 - Assign Macro routines to the appropriate [PROGRAM]
     - **OPEN:** "**UK 1**" to **Tool 1**
     - **CLOSED:** “**UK 2**” to **Tool 2**
-    - **SAFE:** “**SU 3**” to **Move Menu**
-    - **READY:** “**SU 4**” to **Set Up**
+    - **SAFE POSITION:** “**SU 3**” to **Move Menu**
+    - **READY POSITION:** “**SU 4**” to **Set Up**
 - I/O Screen to view RO[1] status change
 
 ## LOGIC
