@@ -1,7 +1,6 @@
 # COMBINE ANIMATION AND ROBOT OUTPUT RO[ ]
 
 ## TASK
-- Add an open and closed gripper CAD model to the EOAT
 - Animate an OPEN gripper operation with the Simulation Editor
 - Animate a CLOSED gripper operation with the Simulation Editor
 
