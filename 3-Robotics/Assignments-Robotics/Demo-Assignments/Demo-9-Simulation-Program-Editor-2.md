@@ -14,12 +14,8 @@
 - Spawn in a BLUE BOX
 - Add BOX to Table and EOAT
     - _Do the Pickup/Drop routines update?_
-- 
-
-- Properly assigning the BOX to the EOAT and FIXTURE
-- Demonstrate **Create Delay** (6 sec) and **Destroy Delay** (6 sec)
-- Use **CALL** instructions to make use of SIM EDITOR programs
-- Use **WAIT** instructions to slow the program down for viewing
+- Create a Main Loop simulation program
+    - _See Section Specific below_
 - Split Screen to view RO when program is running
 - Run the program in **CYCLE MODE** to see the animations function properly
 
