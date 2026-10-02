@@ -33,7 +33,7 @@ JMP LBL [100]
 - Run the program in **CYCLE MODE** to see the animations function properly
 
 
-## QUESTIONS
+## QUESTION
 - Can you assign/bind the animated routines to a Macro key?
 - Will the Macro keys work in Cycle Mode?
 
