@@ -37,6 +37,10 @@ JMP LBL [100]
 - Use the **MoveTo** feature to position the robot directly at the BOX
 - Record J P[2] 100% FINE at the BOX (Close/Pickup)
 
+## CREATE / DESTROY
+- Enable/Disable each option and view the results
+- Adjust the **Create Delay** to 6 seconds and view the results
+
 ## MODIFICATION
 - Loop the entire simulation program 3 times
     - _Replace LBL/JMP LBL with FOR/ENDFOR_
