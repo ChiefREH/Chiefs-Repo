@@ -44,6 +44,7 @@ JMP LBL [100]
 ## QUESTION
 - Can you assign/bind the animated routines to a Macro key?
 - Will the Macro keys work in Cycle Mode?
+- Will the animated routines work in the lab?
 
 
 
