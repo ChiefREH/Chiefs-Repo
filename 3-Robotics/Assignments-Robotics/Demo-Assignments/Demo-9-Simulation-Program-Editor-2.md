@@ -32,6 +32,10 @@ JMP LBL [100]
 - Split Screen to view RO when program is running
 - Run the program in **CYCLE MODE** to see the animations function properly
 
+## MOTION
+- Record J P[1] 100% FINE at 100mm ABOVE the BOX (Open/Drop)
+- Use the MoveTo feature to position the robot at the BOX
+- Record J P[2] 100% FINE at the BOX (Close/Pickup)
 
 ## QUESTION
 - Can you assign/bind the animated routines to a Macro key?
