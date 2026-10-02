@@ -1,14 +1,15 @@
 # SIMULATION PROGRAM EDITOR
 
-Create a new project using this Editor
-
-## TASK
 - Familiarize yourself with the **Simulation program Editor**
 - Use **!** to include all necessary SECTIONS and REMARKS
-- Record a basic program
+
+## MOTION TASKS
+- Record a basic program:
     - READY position
     - APPROACH position 100mm above the table corner
-    - 
+    - Four corner points
+
+    
 - Modify the points:
     - JOINT P[ ] 100% FINE to **LINEAR P[ ] 250mm/sec FINE**
         - _What's the difference between Joint and Linear?_
