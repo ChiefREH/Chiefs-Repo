@@ -45,8 +45,9 @@ JMP LBL [100]
 - Remark & Label only. No code needed.
 
 
-## LAB PARAMETERS
-None. Simulation Editor only.
+## QUESTIONS
+- Can you assign/bind the animated routines to a Macro key?
+
 
 ## VIDEO REFERENCE
 
