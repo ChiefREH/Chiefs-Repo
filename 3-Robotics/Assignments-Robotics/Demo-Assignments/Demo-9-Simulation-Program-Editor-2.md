@@ -40,6 +40,7 @@ JMP LBL [100]
 ## CREATE / DESTROY
 - Enable/Disable each option and view the results
 - Adjust the **Create Delay** to 6 seconds and view the results
+    - _Disable the **Destroy** at default 9999_
 
 ## MODIFICATION
 - Loop the entire simulation program 3 times
