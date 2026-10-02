@@ -1,13 +1,12 @@
-# EMULATE + CONVERT 4-Way TOF + CTD
+# EMULATE + CONVERT 2-Way TOF + CTD
 
 ## TASKS
 1. Emulate in the classroom
 2. Convert and deploy in the lab
 
-A 4-way **NORTH-SOUTH/EAST-WEST** traffic pattern using the following LD instructions:
+A 2-way **NORTH-SOUTH** traffic pattern using the following LD instructions:
 - All necessary **BRANCHES, XIC, XIO, and OTE** instructions
 - (3) **TOF** Timers to control the NORTH-SOUTH lights 
-- (3) **TOF** Timers to control the EAST-WEST lights 
 - (1) **CTD** Counter to control the number of program loops
 - (1) **RES** Reset instruction to **manually** reset the CTD from software
 > The RES instruction does not require an additional button.
