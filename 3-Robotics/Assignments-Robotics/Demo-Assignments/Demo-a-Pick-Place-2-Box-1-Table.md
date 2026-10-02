@@ -32,8 +32,8 @@ For this exercise, set **RO[1-2] COMPLIMENTARY = TRUE**
 - RO[1] = ON
 - RO[1] = OFF
 - R[1] = R[1] + 1
-- IF R[1] = R[2] … END section
-- IF R[1] > R[2] … ERROR section
+- IF R[1] = R[2] … END OF LINE
+- IF R[1] > R[2] … ERRORS
 
 !ERRORS
 - UALM[1] “Count Exceeded”
