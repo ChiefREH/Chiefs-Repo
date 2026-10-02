@@ -3,11 +3,16 @@
 - Familiarize yourself with the **Simulation program Editor**
 - Use **!** to include all necessary SECTIONS and REMARKS
 
+## FOCUS
+- Determine the **pros** (animation) and **cons** (limitations) of using the Sim Editor
+    - Only runs in CYCLE MODE?
+    - Can we run from the TP??
+
 ## MOTION TASKS
-- Record a basic program:
-    - READY position
-    - APPROACH position 100mm above the table corner
-    - Four Table21 corner points:
+- Record a basic motion program:
+    - P[1] READY position
+    - P[2] APPROACH position 100mm above the table corner
+    - P[3] to P[7] corner points:
 
 ```text
 !SETUP
@@ -25,16 +30,9 @@
 ```
 - Cannot create a "dummy point" in the simulation editor
     - _Right-click, copy P[3], paste as P[7]_
-- Modify the points:
-    - JOINT P[ ] 100% FINE to **LINEAR P[ ] 250mm/sec FINE**
-        - _What's the difference between Joint and Linear?_
+ 
 
-## FOCUS
-- Familiarize with the **pros** (animation) and **cons** (limitations) of using the Sim Editor
-    - Only runs in CYCLE MODE?
-    - Can we run from the TP??
-
-## SECTION SPECIFIC
+## MOTION MODIFICATIONS
 
 **!SETUP**
 - Review the **WAIT** instruction
@@ -42,16 +40,12 @@
     - _Won’t work unless the input is set to SIM_
 
 **!MAIN**
-- FOR LOOP LOGIC
+- Change all J P[ ] 100% FINE to **LINEAR P[ ] 250mm/sec FINE**
+    - _Review the difference between Joint and Linear?_
+- Replace LBL/JMP LBL with FOR/ENDFOR
     - FOR R[1] = 1 to 3
-    - ENDFOR to loop the program x3
-        - This can replace LBL/JMP LBL
+    - ENDFOR
 
-**!ERRORS**
-- Remark & Label only. No code needed.
-
-**!END OF LINE**
-- Remark & Label only. No code needed.
 
 
 ## VIDEO REFERENCE
