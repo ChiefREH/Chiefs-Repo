@@ -1,15 +1,17 @@
 # MATH INSTRUCTIONS FOR TEMPERATURE CONVERSIONS
 
-Create (2) Temperature Conversion programs using the following instructions:
+Create (4) Temperature Conversion programs using the following instructions:
 
 - (1) routine using only MATH instructions to convert Fahrenheit to Celsius
 - (1) routine using only MATH instructions to convert Celsius to Fahrenheit
+- (1) routine using a single CPT - COMPUTE instruction to convert Fahrenheit to Celsius
+- (1) routine using a single CPT - COMPUTE instruction to convert Celsius to Fahrenheit
 
 ## PARAMETERS
 
-- Create 2 separate TASK/PROGRAM folders 
+- Create 4 separate TASK/PROGRAM folders 
     - Do NOT put all Routines/Subroutines into a single TASK directory
-- Use only MATH instructions for the calculations
+- Use only MATH and COMPUTE instructions for the calculations
 - No other instructions are necessary
 - All tags are REAL data type structures
 - Include the formulas as a ladder rung comments
