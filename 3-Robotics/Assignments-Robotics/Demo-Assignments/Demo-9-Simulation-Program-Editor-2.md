@@ -46,14 +46,13 @@ JMP LBL [100]
 - Loop the entire simulation program 3 times
     - _Replace LBL/JMP LBL with FOR/ENDFOR_
 
-## QUESTION
+## QUESTIONS
 - Can you assign/bind the animated routines to a Macro key?
     - _Yes, you can bind the routines, but they will not animate._
 - Will the Macro keys work in Cycle Mode?
     - _No, because the TP keys are disabled in automatic._
 - Will the animated routines work in the lab?
-    - Go test it and see...
-
+    - _Go test it and find out..._
 
 
 ## VIDEO REFERENCE
