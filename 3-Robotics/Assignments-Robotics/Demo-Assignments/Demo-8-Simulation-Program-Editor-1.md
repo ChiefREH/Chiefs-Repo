@@ -9,7 +9,21 @@
     - APPROACH position 100mm above the table corner
     - Four corner points
 
-    
+```text
+!SETUP
+- J P[1] 100% FINE
+- J P[2] 100% FINE
+
+!MAIN LOOP
+- LBL [100]
+    - J P[3] 100% FINE
+    - J P[4] 100% FINE
+    - J P[5] 100% FINE
+    - J P[6] 100% FINE
+    - J P[7] 100% FINE
+- JMP LBL [100]
+```
+
 - Modify the points:
     - JOINT P[ ] 100% FINE to **LINEAR P[ ] 250mm/sec FINE**
         - _What's the difference between Joint and Linear?_
