@@ -15,15 +15,6 @@
 - Add BOX to Table and EOAT
     - _Do the Pickup/Drop routines update?_
 - Create a Main Loop simulation program
-    - _See Section Specific below_
-- Split Screen to view RO when program is running
-- Run the program in **CYCLE MODE** to see the animations function properly
-
-## SECTION SPECIFIC
-**!SETUP**
-- Remark & Label only. No code needed.
-
-**!MAIN**
 
 ```text
 LBL [100]
@@ -38,15 +29,14 @@ LBL [100]
 JMP LBL [100]
 ```
 
-**!ERRORS**
-- Remark & Label only. No code needed.
-
-**!END OF LINE**
-- Remark & Label only. No code needed.
+- Split Screen to view RO when program is running
+- Run the program in **CYCLE MODE** to see the animations function properly
 
 
 ## QUESTIONS
 - Can you assign/bind the animated routines to a Macro key?
+- Will the Macro keys work in Cycle Mode?
+
 
 
 ## VIDEO REFERENCE
