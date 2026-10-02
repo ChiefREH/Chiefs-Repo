@@ -49,5 +49,4 @@
 
 
 ## VIDEO REFERENCE
-- Sim-Editor-1 
-- Sim-Editor-2
+- Sim-Editor-1
