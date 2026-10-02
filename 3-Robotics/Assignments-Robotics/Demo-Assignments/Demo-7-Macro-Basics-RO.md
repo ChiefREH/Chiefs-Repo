@@ -32,6 +32,19 @@
 - RO[1] = ON
 > Why must RO[2] be off first?
 
+## PROGRAM
+Create a MAIN LOOP program using the macros:
+- LBL
+- CALL the OPEN macro
+- WAIT 3 seconds
+- CALL the CLOSE macro
+- WAIT 3 seconds
+- JMP LBL
+
+> Split-screen to view the RO page.
+
+## MODIFICATION
+- Add macro CALLS for SAFE and READY positions
 
 ## NOTES
 - _Can we eliminate the need for this code by using **Complimentary Pairs**?_
