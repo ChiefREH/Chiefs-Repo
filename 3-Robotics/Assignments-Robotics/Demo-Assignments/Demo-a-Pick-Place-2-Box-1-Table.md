@@ -15,6 +15,8 @@ _Remember, the gripper will not animate properly unless the Main Program is run 
 Include FIXTURE and PARTS:
 - TABLE21
 - RED Box
+    - Create Delay = 3s
+    - Destroy Delay = disabled
 - BLUE Box
 
 
