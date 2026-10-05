@@ -25,9 +25,9 @@ Include FIXTURE and PARTS:
 - OVERRIDE = 50%
 - R[1: Counter] = 0
 - R[2: Control] = 3
-- READY position
 
 !MAIN
+- READY position
 - Gripper Open/Close example:
     - RO[1] = OFF
     - RO[2] = ON
