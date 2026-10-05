@@ -14,7 +14,7 @@ _Remember, the gripper will not animate properly unless the Main Program is run 
 ## WORLD-BUILDING PARAMETERS
 Include FIXTURE:
 - TABLE21 at default world position
-- Table Part Simulation
+- Table21 Part Simulation
     - RED Box
         - Create Delay = 3s
         - Destroy Delay = disabled
