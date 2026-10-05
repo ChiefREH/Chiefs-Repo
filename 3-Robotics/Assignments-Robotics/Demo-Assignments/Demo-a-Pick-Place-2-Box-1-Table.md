@@ -25,8 +25,9 @@ Include FIXTURE:
 >We'll change the Delay to 3 seconds for both Boxes later.
 
 Include a Gripper EOAT:
-- Apply both Boxes to the EOAT
-    - We'll start with the RED BOX
+- Apply both Boxes in the EOAT Parts tab
+
+>RED box should appear in the open gripper.
 
 ## SECTION SPECIFIC
 
