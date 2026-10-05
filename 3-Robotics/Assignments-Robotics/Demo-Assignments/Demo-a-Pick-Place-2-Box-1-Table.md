@@ -26,7 +26,7 @@ Include FIXTURE:
 
 Include a Gripper EOAT:
 - Apply both Boxes to the EOAT
-    - We'll start with teh RED BOX
+    - We'll start with the RED BOX
 
 ## SECTION SPECIFIC
 
