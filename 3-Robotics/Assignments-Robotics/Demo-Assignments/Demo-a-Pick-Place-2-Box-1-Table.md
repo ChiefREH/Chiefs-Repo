@@ -22,7 +22,7 @@ Include FIXTURE and PARTS:
 
 ```
 !SETUP
-- OVERRIDE = 50%
+- OVERRIDE = 100%
 - R[1: Counter] = 0
 - R[2: Control] = 3
 
