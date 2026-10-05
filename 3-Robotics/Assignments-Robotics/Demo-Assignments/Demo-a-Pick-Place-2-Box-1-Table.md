@@ -39,7 +39,7 @@ Include FIXTURE and PARTS:
 - At DROP position
     - RO[2] = OFF
     - RO[1] = ON
-    - CALL Drop_Simulation
+    - CALL Drop_BLUE_Simulation
 - APPROACH position above DROP
 - READY position
 
