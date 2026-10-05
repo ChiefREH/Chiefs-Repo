@@ -12,14 +12,15 @@ In **WORLD MODE**, record the following Points:
 _Remember, the gripper will not animate properly unless the Main Program is run in **CYCLE MODE**_
 
 ## WORLD-BUILDING PARAMETERS
-Include FIXTURE and PARTS:
-- TABLE21
-- RED Box
-    - Create Delay = 3s
-    - Destroy Delay = disabled
-- BLUE Box
-    - Destroy Delay = 3s
-    - Create Delay = disabled
+Include FIXTURE:
+- TABLE21 at default world position
+- Table Part Simulation
+    - RED Box
+        - Create Delay = 3s
+        - Destroy Delay = disabled
+    - BLUE Box
+        - Destroy Delay = 3s
+        - Create Delay = disabled
 
 
 ## SECTION SPECIFIC
