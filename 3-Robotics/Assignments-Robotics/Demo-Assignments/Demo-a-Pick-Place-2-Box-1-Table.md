@@ -3,11 +3,11 @@
 ## TASK
 In **WORLD MODE**, record the following Points:
 - **READY** position
-- **APPROACH** position **100mm above** GREEN pick table
-- **PICKUP** at Green position
-- **APPROACH** position **100mm above** RED drop table
-- **DROP** at Red position
-- **SAFE position** _(away from both tables)_ when finished
+- **APPROACH** position **100mm above** RED BOX
+- **PICKUP** at RED corner
+- **APPROACH** position **100mm above** BLUE BOX
+- **DROP** at BLUE corner
+- **SAFE position** _(away from table)_ when finished
 
 _Remember, the gripper will not animate properly unless the Main Program is run in **CYCLE MODE**_
 
