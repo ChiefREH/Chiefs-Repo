@@ -18,11 +18,11 @@ Include FIXTURE:
     - RED Box
         - Create Delay = 2s
         - Destroy Delay = disabled
-        - Visible at Teach Time / Visible at Run Time
+        - Check "Visible at Teach Time" / Check "Visible at Run Time"
     - BLUE Box
         - Destroy Delay = 2s
         - Create Delay = disabled
-        - 
+        - Check "Visible at Teach Time" / **UNCHECK** "Visible at Run Time"
 
 >We'll change the Delay to 3 seconds for both Boxes later.
 
