@@ -16,12 +16,13 @@ Include FIXTURE:
 - TABLE21 at default world position
 - Table21 Part Simulation
     - RED Box
-        - Create Delay = 3s
+        - Create Delay = 2s
         - Destroy Delay = disabled
     - BLUE Box
-        - Destroy Delay = 3s
+        - Destroy Delay = 2s
         - Create Delay = disabled
 
+>We'll change the Delay to 3 seconds for both Boxes later.
 
 ## SECTION SPECIFIC
 
