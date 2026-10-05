@@ -24,6 +24,10 @@ Include FIXTURE:
 
 >We'll change the Delay to 3 seconds for both Boxes later.
 
+Include a Gripper EOAT:
+- Apply both Boxes to the EOAT
+    - We'll start with teh RED BOX
+
 ## SECTION SPECIFIC
 
 ```
