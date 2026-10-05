@@ -26,6 +26,8 @@ Include FIXTURE and PARTS:
 - R[1: Counter] = 0
 - R[2: Control] = 3
 
+- CALL Drop_RED_Simulation
+
 !MAIN
 - READY position
 - APPROACH position above PICKUP
