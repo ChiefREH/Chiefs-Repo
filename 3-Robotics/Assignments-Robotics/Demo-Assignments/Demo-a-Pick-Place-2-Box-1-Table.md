@@ -22,6 +22,7 @@ Include FIXTURE and PARTS:
 
 ```
 !SETUP
+- UTOOL_NUM = 1
 - OVERRIDE = 100%
 - R[1: Counter] = 0
 - R[2: Control] = 3
