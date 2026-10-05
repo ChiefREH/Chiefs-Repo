@@ -38,7 +38,7 @@ Include a Gripper EOAT:
 - Drop_RED_Simulation
     - Drop RED, From GRIPPER
 
->This simulation will clear the red box from the gripper when the blue box appears on the table.
+>The drop_red_sim will clear the red box from the gripper when the blue box appears on the table.
 
 ## SECTION SPECIFIC
 
