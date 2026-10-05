@@ -33,6 +33,7 @@ Include FIXTURE and PARTS:
     - RO[1] = OFF
     - RO[2] = ON
     - CALL Pickup_RED_Simulation
+    - WAIT 2s
 - APPROACH position above PICKUP
 - READY position
 - APPROACH position above DROP
@@ -40,6 +41,7 @@ Include FIXTURE and PARTS:
     - RO[2] = OFF
     - RO[1] = ON
     - CALL Drop_BLUE_Simulation
+    - WAIT 2s
 - APPROACH position above DROP
 - READY position
 
