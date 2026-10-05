@@ -29,6 +29,10 @@ Include a Gripper EOAT:
 
 >RED box should appear in the open gripper.
 
+## SIMULATION SPECIFIC
+
+
+
 ## SECTION SPECIFIC
 
 ```
