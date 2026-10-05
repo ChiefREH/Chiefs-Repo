@@ -17,20 +17,17 @@ Include FIXTURE and PARTS:
 - RED Box
 - BLUE Box
 
-For this exercise, set **RO[1-2] COMPLIMENTARY = TRUE**
 
 ## SECTION SPECIFIC
 
 ```
 !SETUP
-- UTOOL_NUM = 1
 - OVERRIDE = 50%
 - R[1: Counter] = 0
-- R[2: Control] = 4
+- R[2: Control] = 3
 
 !MAIN
-- RO[1] = ON
-- RO[1] = OFF
+- Gripper Open/Close sequence
 - R[1] = R[1] + 1
 - IF R[1] = R[2] … END OF LINE
 - IF R[1] > R[2] … ERRORS
