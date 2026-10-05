@@ -12,6 +12,12 @@ In **WORLD MODE**, record the following Points:
 _Remember, the gripper will not animate properly unless the Main Program is run in **CYCLE MODE**_
 
 ## WORLD-BUILDING PARAMETERS
+Include two PARTS:
+- RED Box
+- BLUE Box
+
+>See Homebrew - Basic World Parameters for box positions
+
 Include FIXTURE:
 - TABLE21 at default world position
 - Table21 Parts tab
