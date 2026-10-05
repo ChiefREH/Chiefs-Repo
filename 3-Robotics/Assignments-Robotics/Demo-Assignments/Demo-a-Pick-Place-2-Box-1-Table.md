@@ -28,15 +28,21 @@ Include FIXTURE and PARTS:
 
 !MAIN
 - READY position
-- Gripper Open/Close example:
+- APPROACH position above PICKUP
+- At PICKUP position
     - RO[1] = OFF
     - RO[2] = ON
-    - CALL Open_Gripper_Animation
-
+    - CALL Pickup_Simulation
+- APPROACH position above PICKUP
+- READY position
+- APPROACH position above DROP
+- At DROP position
     - RO[2] = OFF
     - RO[1] = ON
-    - CALL Close_Gripper_Animation
-    
+    - CALL Drop_Simulation
+- APPROACH position above DROP
+- READY position
+
 - Logic for loop counting:
     - R[1: Counter] = R[1: Counter] + 1
     - IF R[1: Counter] = R[2: Control] … END OF LINE
