@@ -32,7 +32,7 @@ Include FIXTURE and PARTS:
 - At PICKUP position
     - RO[1] = OFF
     - RO[2] = ON
-    - CALL Pickup_Simulation
+    - CALL Pickup_RED_Simulation
 - APPROACH position above PICKUP
 - READY position
 - APPROACH position above DROP
