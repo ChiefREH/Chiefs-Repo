@@ -30,9 +30,9 @@ Include FIXTURE and PARTS:
 !MAIN
 - Gripper Open/Close sequence
 - Logic for loop counting
-    - R[1] = R[1] + 1
-    - IF R[1] = R[2] … END OF LINE
-    - IF R[1] > R[2] … ERRORS
+    - R[1: Counter] = R[1: Counter] + 1
+    - IF R[1: Counter] = R[2: Control] … END OF LINE
+    - IF R[1: Counter] > R[2: Control] … ERRORS
 
 !ERRORS
 - UALM[1] “Count Exceeded”
