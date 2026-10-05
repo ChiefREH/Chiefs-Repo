@@ -18,6 +18,8 @@ Include FIXTURE and PARTS:
     - Create Delay = 3s
     - Destroy Delay = disabled
 - BLUE Box
+    - Destroy Delay = 3s
+    - Create Delay = disabled
 
 
 ## SECTION SPECIFIC
