@@ -25,17 +25,20 @@ Include FIXTURE and PARTS:
 - OVERRIDE = 50%
 - R[1: Counter] = 0
 - R[2: Control] = 3
+- READY position
 
 !MAIN
 - Gripper Open/Close sequence
-- R[1] = R[1] + 1
-- IF R[1] = R[2] … END OF LINE
-- IF R[1] > R[2] … ERRORS
+- Logic for loop counting
+    - R[1] = R[1] + 1
+    - IF R[1] = R[2] … END OF LINE
+    - IF R[1] > R[2] … ERRORS
 
 !ERRORS
 - UALM[1] “Count Exceeded”
 
 !END OF LINE
+- SAFE position
 - MESSAGE “Pick Program Complete”
 ```
 
