@@ -16,15 +16,15 @@ Include FIXTURE:
 - TABLE21 at default world position
 - Table21 Parts tab
     - RED Box
-        - Create Delay = 2s
+        - Create Delay = 2s *
         - Destroy Delay = disabled
         - Check "Visible at Teach Time" / Check "Visible at Run Time"
     - BLUE Box
-        - Destroy Delay = 2s
+        - Destroy Delay = 2s *
         - Create Delay = disabled
         - Check "Visible at Teach Time" / **UNCHECK** "Visible at Run Time"
 
->We'll change the Delay to 3 seconds for both Boxes later.
+>*We'll change the Delay to 3 seconds for both Boxes later.
 
 Include a Gripper EOAT:
 - Apply both Boxes in the EOAT Parts tab
