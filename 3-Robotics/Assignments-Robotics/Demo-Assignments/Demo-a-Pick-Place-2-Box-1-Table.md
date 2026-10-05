@@ -32,9 +32,11 @@ Include a Gripper EOAT:
 ## SIMULATION SPECIFIC
 
 - Pickup_RED_Simulation
-    - Includes all 3 parameters
+    - Pickup RED, From TABLE21, With GRIPPER
 - Drop_BLUE_Simulation
+    - 
 - Drop_RED_Simulation
+    - Drop RED, From TOOL
 
 ## SECTION SPECIFIC
 
