@@ -44,6 +44,7 @@ Include FIXTURE and PARTS:
     - RO[1] = ON
     - CALL Drop_BLUE_Simulation
     - WAIT 2s
+- CALL Drop_RED_Simulation
 - APPROACH position above DROP
 - READY position
 
