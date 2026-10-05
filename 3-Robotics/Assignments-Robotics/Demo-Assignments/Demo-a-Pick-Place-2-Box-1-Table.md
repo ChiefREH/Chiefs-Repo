@@ -34,9 +34,11 @@ Include a Gripper EOAT:
 - Pickup_RED_Simulation
     - Pickup RED, From TABLE21, With GRIPPER
 - Drop_BLUE_Simulation
-    - 
+    - Drop BLUE, From GRIPPER, On TABLE21
 - Drop_RED_Simulation
-    - Drop RED, From TOOL
+    - Drop RED, From GRIPPER
+
+>This simulation will clear the red box from the gripper when the blue box appears on the table.
 
 ## SECTION SPECIFIC
 
