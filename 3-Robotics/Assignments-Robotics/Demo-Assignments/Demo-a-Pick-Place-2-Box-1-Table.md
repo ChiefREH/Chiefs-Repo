@@ -32,11 +32,11 @@ Include FIXTURE and PARTS:
     - RO[1] = OFF
     - RO[2] = ON
     - CALL Open_Gripper_Animation
-    - WAIT 3s
+
     - RO[2] = OFF
     - RO[1] = ON
     - CALL Close_Gripper_Animation
-    - WAIT 3s  
+    
 - Logic for loop counting:
     - R[1: Counter] = R[1: Counter] + 1
     - IF R[1: Counter] = R[2: Control] … END OF LINE
