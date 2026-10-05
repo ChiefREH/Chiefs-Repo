@@ -1,9 +1,9 @@
 # BASIC MATH INSTRUCTIONS
 
-- ADD Addition (output = SUM)
-- SUB Subtraction (output = DIFFERENCE)
-- MUL Multiplication (output = PRODUCT)
-- DIV Division (output = QUOTIENT)
+- ADD Addition (result is called SUM)
+- SUB Subtraction (result is called DIFFERENCE)
+- MUL Multiplication (result is called PRODUCT)
+- DIV Division (result is called QUOTIENT)
 - MOD Modulo
 - ABS Absolute
 - NEG Negate
