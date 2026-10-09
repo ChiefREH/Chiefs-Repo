@@ -11,7 +11,7 @@
 
 ## ONS ONE-SHOT INSTRUCTION
 
-Sometimes an instruction will fire repeatedly every scan cycle, producing an undesirable outcome. It happens in the ADD instruction when the one of the Sources is the same as the Destination:
+Sometimes an instruction will fire repeatedly every scan cycle, producing an undesirable outcome. It happens in the ADD instruction when one of the Sources is the same as the Destination:
 
 ![ADD ONS](../0-Assignment-Basic-PLC-Images/ONS_ADD.png)
 
