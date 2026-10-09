@@ -11,5 +11,5 @@
 
 ## ONS ONE-SHOT INSTRUCTION
 
-Sometimes an instruction will fire repeatedly every scan cycle, producing an undesirable outcome.
+Sometimes an instruction will fire repeatedly every scan cycle, producing an undesirable outcome:
 
