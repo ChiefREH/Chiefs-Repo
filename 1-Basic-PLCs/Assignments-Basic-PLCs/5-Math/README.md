@@ -13,4 +13,5 @@
 
 Sometimes an instruction will fire repeatedly every scan cycle, producing an undesirable outcome:
 
-![ADD ONS](1-Basic-PLCs/Assignments-Basic-PLCs/0-Assignment-Basic-PLC-Images/ONS_ADD.png)
+![ADD ONS](../0-Assignment-Basic-PLC-Images/ONS_ADD.png)
+
