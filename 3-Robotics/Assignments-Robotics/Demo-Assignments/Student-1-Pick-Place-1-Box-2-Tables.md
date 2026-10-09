@@ -8,7 +8,8 @@ Student Assignment
     - Animated grippers in Simulation
     - Bind Open/Close macros to TP keys
         - _This means RO[1] and RO[2]_
-2. Bind READY position macro to TP key
+2. Start from the Ready position
+    - Bind READY position macro to TP key
 3. Include Logic for:
     - Loop the routine 3 times
     - Alarm if the number of loops is exceeded
