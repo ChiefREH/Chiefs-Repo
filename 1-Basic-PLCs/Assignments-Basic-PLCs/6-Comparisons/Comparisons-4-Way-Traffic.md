@@ -13,7 +13,6 @@ Use any combination of these COMPARISON instructions to properly control the N-S
 
 No other Comparison instructions are required.
 
-- ONS instructions (as needed)
 - OTE instructions must be properly tagged, grouped, branched and ALIASED to an I/O module 
 
 
@@ -21,7 +20,6 @@ No other Comparison instructions are required.
 
 Use (3) LIM instructions to properly control the E-W lights.
 
-- ONS instructions (as needed)
 - OTE instructions must be properly tagged, grouped, branched and ALIASED to an I/O module
 
 No other instructions are required.
