@@ -8,3 +8,5 @@
 - ABS Absolute
 - NEG Negate
 - CPT Compute (for custom expressions)
+
+## ONS ONE-SHOT INSTRUCTION
