@@ -10,3 +10,6 @@
 - CPT Compute (for custom expressions)
 
 ## ONS ONE-SHOT INSTRUCTION
+
+Sometimes an instruction will fire repeatedly every scan cycle, producing an undesirable outcome.
+
