@@ -15,6 +15,4 @@ Sometimes an instruction will fire repeatedly every scan cycle, producing an und
 
 ![ADD ONS](../0-Assignment-Basic-PLC-Images/ONS_ADD.png)
 
-
-
 The ONS fires only once each time the rung goes from false to true.
