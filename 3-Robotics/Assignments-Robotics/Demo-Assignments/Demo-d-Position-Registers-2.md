@@ -54,7 +54,7 @@ JMP LBL
 ```
 
 **QUESTIONS**
-- _Can we replace the hard-coded constant "5" with a Register?_
+- _Can we replace the hard-coded constant "5" with a variable Data Register?_
 - _Why would we want to replace this constant?_
 - _Should we replace the "safety fence" value with a soft-coded constant?_
 - _What happens if the Register stores a negative number?_
