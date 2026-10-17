@@ -8,9 +8,9 @@ STUDENT ASSIGNMENT
 
 ## OFFSET DIRECTIONS
 ```
-FIRST: -X, +Z
+FIRST:  -X, +Z
 SECOND: -Y, +Z
-THIRD: +X, +Z
+THIRD:  +X, +Z
 FOURTH: +Y, +Z
 ```
 
