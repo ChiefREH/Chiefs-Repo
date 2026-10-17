@@ -65,7 +65,7 @@ JMP LBL
 - Verify the **UTOOL** data is properly entered for your robot
 - If you get an **"Invalid Frame Error"** in the lab, set your user frame to UFRAME = 1
 
-_If Toolframe 1 or Userframe 1 create problems, we will omit them and carry on!_
+>_If Toolframe 1 or Userframe 1 create problems, we will omit them and carry on!_
 
 ## WARNING
 - DO NOT let the EOAT make contact with any part, fixture or work area.
