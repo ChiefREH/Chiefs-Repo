@@ -26,8 +26,6 @@ Create a LAB routine for North-South/East-West traffic lights using these instru
 - Delay Timer:
     - Delay automatic restart for **6 seconds**
 
-## QUESTION:
-- _Will the program still function as intended if the Counters have different .PRE values?_
 
 ## NOTES:
 
