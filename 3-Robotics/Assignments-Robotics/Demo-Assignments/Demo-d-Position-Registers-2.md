@@ -21,7 +21,7 @@ Properly configure a **PR [ i , j ]** Offset:
 ## TEACH PENDANT / MENU PARAMETERS
 - Coordinates: **WORLD**
 - Active Frames: Tool Frame 1
-- Zero out all PR[ ] Coords:
+- Zero out all PR[ ] Coordinates:
     - PR[5: Z OFFSET] > [POSITION] > manually enter "0" for XYZ WPR coordinates > [DONE]
         - _This is a new twist on PR[ ]_
 
