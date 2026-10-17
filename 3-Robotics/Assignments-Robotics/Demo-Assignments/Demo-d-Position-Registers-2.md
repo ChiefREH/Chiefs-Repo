@@ -49,7 +49,7 @@ JMP LBL
 
 !END OF LINE
 - Go to a SAFE position
-    - This position must be away from the offset "stack"
+    - This position must be away from the "stack"
     - Does not require a PR, CALL or a SAFE MACRO
 ```
 
