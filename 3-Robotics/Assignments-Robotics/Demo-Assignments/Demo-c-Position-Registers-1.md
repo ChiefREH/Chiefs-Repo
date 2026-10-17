@@ -7,7 +7,7 @@ Create a program that uses all **PR[ ]** instead of **P[ ]**
     - _Can go to a PR[ ] without running the program?_
     - _Changes made to the PR effects any Program using the PR!_
 
-## PROGRAM FOCUS
+## FOCUS
 
 - Record a **READY** position for PR[1]
 - Record a **APPROACH** position PR[2] **100mm above** the first corner
