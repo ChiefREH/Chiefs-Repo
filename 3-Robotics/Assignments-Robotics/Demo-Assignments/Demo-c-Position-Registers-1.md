@@ -29,11 +29,11 @@ Create a program that uses all **PR[ ]** instead of **P[ ]**
 - R[2: Control] = 3
 
 !MAIN
-LBL
+LBL [100]
 - R[1: Counter] = R[1: Counter] + 1
 - IF R[1: Counter] = R[2: Control] … JMP LBL [999]
 - IF R[1: Counter] > R[2: Control] … JMP LBL [900]
-JMP LBL
+JMP LBL [100]
  
 !ERRORS
 - UALM[1] “Count Exceeded”
