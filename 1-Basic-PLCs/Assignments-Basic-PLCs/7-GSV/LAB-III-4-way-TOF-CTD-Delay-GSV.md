@@ -6,8 +6,7 @@ Create a LAB routine for North-South/East-West traffic lights using these instru
 
 - (3) TOF timers for N-S traffic lights
 - (3) TOF timers for E-W traffic lights
-- (1) CTD counter to track the number of N-S loops
-- (1) CTD counter to track the number of E-W loops
+- (1) CTD counter to track the number of loops
 - (1) TOF timer to act as a delay timer
 - (1) GSV to capture the starting WallClockTime
 - All necessary XIO, XIC and ONS instructions
@@ -22,7 +21,7 @@ Create a LAB routine for North-South/East-West traffic lights using these instru
     - RED lights: 10 seconds 
     - YELLOW lights: 3 seconds 
     - GREEN lights: 7 seconds
-- Loop Counters:
+- Loop Counter:
     - Count for **3 loops**
 - Delay Timer:
     - Delay automatic restart for **6 seconds**
