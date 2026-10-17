@@ -19,6 +19,7 @@ Create a program that uses all **PR[ ]** instead of **P[ ]**
     - _Similar to indirect addressing in PLCs_
 
 ## REGISTER LOGIC
+>This should be familiar to you by now.
 
 ```
 !SETUP
