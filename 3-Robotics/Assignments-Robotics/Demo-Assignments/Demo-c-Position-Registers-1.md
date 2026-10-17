@@ -8,11 +8,12 @@ Create a program that uses all **PR[ ]** instead of **P[ ]**
     - _Changes made to the PR effects any Program using the PR!_
 
 ## FOCUS
-- Record the **SAFE** position for PR[1] away from the FIXTURE
-    - _Notice the R / * at the end of the entry?_
+
 - Record a **READY** position for PR[2]
 - Record a **APPROACH** position PR[3] **100mm above** the first corner
 - Record all 4 corners as **POSITION REGISTERS** PR[ ]
+- Record the **SAFE** position for PR[1] away from the FIXTURE
+    - _Notice the R / * at the end of the entry?_
 
 ## DATA REGISTERS
 - Use **REGISTERS** for soft-coding/indirect addressing
