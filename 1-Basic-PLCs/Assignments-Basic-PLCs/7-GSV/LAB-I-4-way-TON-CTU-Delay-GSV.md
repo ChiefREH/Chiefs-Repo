@@ -22,13 +22,11 @@ Create a LAB routine for North-South/East-West traffic lights using these instru
     - RED lights: 10 seconds 
     - YELLOW lights: 3 seconds 
     - GREEN lights: 7 seconds
-- Loop Counters:
+- Loop Counter:
     - Count for **3 loops**
 - Delay Timer:
     - Delay automatic restart for **6 seconds**
 
-## QUESTION:
-- _Will the program still function as intended if the Counters have different .PRE values?_
 
 ## NOTES:
 
