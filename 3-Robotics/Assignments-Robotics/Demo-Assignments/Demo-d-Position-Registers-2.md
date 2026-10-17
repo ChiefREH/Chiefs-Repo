@@ -1,6 +1,6 @@
 # POSITION REGISTER OFFSETS (3D PRINTING)
 
-Trace a rectangle pattern with an increasing Z coordinate of +5mm
+Trace a rectangle pattern with an increasing **Z** coordinate of **+5mm**
 
 ## TASK
 Properly configure a **PR [ i , j ]** Offset:
