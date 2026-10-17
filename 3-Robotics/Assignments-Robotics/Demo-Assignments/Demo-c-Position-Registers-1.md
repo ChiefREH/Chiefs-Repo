@@ -9,10 +9,10 @@ Create a program that uses all **PR[ ]** instead of **P[ ]**
 
 ## FOCUS
 
-- Record a **READY** position for PR[2]
-- Record a **APPROACH** position PR[3] **100mm above** the first corner
+- Record a **READY** position for PR[1]
+- Record a **APPROACH** position PR[2] **100mm above** the first corner
 - Record all 4 corners as **POSITION REGISTERS** PR[ ]
-- Record the **SAFE** position for PR[1] away from the FIXTURE
+- Record the **SAFE** position for PR[7] away from the FIXTURE
     - _Notice the R / * at the end of the entry?_
 
 ## DATA REGISTERS
