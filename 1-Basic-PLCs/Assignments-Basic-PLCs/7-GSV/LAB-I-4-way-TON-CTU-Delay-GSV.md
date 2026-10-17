@@ -7,7 +7,7 @@ Create a LAB routine for North-South/East-West traffic lights using these instru
 - (3) TON timers for N-S traffic lights
 - (3) TON timers for E-W traffic lights
 - (1) CTU counter to track the number of loops
-- (1) TON timer to act as a delay timer
+- (1) TON timer to act as a restart delay
 - (1) GSV to capture the starting WallClockTime
 - (1) DINT[7] Array
 - All necessary XIO, XIC and ONS instructions
