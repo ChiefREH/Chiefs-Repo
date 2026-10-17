@@ -18,7 +18,7 @@ Create a program that uses all **PR[ ]** instead of **P[ ]**
 - Use **REGISTERS** for soft-coding/indirect addressing
     - _Similar to indirect addressing in PLCs_
 
-## SECTION SPECIFIC
+## REGISTER
 
 ```
 !SETUP
