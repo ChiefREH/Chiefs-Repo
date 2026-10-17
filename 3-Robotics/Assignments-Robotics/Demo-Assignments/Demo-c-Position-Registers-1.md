@@ -14,7 +14,7 @@ Create a program that uses all **PR[ ]** instead of **P[ ]**
 - Record a **APPROACH** position PR[3] **100mm above** the first corner
 - Record all 4 corners as **POSITION REGISTERS** PR[ ]
 
-## DATA PARAMETERS
+## DATA REGISTERS
 - Use **REGISTERS** for soft-coding/indirect addressing
     - _Similar to indirect addressing in PLCs_
 
