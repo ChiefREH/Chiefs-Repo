@@ -1,5 +1,6 @@
 # INDIRECT ADDRESSING
 
+- Substitute a hard-coded value with a **CTU.ACC**
 - Hard Coding vs Soft Coding
     - Similar to Registers **R[ ]** in Robotics
 - There are dangers when writing to arrays that don't exist
@@ -9,7 +10,7 @@
 ## DEMO: MANUAL PUSH
 
 - Create a DINT[3]
-- Manually "push" these numbers to the Array:
+- Using INDIRECT ADDRESSING, manually "push" these numbers to the Array:
     - DINT[0]: 123
     - DINT[1]: 456
     - DINT[2]: 789
@@ -24,4 +25,4 @@
     - DINT[1]: 456
     - DINT[2]: 789
 
-- Manually "pull" one value at a time and move it to the output module.
+- Using INDIRECT ADDRESSING, manually "pull" one value at a time and move it to the output module.
