@@ -8,5 +8,11 @@
 
 ## DEMO: MANUAL PULL
 
+- Create a DINT[3]
+- Store these numbers in the Array:
+    - DINT[0]: 123
+    - DINT[1]: 456
+    - DINT[2]: 789
 
-Use the lab push-buttons to manually pull 1 stored value at a time
+- Manually "pull" one value at a time and move it to the output module.
+- In lab, this requires Alias to push-buttons
