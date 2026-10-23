@@ -1,6 +1,7 @@
 # INDIRECT ADDRESSING
 
-- Substitute a hard-coded value with a **CTU.ACC**
+- Substitute a hard-coded Array element (value) with a **CTU.ACC**
+
 - Hard Coding vs Soft Coding
     - _Similar to Registers **R[ ]** in Robotics_
 - There are dangers when writing to arrays that don't exist
