@@ -1,4 +1,4 @@
-# Indirect Move TO an Array with RTO as RNG
+# EMULATE Indirect Move TO an Array with RTO as RNG
 
 Create a routine that will move a variable number into Array elements sequentially, using the following instructions:
 - All necessary XIC and XIO instructions 
@@ -17,7 +17,6 @@ Create a routine that will move a variable number into Array elements sequential
 - CTU .PRE = 10 
 
 ## PARAMETERS
-- Use a "seal-in" circuit to start/stop the routine
 - Once running, the routine must run continuously
 - All Array elements must be filled in sequence, from the **first** element to the **last** element
 - Only one value can be stored in the Array
