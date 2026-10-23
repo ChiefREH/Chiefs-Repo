@@ -17,6 +17,7 @@ Create a routine that will pull a number **FROM** an Array and move the data to 
 - BRANCHES as needed 
 
 ## STATIC NUMBERS TO PULL FROM ARRAY STORAGE
+Store these numbers in the DINT[16] array:
 - 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192, 16384, 32768
 
 ## TIMING
