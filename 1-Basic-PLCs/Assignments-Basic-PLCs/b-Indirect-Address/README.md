@@ -25,4 +25,5 @@
     - DINT[1]: 456
     - DINT[2]: 789
 
-- Using INDIRECT ADDRESSING, manually "pull" one value at a time and move it to the output module.
+
+Using INDIRECT ADDRESSING, manually "pull" one value at a time and move it to the output module.
