@@ -1,7 +1,8 @@
 # INDIRECT ADDRESSING
 
 - Substitute a hard-coded Array element (value) with a **CTU.ACC**
-    - **Example:** STORAGE_ARRAY[Index.ACC] instead of STORAGE_ARRAY[3]
+    - Hard-coded: STORAGE_ARRAY[3]
+    - Soft-coded: STORAGE_ARRAY[Index.ACC]
 - Hard Coding vs Soft Coding
     - _Similar to Registers **R[ ]** in Robotics_
 - There are dangers when writing to arrays that don't exist
