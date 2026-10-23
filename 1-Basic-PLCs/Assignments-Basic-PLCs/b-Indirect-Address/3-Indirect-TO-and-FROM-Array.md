@@ -20,8 +20,8 @@ Properly configured output module (emulated and lab)
 
 ## OPERATIONAL SEQUENCE
 1. Move a random variable **TO** the storage Array, in sequential order. 
-2. When the array is full, stop sending variables. 
-3. Pull a variable **FROM** the storage array and move it to an output module, in sequential order. 
+2. When the Array is full, stop sending variables. 
+3. Pull a variable **FROM** the storage Array and move it to an output module, in sequential order. 
 4. When the last variable is pulled and moved, go to Step #1 and repeat.
 
 ## TIMING
