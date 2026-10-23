@@ -37,7 +37,7 @@ Properly configured output module (emulated and lab)
     - When the last element is filled, the index must reset before faulting the controller 
     - New variables will overwrite the old variables, starting again at the first element 
 - Only one value can be stored in the Array
-    - No "double jumping" of numbers is allowed
+    - No "**double jumping**" of numbers is allowed
 - Any values moved to the Output Module must be presented in the BINARY style radix. 
 - On stop/restart, the output tag must revert to all zeroes.
     - The index position must also restart at zero.
