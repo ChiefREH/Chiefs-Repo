@@ -3,8 +3,7 @@
 - Substitute a hard-coded Array element (value) with a **CTU.ACC**
     - Hard-coded: STORAGE_ARRAY[3]
     - Soft-coded: STORAGE_ARRAY[Index.ACC]
-- Hard Coding vs Soft Coding
-    - _Similar to Registers **R[ ]** in Robotics_
+        - _Similar to using Registers **R[ ]** in Robotics_
 - There are dangers when writing to arrays that don't exist
     - **Major Faults** will arise if you try to move data to an Array that does not exist!
 
