@@ -3,7 +3,7 @@
 STUDENT ASSIGNMENT
 
 - Must offset the X, Y and Z coordinates.
-- Include logic to prevent exceeding motion limits for any axis.
+- Include logic to prevent exceeding motion at the UPPER LIMIT.
 
 
 ## OFFSET DIRECTIONS
