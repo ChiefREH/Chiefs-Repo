@@ -22,7 +22,6 @@ Store these numbers in the DINT[16] array:
 - CTU .PRE = 16 
 
 ## PARAMETERS
-- Use a "seal-in" circuit to start/stop the routine.
 - Once running, the routine must run continuously.
 - All Array elements must be moved in order, from the first element to the last element. 
 - When the last element is moved, the index must reset before faulting the controller. 
