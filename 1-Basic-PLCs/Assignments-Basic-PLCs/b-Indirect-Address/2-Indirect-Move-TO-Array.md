@@ -3,7 +3,7 @@
 Create a routine that will move a variable number into Array elements sequentially, using the following instructions:
 - All necessary XIC and XIO instructions 
 - 1 TON instruction as needed
-- 1 RTO instruction as the variable number source (RNG)
+- 1 RTO instruction as the RNG
 - 1 CTU instruction as needed
 - MOV instruction(s) as needed
 - COP instruction(s) as needed
