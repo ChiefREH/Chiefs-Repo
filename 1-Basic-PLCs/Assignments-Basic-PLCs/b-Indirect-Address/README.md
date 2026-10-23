@@ -2,9 +2,9 @@
 
 - Substitute a hard-coded value with a **CTU.ACC**
 - Hard Coding vs Soft Coding
-    - Similar to Registers **R[ ]** in Robotics
+    - _Similar to Registers **R[ ]** in Robotics_
 - There are dangers when writing to arrays that don't exist
-    - **Major Faults** will arise!
+    - **Major Faults** will arise if you try to move data to an Array that does not exist!
 
 
 ## DEMO: MANUAL PUSH
