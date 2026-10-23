@@ -5,13 +5,13 @@ Create a routine that will move numbers TO and FROM and Array using the followin
 - TON instruction(s) as needed 
 - RTO instruction(s) as needed 
 - CTU instruction(s) as needed 
-- DINT[10] Array to store numbers 
 - ONS instruction(s) as needed 
 - MOV instruction(s) as needed
 - COP instruction(s) as needed
 - CLR instruction(s) as needed 
 - RES instruction(s) as needed 
 - BRANCHES as needed
+- DINT[10] Array to store RNG values 
 - GSV instruction for Date/Time capture 
     - Starting Date/Time only, not continuously 
     - DINT[7] Array to store the captured GSV data 
