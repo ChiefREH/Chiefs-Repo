@@ -2,14 +2,14 @@
 
 Create a routine that will move a variable number into Array elements sequentially, using the following instructions:
 - All necessary XIC and XIO instructions 
-- 1 TON instruction as a pulse timer 
+- 1 TON instruction as needed
 - 1 RTO instruction as the variable number source (RNG)
-- 1 CTU instruction as the indirect index 
-- 1 DINT[10] Array to store the variable numbers 
+- 1 CTU instruction as needed
 - MOV instruction(s) as needed
 - COP instruction(s) as needed
 - RES instruction(s) as needed
 - CLR instruction(s) as needed
+- 1 DINT[10] Array to store the variable numbers
 
 ## TIMING
 - TON .PRE = 1 second 
