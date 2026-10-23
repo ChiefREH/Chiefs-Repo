@@ -7,14 +7,14 @@ Create a routine that will move numbers TO and FROM and Array using the followin
 - CTU instruction(s) as needed 
 - DINT[10] Array to store numbers 
 - ONS instruction(s) as needed 
-- GSV instruction for Date/Time capture 
-    - Starting Date/Time only, not continuously 
-    - DINT[7] Array to store the captured GSV data 
 - MOV instruction(s) as needed
 - COP instruction(s) as needed
 - CLR instruction(s) as needed 
 - RES instruction(s) as needed 
 - BRANCHES as needed
+- GSV instruction for Date/Time capture 
+    - Starting Date/Time only, not continuously 
+    - DINT[7] Array to store the captured GSV data 
 
 Properly configured output module (emulated and lab) 
 
