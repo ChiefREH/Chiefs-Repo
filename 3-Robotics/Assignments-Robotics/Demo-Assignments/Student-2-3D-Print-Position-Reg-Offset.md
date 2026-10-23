@@ -16,8 +16,8 @@ FOURTH: +Y, +Z
 
 ## OFFSET PARAMETERS
 - **10 loops** for each direction
-- **+5 mm** / layer SOFT-CODED in a Data Register R[ ]
-
+- **+5 mm** offset per layer, SOFT-CODED in a Register
+    - _So we can alter the offset while running_
 
 ## VIDEO REFERENCE
 
