@@ -2,9 +2,9 @@
 
 Create a routine that will move a variable number into Array elements sequentially, using the following instructions:
 - All necessary XIC and XIO instructions 
-- 1 TON instruction as needed
-- 1 RTO instruction as the RNG
-- 1 CTU instruction as needed
+- TON instruction(s) as needed
+- RTO instruction(s) as the RNG
+- CTU instruction(s) as needed
 - MOV instruction(s) as needed
 - COP instruction(s) as needed
 - RES instruction(s) as needed
