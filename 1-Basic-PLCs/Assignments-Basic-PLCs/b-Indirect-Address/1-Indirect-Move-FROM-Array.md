@@ -8,7 +8,7 @@ Create a routine that will pull a number **FROM** an Array and move the data to 
 - DINT[16] Array to store the static numbers 
 - ONS instruction(s) as needed 
 - MOV instruction(s) as needed
-- COP instruction(s) as needed
+- COP instruction(s) if needed
 - CLR instruction(s) as needed 
 - RES instruction(s) as needed 
 - BRANCHES as needed 
