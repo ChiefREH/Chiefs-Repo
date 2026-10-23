@@ -16,7 +16,7 @@ FOURTH: +Y, +Z
 
 ## OFFSET PARAMETERS
 - **10 loops** for each direction
-- **+5 mm** offset per layer
+- **+5 mm** offset per layer in all directions
     - _Soft-coded offset, so we can alter it while running_
 
 ## VIDEO REFERENCE
