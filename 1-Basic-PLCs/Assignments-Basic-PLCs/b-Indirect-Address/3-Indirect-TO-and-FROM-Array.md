@@ -1,4 +1,4 @@
-# Indirect Move TO and FROM an Array + GSV capture
+# EMU + LAB: Indirect Move TO and FROM an Array + GSV capture
 
 Create a routine that will move numbers TO and FROM and Array using the following instructions:
 - All necessary XIC and XIO instructions 
