@@ -1,4 +1,4 @@
-# EMULATE Indirect Move FROM an Array + GSV capture
+# EMULATE Indirect Move FROM an Array
 
 Create a routine that will pull a number **FROM** an Array and move the data to an Output module using the following instructions:
 
