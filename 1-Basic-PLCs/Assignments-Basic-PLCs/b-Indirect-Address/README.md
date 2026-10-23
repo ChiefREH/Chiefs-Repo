@@ -6,6 +6,16 @@
     - **Major Faults** will arise!
 
 
+## DEMO: MANUAL PUSH
+
+- Create a DINT[3]
+- Manually "push" these numbers to the Array:
+    - DINT[0]: 123
+    - DINT[1]: 456
+    - DINT[2]: 789
+
+
+
 ## DEMO: MANUAL PULL
 
 - Create a DINT[3]
@@ -15,4 +25,3 @@
     - DINT[2]: 789
 
 - Manually "pull" one value at a time and move it to the output module.
-- In lab, this requires Alias to push-buttons
