@@ -40,6 +40,8 @@ LBL
     - L P[ ] 4000mm/sec FINE for the 4 box corners
 - All box corners are recorded, add Offset, PR[5] to each      
     - PR[5,3:Z OFFSET] = PR[5,3:Z OFFSET] + 5 
+
+!SOFTWARE SAFETY
 - IF PR[5,3:Z OFFSET] => 300 JMP LBL 999
     - This is a hard-coded "safety fence"
 JMP LBL
