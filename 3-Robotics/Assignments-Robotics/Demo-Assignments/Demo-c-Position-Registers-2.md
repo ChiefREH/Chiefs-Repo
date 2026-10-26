@@ -31,7 +31,7 @@ Properly configure a **PR [ i , j ]** Offset:
 ```
 !SETUP
 - UTOOL_NUM = 1
-- OVERRIDE = 50%
+- OVERRIDE = 100%
 - PR[5,3:Z OFFSET] = 0  						
 
 !MAIN
