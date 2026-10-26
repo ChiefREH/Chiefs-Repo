@@ -42,8 +42,8 @@ LBL
     - PR[5,3:Z OFFSET] = PR[5,3:Z OFFSET] + 5 
 
 !SOFTWARE SAFETY
-- IF PR[5,3:Z OFFSET] => 300 JMP LBL 999
-    - This is a hard-coded "safety fence"
+- IF PR[5,3:Z OFFSET] >= R[7:Upper Limit], JMP LBL 999
+    - Prevents going too far on +Z axis
 JMP LBL
 
 !ERRORS
