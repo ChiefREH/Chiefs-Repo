@@ -37,7 +37,7 @@ Properly configure a **PR [ i , j ]** Offset:
 !MAIN
 LBL
 - Record all needed MOTION points
-    - L P[ ] 250mm/sec FINE for the 4 box corners
+    - L P[ ] 4000mm/sec FINE for the 4 box corners
 - All box corners are recorded, add Offset, PR[5] to each      
     - PR[5,3:Z OFFSET] = PR[5,3:Z OFFSET] + 5 
 - IF PR[5,3:Z OFFSET] => 300 JMP LBL 999
