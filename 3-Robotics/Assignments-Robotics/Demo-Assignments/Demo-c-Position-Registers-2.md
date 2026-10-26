@@ -45,7 +45,7 @@ LBL
 - IF PR[5,3:Z OFFSET] >= R[7:Upper Limit], JMP LBL 999
     - Prevents going too high (+300mm) on +Z axis
 
-- IF PR[5,3:Z OFFSET] =< R[8:Lower Limit], JMP LBL 999
+- IF PR[5,3:Z OFFSET] =< R[8:Lower Limit], JMP LBL 900
     - Prevents going too low (-1mm) on +Z axis
 
 JMP LBL
