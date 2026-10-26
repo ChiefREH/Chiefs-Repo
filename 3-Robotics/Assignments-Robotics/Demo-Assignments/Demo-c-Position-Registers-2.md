@@ -35,7 +35,7 @@ Properly configure a **PR [ i , j ]** Offset:
 - PR[5,3:Z OFFSET] = 0  						
 
 !MAIN
-LBL
+LBL [100]
 - Record all needed MOTION points
     - L P[ ] 4000mm/sec FINE for the 4 box corners
 - All box corners are recorded, add Offset, PR[5] to each      
@@ -48,7 +48,7 @@ LBL
 - IF PR[5,3:Z OFFSET] =< R[8:Lower Limit], JMP LBL 900
     - Prevents going too low (-1mm) on +Z axis
 
-JMP LBL
+JMP LBL [100]
 
 !ERRORS
 - None for this exercise
