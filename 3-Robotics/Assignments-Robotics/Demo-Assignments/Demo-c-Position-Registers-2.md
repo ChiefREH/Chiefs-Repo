@@ -51,12 +51,13 @@ LBL [100]
 JMP LBL [100]
 
 !ERRORS
-- None for this exercise
+- UALM [2] for low +Z height
 
 !END OF LINE
 - Go to a SAFE position
     - This position must be away from the "stack"
     - Does not require a PR, CALL or a SAFE MACRO
+- MESSAGE [Check +Z Height]
 ```
 
 **QUESTIONS**
