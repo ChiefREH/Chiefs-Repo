@@ -41,7 +41,7 @@ LBL
 - All box corners are recorded, add Offset, PR[5] to each      
     - PR[5,3:Z OFFSET] = PR[5,3:Z OFFSET] + 5 
 
-!SOFTWARE SAFETY
+!SAFETY LOGIC
 - IF PR[5,3:Z OFFSET] >= R[7:Upper Limit], JMP LBL 999
     - Prevents going too high (+300mm) on +Z axis
 
