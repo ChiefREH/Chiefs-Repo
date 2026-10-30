@@ -8,7 +8,7 @@ Simulation via [Wokwi](http://www.wokwi.com)
 
 - ESP32 DevMod
 - SSD1306 OLED screen 128x64 pixel resolution
--(3) Push-buttons
+- (3) Push-buttons
 
 ## CODE
 ```text
