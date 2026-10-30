@@ -21,7 +21,7 @@ FOURTH: +Y, +Z
     - _Soft-coded offset, so we can alter it while running_
 
 
-## EXAMPLE CODE
+## CORNER CODE EXAMPLE
 
 ```text
 - L P[3] 100% FINE, Offset PR[5]
@@ -34,6 +34,7 @@ FOURTH: +Y, +Z
 
 ## NOTE
 - This assignment does not require DI, DO, RI, or RO instructions.
+- You can use CALLs for subroutines or you can place the entire program into a single routine.
 
 ## VIDEO REFERENCE
 
