@@ -12,6 +12,10 @@ Simulation via [Wokwi](http://www.wokwi.com)
 
 ## CODE
 ```text
+// Simple Tamagotchi Project by ChiefREH
+// youtube.com/@ChiefREH
+// github.com/ChiefREH
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
