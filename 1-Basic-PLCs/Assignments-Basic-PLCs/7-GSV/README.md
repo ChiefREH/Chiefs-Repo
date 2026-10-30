@@ -4,4 +4,4 @@
 - Requires an ONS to prevent storing data every scan cycle
 - LocalDateTime attribute is the better option
 
-
+![LocalDateTime](../0-Assignment-Basic-PLC-Images/WallClockTime-Objects.png)
