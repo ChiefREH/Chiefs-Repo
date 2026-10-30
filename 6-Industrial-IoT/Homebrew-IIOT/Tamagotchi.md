@@ -6,7 +6,6 @@ Simulation via [Wokwi](http://www.wokwi.com)
 
 ## ESP32 CODE
 ```text
-
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
