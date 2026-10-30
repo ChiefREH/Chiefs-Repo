@@ -8,7 +8,7 @@ STUDENT ASSIGNMENT
 
 
 ## OFFSET DIRECTIONS
-```
+```text
 FIRST:  -X, +Z
 SECOND: -Y, +Z
 THIRD:  +X, +Z
@@ -19,6 +19,17 @@ FOURTH: +Y, +Z
 - **10 loops** for each direction
 - **+5 mm** offset per layer in all directions
     - _Soft-coded offset, so we can alter it while running_
+
+
+## EXAMPLE CODE
+
+```text
+- L P[3] 100% FINE, Offset PR[5]
+- L P[4] 100% FINE, Offset PR[5]
+- L P[5] 100% FINE, Offset PR[5]
+- L P[6] 100% FINE, Offset PR[5]
+- L P[3] 100% FINE, Offset PR[5]
+```
 
 
 ## NOTE
