@@ -29,6 +29,9 @@ FOURTH: +Y, +Z
 - L P[5] 100% FINE, Offset PR[5]
 - L P[6] 100% FINE, Offset PR[5]
 - L P[3] 100% FINE, Offset PR[5]
+
+Logic to count loops
+Logic to apply Offset Directions
 ```
 
 
