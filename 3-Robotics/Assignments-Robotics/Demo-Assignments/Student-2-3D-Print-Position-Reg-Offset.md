@@ -37,7 +37,7 @@ Logic to apply Offset Directions
 
 ## NOTE
 - This assignment does not require DI, DO, RI, or RO instructions.
-- You can use CALLs for subroutines or you can place the entire program into a single routine.
+- You can use CALL subroutines for each direction, or you can place the entire program into a single routine.
 - Figure out the basic motion first, then go back and add UALM safety logic last.
 
 ## VIDEO REFERENCE
