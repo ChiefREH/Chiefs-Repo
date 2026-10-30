@@ -1,4 +1,4 @@
-# COPY, MOVE, MASKED MOVE AND RADIX
+# COPY, MOVE, MASKED MOVE, CLEAR AND RADIX
 
 - MOV can move data from a one tag to another
     - Original data is not destroyed, only copied
@@ -6,6 +6,7 @@
     - Useful when dealing with arrays
 - MVM uses a "mask" to filter out certain bits from Source to Destination
     - _we will always set this tag to "-1"_
+- CLR will clear all the bits from the Destination tag
 - RADIX is the style that information is displayed:
     - Decimal format
     - Binary format
