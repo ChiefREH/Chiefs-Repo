@@ -4,7 +4,7 @@ STUDENT ASSIGNMENT
 
 - Must offset the X, Y and Z coordinates.
 - Include logic to prevent exceeding motion at the UPPER LIMIT.
-- Must finish in a SAFE position away from the "stack."
+- Must finish in a **SAFE** position away from the "stack."
 
 
 ## OFFSET DIRECTIONS
