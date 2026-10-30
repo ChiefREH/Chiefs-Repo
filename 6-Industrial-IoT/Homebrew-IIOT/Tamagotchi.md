@@ -4,7 +4,13 @@ Simulation via [Wokwi](http://www.wokwi.com)
 
 ![Tamagotchi-v1](Homebrew-IIOT-Images/Tamagotchi_v1.png)
 
-## ESP32 CODE
+## HARDWARE
+
+- ESP32 DevMod
+- SSD1306 OLED screen 128x64 pixel resolution
+-(3) Push-buttons
+
+## CODE
 ```text
 #include <Wire.h>
 #include <Adafruit_GFX.h>
