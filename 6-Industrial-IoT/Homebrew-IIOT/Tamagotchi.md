@@ -1,6 +1,6 @@
 # TAMAGOTCHI PROJECT
 
-Simulation via [Wokwi](www.wokwi.com)
+Simulation via [Wokwi](http://www.wokwi.com)
 
 ![Tamagotchi-v1](Homebrew-IIOT-Images/Tamagotchi_v1.png)
 
