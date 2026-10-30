@@ -1,4 +1,4 @@
-# TAMAGOTCHI PROJECT
+# SIMPLE TAMAGOTCHI PROJECT
 
 Simulation via [Wokwi](http://www.wokwi.com)
 
