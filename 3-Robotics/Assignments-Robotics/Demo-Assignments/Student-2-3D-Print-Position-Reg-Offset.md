@@ -29,16 +29,13 @@ FOURTH: +Y, +Z
 - L P[5] 100% FINE, Offset PR[5]
 - L P[6] 100% FINE, Offset PR[5]
 - L P[3] 100% FINE, Offset PR[5]
-
-Logic to count loops
-Logic to apply Offset Directions
 ```
-
 
 ## NOTE
 - This assignment does not require DI, DO, RI, or RO instructions.
 - You can use CALLs for each direction, or you can place the entire sequence into a single routine.
 - Figure out the basic motion first, then go back and add UALM safety logic last.
+
 
 ## VIDEO REFERENCE
 
