@@ -1,19 +1,6 @@
 # 4-way TOF + CTD + TOF delay + GSV capture
 
-Create a LAB routine for North-South/East-West traffic lights using these instructions.
-
-## NORTH-SOUTH / EAST-WEST TRAFFIC
-
-- (3) TOF timers for N-S traffic lights
-- (3) TOF timers for E-W traffic lights
-- (1) CTD counter to track the number of loops
-- (1) TOF timer to act as a restart delay
-- (1) GSV to capture the starting WallClockTime
-- (1) DINT[7] Array
-- All necessary XIO, XIC and ONS instructions
-- All necessary OTE instructions
-    - Properly tagged, aliased, grouped and branched
-- Any RES reset instructions, as needed
+Create a LAB routine for North-South/East-West traffic lights using TOF and CTD instructions.
 
 
 ## PARAMETERS:
@@ -26,7 +13,7 @@ Create a LAB routine for North-South/East-West traffic lights using these instru
     - Count for **3 loops**
 - Delay Timer:
     - Delay automatic restart for **6 seconds**
-
+- GSV to capture the starting WallClockTime
 
 ## NOTES:
 
