@@ -1,27 +1,13 @@
 # EMU + LAB: Indirect Move TO and FROM an Array + GSV capture
 
-Create a routine that will move numbers TO and FROM and Array using the following instructions:
-- All necessary XIC and XIO instructions 
-- TON instruction(s) as needed 
-- RTO instruction(s) as needed 
-- CTU instruction(s) as needed 
-- ONS instruction(s) as needed 
-- MOV instruction(s) as needed
-- COP instruction(s) as needed
-- CLR instruction(s) as needed 
-- RES instruction(s) as needed 
-- BRANCHES as needed
-- DINT[10] Array to store RNG values 
-- GSV instruction for Date/Time capture 
-    - Starting Date/Time only, not continuously 
-    - DINT[7] Array to store the captured GSV data 
-
-Properly configured output module (emulated and lab) 
+- Create a routine that will move numbers TO and FROM and Array
+- Include properly configured output module (emulated and lab)
+- Capture Date/Time data on start (not continuously)
 
 ## OPERATIONAL SEQUENCE
-1. Move a random variable **TO** the storage Array, in sequential order. 
+1. Move a random variable **TO** the storage DINT[10]  Array, in sequential order. 
 2. When the Array is full, stop sending variables. 
-3. Pull a variable **FROM** the storage Array and move it to an output module, in sequential order. 
+3. Pull a variable **FROM** the storage DINT[10] Array and move it to an output module, in sequential order. 
 4. When the last variable is pulled and moved, go to Step #1 and repeat.
 
 ## TIMING
