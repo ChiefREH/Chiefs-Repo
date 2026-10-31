@@ -26,4 +26,7 @@
 ```text
     START     TON_1.DN       TON_1        
 |---|   |-------[ / ]-------{     }---|
+
+TON_1 PARAMETERS
+.PRE: 1000
 ```
