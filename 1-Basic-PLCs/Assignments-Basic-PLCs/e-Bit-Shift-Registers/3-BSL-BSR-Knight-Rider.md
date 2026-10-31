@@ -1,19 +1,7 @@
 # BSL / BSR ASSIGNMENT - "Knight Rider"
 
-Create a Bit Shift routine using any of the following instructions:
-- All necessary XIC, XIO and/or ONS 
-- TON - TIMER instructions 
-- CTU - COUNTER instructions 
-- ONS - ONE-SHOT instructions 
-- BSL - BIT SHIFT LEFT instructions 
-- BSR - BIT SHIFT RIGHT instructions 
-- MOV - MOVE instructions
-- COP - COPY instructions
-- RES - RESET instructions 
-- CLR - CLEAR instructions
-- COMPARISON instructions
-- MATH instructions
-- Properly created ARRAY(s) 
+Create a Bit Shift routine using BSL and BSR instructions
+
 
 ## PROGRAMMING HINT: 
 Think of it as 3 separate steps:
