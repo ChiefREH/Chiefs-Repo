@@ -5,9 +5,9 @@ Replicate a N-S-E-W traffic pattern using the SQO instruction.
 
 ## NOTE:
 
-- OTE instructions for LIGHTS are limited to lab only (_see "poor man's array"_)
+- OTE instructions for LIGHTS are limited to **lab only** (_see "poor man's array"_)
     - _Using branched light OTEs defeats the purpose of the SQO instruction_
-
+- _See the Traffic Light Outputs file in the Homebrew folder for emulated and hardware LED format._
 
 ## TIMING:
 Routine must follow the common logical sequence (Red, Green, Yellow):
@@ -23,5 +23,3 @@ DO NOT CAUSE A TRAFFIC JAM OR COLLISION!
 - Properly configured I/O Modules (emulated and lab) are required.
 - Proper documentation and rung comments are mandatory.
 - Lab safety is non-negotiable.
-
-- _See the Traffic Light Outputs file in the Homebrew folder for emulated and hardware LED format._
