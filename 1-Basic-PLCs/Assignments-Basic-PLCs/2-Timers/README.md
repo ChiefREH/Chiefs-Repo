@@ -20,3 +20,11 @@
 - .TT is set to "1" when the timer is **actively** timing
 - .DN is set to "1" when the accumulation **equals** the preset
     - _When they are equal, the timer stops timing_
+
+## "HEARTBEAT" PULSE TIMER
+
+```text
+    START      TON.DN        TON        
+|---|   |-------[ / ]-------{   }---|
+```
+
