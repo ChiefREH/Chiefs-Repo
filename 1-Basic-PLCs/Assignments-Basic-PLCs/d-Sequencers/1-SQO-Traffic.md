@@ -2,18 +2,6 @@
 
 Replicate a N-S-E-W traffic pattern using the SQO instruction.
 
-- _See the Traffic Light Outputs file in the Homebrew folder for emulated and hardware LED format._
-
-## WORK ORDER:
-Create this traffic routine (with proper timing) using the following instructions:
-- (1) TON instruction
-- (1) SQO instruction with an array of DINT[5] 
-- MOV instructions as needed
-    - _for the TON.PRE ?_
-- Math instructions as needed
-- Comparison instructions as needed
-    - _for the TON.PRE ?_
-- All necessary XIC and XIO instructions 
 
 ## NOTE:
 
@@ -35,3 +23,5 @@ DO NOT CAUSE A TRAFFIC JAM OR COLLISION!
 - Properly configured I/O Modules (emulated and lab) are required.
 - Proper documentation and rung comments are mandatory.
 - Lab safety is non-negotiable.
+
+- _See the Traffic Light Outputs file in the Homebrew folder for emulated and hardware LED format._
