@@ -1,14 +1,8 @@
 # KT & SID'S CARNIVAL GAME v1.0
 
 ## WORK ORDER:
-Create a carnival game (reaction/timing) using the following instructions:
+Create a carnival game (reaction/timing) using the SQO instruction
 
-- (1) TON TIMER instructions 
-- (1) SQO SEQUENCER OUTPUT instruction 
-- All necessary MOV instructions 
-- All necessary XIC, XIO and OTE instructions 
-
-Other instructions may be used with instructor approval.
 
 ## OBJECTIVE:
 - Press a button to stop the light in the middle (winner!) 
