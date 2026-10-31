@@ -1,6 +1,6 @@
 # BINARY CLOCK PROGRAM
 
-Create a simple Binary Clock routine for EMULATION and LAB using the following instructions:
+Create a simple Binary "Clock" routine for EMULATION and LAB using the following instructions:
 - All necessary XIC and XIO instructions 
 - 1 TON instruction 
 - 1 CTU instruction 
