@@ -3,27 +3,10 @@
 - Create a Morse Code ticker using the **BSL instruction** as the primary operator
 - "Stream" the phrase **"Hello World"** across the output module LEDs
 
-## CODE:
-
-Use the following instructions as needed:
-- All necessary XIC, XIO and/or ONS 
-- TON - TIMER instructions 
-- CTU - COUNTER instructions 
-- ONS - ONE-SHOT instructions 
-- BSL - BIT SHIFT LEFT instructions 
-- MOV - MOVE instructions
-- COP - COPY instructions
-- RES - RESET instructions 
-- CLR - CLEAR instructions
-- COMPARISON instructions
-- MATH instructions
-- Properly created ARRAY(s)
-- Direct and/or Indirect Addressing (Index)
-
-No SQO instructions are permitted.
 
 ## SPECIFICATIONS:
 
+- No SQO instructions are permitted.
 - Bits must "stream" into the IO LEDs 1 letter at a time.
     - Bits cannot just "pop" into existence!
 - Only 1 letter will be "on screen" at a time (first 16 bits)
