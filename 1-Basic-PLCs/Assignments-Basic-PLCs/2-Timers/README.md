@@ -24,7 +24,6 @@
 ## "HEARTBEAT" PULSE TIMER
 
 ```text
-    START      TON.DN        TON        
-|---|   |-------[ / ]-------{   }---|
+    START     TON_1.DN       TON_1        
+|---|   |-------[ / ]-------{     }---|
 ```
-
