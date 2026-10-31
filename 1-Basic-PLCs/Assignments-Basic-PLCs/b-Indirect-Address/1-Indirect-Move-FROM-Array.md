@@ -14,7 +14,7 @@ Store these numbers in the DINT[16] array:
 - Once running, the routine must run continuously.
 - All Array elements must be moved in order, from the first element to the last element. 
 - When the last element is moved, the index must reset before faulting the controller. 
-- Any values moved to the Output Module must be presented in the BINARY style radix. 
+- Any values moved to the Output Module must be presented in the **BINARY** style radix. 
 - On stop/restart, the output tag must revert to all zeroes.
     - The index position must also restart at zero.
 
