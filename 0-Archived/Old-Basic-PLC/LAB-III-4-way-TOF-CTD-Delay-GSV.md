@@ -32,12 +32,10 @@ Create a LAB routine for North-South/East-West traffic lights using these instru
 
 - Use a SEAL-IN circuit to start/stop the routine
 - The light sequence must follow the common logical sequence 
-- Do not create a traffic jam or motor vehicle accident!
+    - Do not create a traffic jam or motor vehicle accident!
 - Once activated, the routine must run continuously until the counter is done.
 - When the counter is done, the routine must delay before restarting automatically.
 - WallClockTime capture is for the starting DateTime only, not continuously.
-
-
 
 *Proper rung documentation is mandatory.
 
