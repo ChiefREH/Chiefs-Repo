@@ -18,7 +18,7 @@
 ## PARAMETERS
 - Use a "seal-in" circuit to start/stop the routine
     - Alias the seal-in to buttons in the Lab
-- Once running, the routine must run continuously
+- Once running, the routine must operate continuously
 - All Array elements must be filled in sequence, from the first element to the last element 
     - When the last element is filled, the index must reset before faulting the controller 
     - New variables will overwrite the old variables, starting again at the first element 
