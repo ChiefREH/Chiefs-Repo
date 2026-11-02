@@ -3,8 +3,8 @@ STUDENT ASSIGNMENT
 
 ## PARAMETERS
 
-- Target Height: 150mm
-- Offset: +5mm
+- Target Height: Z +150mm
+- Applied Offset: +5mm
 
 
 ## WARNING
