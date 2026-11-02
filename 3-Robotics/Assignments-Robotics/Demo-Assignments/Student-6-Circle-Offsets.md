@@ -3,7 +3,8 @@ STUDENT ASSIGNMENT
 
 ## PARAMETERS
 
-TBD
+- Target Height: 150mm
+- Offset: +5mm
 
 
 ## WARNING
