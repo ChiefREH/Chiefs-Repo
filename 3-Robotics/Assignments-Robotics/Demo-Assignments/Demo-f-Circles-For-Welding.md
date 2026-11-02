@@ -48,7 +48,7 @@ JMP LBL
 - Verify the UTOOL_NUM is properly entered for your Robot
 
 ## FUTURE CODING PARAMETERS
-- Include a Position Register Offset for the Z coordinate?
+- Include a Position Register Offset for the Z coordinate
 
 ## VIDEO REFERENCE
 - Circles
