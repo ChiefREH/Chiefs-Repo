@@ -16,21 +16,15 @@ APPLY FOR MMC (Merchant Mariner Credential)
 - https://www.dco.uscg.mil/national_maritime_center/#menu1
 
 
-Click on ORIGINAL for steps to begin the process
-There is a Checklist page to help guide you
+Click on ORIGINAL for steps to begin the process. There is a Checklist page to help guide you:
 - https://www.dco.uscg.mil/nmc/checklist/
 
-Most will select the "National Entry Level Rating" checklist to get started
+Most will select the "National Entry Level Rating" checklist to get started:
 - https://www.ecfr.gov/current/title-46/chapter-I/subchapter-B/part-12/subpart-G/section-12.703
 
-You will be required to accurately complete the application form
-- Form CG-719B
-
-You will be required to pass a drug test
-- Form CG-719P
-
-You will be required to pass a physical exam
-- Form CG-719K
+    - You will be required to accurately complete the application form CG-719B
+    - You will be required to pass a drug test on form CG-719P
+    - You will be required to pass a physical exam on form CG-719K
 
 You will be required to apply for a TWIC (Transportation Worker Identification Credential)
 - https://www.tsa.gov/twic
@@ -40,7 +34,7 @@ Depending on your particular application, you may be required to appear at a Reg
 - https://www.dco.uscg.mil/nmc/recs/
 
 
-# EMPLOYMENT
+# EMPLOYMENT OPPORTUNITIES
 
 This is not an all-inclusive list of employers world-wide. Do your own research!
 
@@ -69,3 +63,11 @@ This is not an all-inclusive list of employers world-wide. Do your own research!
 ## East Coast
 - https://www.morantug.com/
 - https://www.cityferry.com/
+
+
+---
+
+### NOTE
+
+- Information provided here is for reference only.
+- Refer to official sources for current policies and procedures.
