@@ -53,12 +53,12 @@ Depending on your particular application, you may be required to appear at a Reg
 
 
 ## West Coast/Alaska/Hawaii
-https://www.centerlinelogistics.com/
-https://www.foss.com/
-https://www.lynden.com/aml/
-https://www.vanebrothers.com/
-https://islandtugandbarge.com/
-https://www.seawardservices.com/
+- https://www.centerlinelogistics.com/
+- https://www.foss.com/
+- https://www.lynden.com/aml/
+- https://www.vanebrothers.com/
+- https://islandtugandbarge.com/
+- https://www.seawardservices.com/
 
 
 ## East Coast
