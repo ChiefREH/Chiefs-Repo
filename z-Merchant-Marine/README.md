@@ -27,16 +27,16 @@ Things to remember:
 - You will be required to pay any and all fees
 
 
-No sea-time is required for entry level applications:
-- https://www.ecfr.gov/current/title-46/chapter-I/subchapter-B/part-12/subpart-G/section-12.703
-
-
 You will be required to apply for a **TWIC** (Transportation Worker Identification Credential)
 - https://www.tsa.gov/twic
 
 
 Depending on your particular application, you may be required to appear at a **Regional Exam Center** (REC)
 - https://www.dco.uscg.mil/nmc/recs/
+
+
+No sea-time is required for entry level applications:
+- https://www.ecfr.gov/current/title-46/chapter-I/subchapter-B/part-12/subpart-G/section-12.703
 
 
 # EMPLOYMENT OPPORTUNITIES
