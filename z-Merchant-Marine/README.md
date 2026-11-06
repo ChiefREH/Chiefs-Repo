@@ -40,12 +40,12 @@ Depending on your particular application, you may be required to appear at a Reg
 # EMPLOYMENT
 
 ## Gulf of America
-https://ottocandies.com/
-https://chouest.com/
-https://hornbeckoffshore.com/
-https://www.tdw.com/
-https://www.crescenttowing.com/
-https://www.oceaneering.com/
+- https://ottocandies.com/
+- https://chouest.com/
+- https://hornbeckoffshore.com/
+- https://www.tdw.com/
+- https://www.crescenttowing.com/
+- https://www.oceaneering.com/
 
 
 ## Great Lakes
