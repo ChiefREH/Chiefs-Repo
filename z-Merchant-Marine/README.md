@@ -1,4 +1,3 @@
-
 # LICENSE AND CREDENTIALS
 
 Refer to the NMC for the most updated information and application steps.
