@@ -49,7 +49,7 @@ Depending on your particular application, you may be required to appear at a Reg
 
 
 ## Great Lakes
-https://www.mainstaymaritime.com/
+- https://www.mainstaymaritime.com/
 
 
 ## West Coast/Alaska/Hawaii
@@ -62,5 +62,5 @@ https://www.seawardservices.com/
 
 
 ## East Coast
-https://www.morantug.com/
-https://www.cityferry.com/
+- https://www.morantug.com/
+- https://www.cityferry.com/
