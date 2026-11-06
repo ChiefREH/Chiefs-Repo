@@ -42,6 +42,11 @@ No sea-time is required for entry level applications:
 
 This is not an all-inclusive list of employers world-wide. Do your own research!
 
+More jobs can be found at gCaptain
+- https://jobsite.gcaptain.com/
+
+
+
 ## Gulf of America
 - https://ottocandies.com/
 - https://chouest.com/
@@ -67,6 +72,7 @@ This is not an all-inclusive list of employers world-wide. Do your own research!
 ## East Coast
 - https://www.morantug.com/
 - https://www.cityferry.com/
+
 
 
 ---
