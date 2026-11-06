@@ -10,7 +10,7 @@ MILITARY TO MARINER (For Veterans)
 - https://www.maritime.dot.gov/outreach/military-mariner
 
 
-## SUMMARY
+## SIMPLIFIED SUMMARY
 
 APPLY FOR MMC (Merchant Mariner Credential)
 - https://www.dco.uscg.mil/national_maritime_center/#menu1
