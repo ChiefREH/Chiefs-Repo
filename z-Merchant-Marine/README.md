@@ -22,9 +22,9 @@ Click on ORIGINAL for steps to begin the process. There is a Checklist page to h
 Most will select the "National Entry Level Rating" checklist to get started:
 - https://www.ecfr.gov/current/title-46/chapter-I/subchapter-B/part-12/subpart-G/section-12.703
 
-    - You will be required to accurately complete the application form CG-719B
-    - You will be required to pass a drug test on form CG-719P
-    - You will be required to pass a physical exam on form CG-719K
+    - You will be required to complete the application
+    - You will be required to pass a drug test
+    - You will be required to pass a physical exam
 
 You will be required to apply for a TWIC (Transportation Worker Identification Credential)
 - https://www.tsa.gov/twic
