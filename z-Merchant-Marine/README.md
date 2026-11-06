@@ -12,7 +12,7 @@ Refer to the NMC for the most updated information and application steps.
 
 ## SIMPLIFIED SUMMARY
 
-APPLY FOR MMC (Merchant Mariner Credential)
+APPLY FOR **MMC** (Merchant Mariner Credential)
 - https://www.dco.uscg.mil/national_maritime_center/#menu1
 
 
