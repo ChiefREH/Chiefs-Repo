@@ -1,12 +1,16 @@
 
 # LICENSE AND CREDENTIALS
 
+Refer to the NMC for the most updated information and application steps.
+
 NATIONAL MARITIME CENTER WEBSITE
 - https://www.dco.uscg.mil/national_maritime_center/
 
 MILITARY TO MARINER (For Veterans)
 - https://www.maritime.dot.gov/outreach/military-mariner
 
+
+## SUMMARY
 
 APPLY FOR MMC (Merchant Mariner Credential)
 - https://www.dco.uscg.mil/national_maritime_center/#menu1
@@ -17,7 +21,6 @@ There is a Checklist page to help guide you
 - https://www.dco.uscg.mil/nmc/checklist/
 
 Most will select the "National Entry Level Rating" checklist to get started
-46 CFR 12.703: _There are no sea service requirements for entry level endorsements._
 - https://www.ecfr.gov/current/title-46/chapter-I/subchapter-B/part-12/subpart-G/section-12.703
 
 You will be required to complete the application form
