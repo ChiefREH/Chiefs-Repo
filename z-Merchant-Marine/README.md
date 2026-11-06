@@ -23,7 +23,7 @@ There is a Checklist page to help guide you
 Most will select the "National Entry Level Rating" checklist to get started
 - https://www.ecfr.gov/current/title-46/chapter-I/subchapter-B/part-12/subpart-G/section-12.703
 
-You will be required to complete the application form
+You will be required to accurately complete the application form
 - Form CG-719B
 
 You will be required to pass a drug test
