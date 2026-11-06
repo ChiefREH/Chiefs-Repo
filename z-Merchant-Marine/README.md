@@ -42,7 +42,7 @@ Depending on your particular application, you may be required to appear at a Reg
 
 # EMPLOYMENT
 
-This is not an all-inclusive list of employers. Do your own research!
+This is not an all-inclusive list of employers world-wide. Do your own research!
 
 ## Gulf of America
 - https://ottocandies.com/
