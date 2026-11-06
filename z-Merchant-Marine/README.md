@@ -20,11 +20,11 @@ Click on ORIGINAL for steps to begin the process. There is a Checklist page to h
 
 - https://www.dco.uscg.mil/nmc/checklist/
 
-
-    - You will be required to complete the application
-    - You will be required to pass a drug test
-    - You will be required to pass a physical exam
-    - You will be required to pay any and all fees
+Things to remember:
+- You will be required to complete the application
+- You will be required to pass a drug test
+- You will be required to pass a physical exam
+- You will be required to pay any and all fees
 
 
 No sea-time is required for entry level applications:
