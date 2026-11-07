@@ -10,7 +10,7 @@ Draw a oval path around Parts. Include the following:
 - WAIT DI[1], TIMEOUT
     - TIMEOUT value of 15 seconds
 - Override at 50%
-- Logic for 3 loops (soft-coded)
+- Logic for 3 loops
 - UALM[1] if loop count is exceeded
 - UALM[2] if waiting too long
 - **SAFE** position when complete
