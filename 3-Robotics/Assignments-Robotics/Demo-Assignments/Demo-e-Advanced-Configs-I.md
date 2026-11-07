@@ -32,7 +32,7 @@ $SYS_TIME.$MINUTE
 !SETUP
 - UTOOL_NUM = 1
 - UFRAME = 1
-- OVERRIDE = 50%
+- OVERRIDE = 25%
 - DO[1] = OFF
 
 !READY POSITION
@@ -42,7 +42,7 @@ LBL [50]
 
 !MAIN
 LBL [100]
-- Run all 4 corner points
+- Run all 4 corner points ONE TIME ONLY
 - JMP LBL [999]
 
 !ERRORS
