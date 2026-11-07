@@ -27,7 +27,7 @@ WHEN USING MANUAL I/O CONTROL
 - ROBOT 2: Just toggle **DO[1]** from IO screen
     - Monitor Ins and Outs via Split Screen
 
-AUTOMATED ROUTINE
+AUTOMATED ROUTINES
 - See Codes below:
 
 ## ROBOT 1 ROUTINE
@@ -72,6 +72,8 @@ LBL [999]
 ```
 
 ## ROBOT 2 ROUTINE
+This code is very simple:
+
 ```
 LBL [100]
 
