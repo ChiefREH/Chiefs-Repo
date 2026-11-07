@@ -42,7 +42,7 @@ LBL [50]
 
 !MAIN
 LBL [100]
-- All 4 corner points. Return to READY position.
+- Run all 4 corner points
 - JMP LBL [999]
 
 !ERRORS
