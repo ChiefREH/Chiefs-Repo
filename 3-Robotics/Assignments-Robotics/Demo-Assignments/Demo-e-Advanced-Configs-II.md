@@ -2,6 +2,7 @@
 
 >Use the Adv Prog Config routine for this demo.
 
+- **DO NOT** use SERIALIZE WIZARD. It will add a BLANK robot!
 
 ## Clone a full Robot model
 Right-click C:1 Robot Controller > Add Robot > Add Robot Clone
