@@ -9,8 +9,12 @@ Right-click C:1 Robot Controller > Add Robot > Add Robot Clone
 - Properly configured DI and DO interface
 
 ## Cell > I/O Interconnections > Work-cell I/O
-- Controller 2 DO[1] > Controller 1 DI[1]
-- Controller 1 DO[1] > Controller 2 DI[1]
+- Controller 1 DO[1] > Controller 2 DI[2]
+- Controller 2 DO[2] > Controller 1 DI[1]
+
+>Robot 1 uses number 1 for I/O
+>Robot 2 uses number 2 for I/O
+>This makes connections in the TP easy to remember
 
 ## Control a Robot remotely with Digital Inputs
 
