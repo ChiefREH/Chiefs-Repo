@@ -42,7 +42,7 @@ No sea-time is required for entry level applications:
 
 This is not an all-inclusive list of employers world-wide. Do your own research!
 
-More jobs can be found at gCaptain
+More jobs can be found at gCaptain:
 - https://jobsite.gcaptain.com/
 
 
