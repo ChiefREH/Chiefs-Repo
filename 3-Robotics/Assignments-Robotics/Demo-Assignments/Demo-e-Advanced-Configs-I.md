@@ -27,20 +27,6 @@ $SYS_TIME.$MINUTE
     - Measured in hundredths of a second.
     - Default is 3000 = 30 seconds
 
-## Clone a full Robot model
-Right-click C:1 Robot Controller > Add Robot > Add Robot Clone
-- Accept default location parameters.
-- Properly configured DI and DO interface
-
-## Cell > I/O Interconnections > Work-cell I/O
-- Controller 2 DO[1] > Controller 1 DI[1]
-- Controller 1 DO[1] > Controller 2 DI[1]
-
-## Control a Robot remotely with Digital Inputs
-- ROBOT 1: WAIT **DI[1] = ON**
-- ROBOT 2: Doesn’t need a Program, just toggle **DO[1]**
-    - Split Screen both Inputs and Outputs
-
 ## SECTION SPECIFIC
 ```
 !SETUP
