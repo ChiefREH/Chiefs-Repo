@@ -44,14 +44,13 @@ LBL [100]
 
 !ERRORS
 LBL [900]
-- None for this exercise.
+- Removed for this exercise.
 
-LBL [950]
-- UALM 2 (“Wait Time Elapsed”)
 
 !END OF LINE
 LBL [999]
-- Move to a SAFE position
+- P[7] SAFE position
+
 - R[7:Month] = ($SYS_TIME.$MONTH)
 - R[8:Day] = ($SYS_TIME.$DAY)
 - R[9:Hour] = ($SYS_TIME.$HOUR)
