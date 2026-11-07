@@ -1,4 +1,4 @@
-# COPY, MOVE, MASKED MOVE, CLEAR AND RADIX
+# MOVING DATA
 
 - MOV can move data from a one tag to another
     - Original data is not destroyed, only copied
