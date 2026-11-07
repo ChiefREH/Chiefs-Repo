@@ -12,13 +12,13 @@ Right-click C:1 Robot Controller > Add Robot > Add Robot Clone
 - Controller 1 DO[1] > Controller 2 DI[2]
 - Controller 2 DO[2] > Controller 1 DI[1]
 
+![IO-Interconnects-1](Demo-Images/IO-Interconnects-1.jpg)
 
+- Robot 1 uses number 1 for I/O
+- Robot 2 uses number 2 for I/O
+- This makes connections in the TP easy to remember
 
->Robot 1 uses number 1 for I/O
->Robot 2 uses number 2 for I/O
->This makes connections in the TP easy to remember
-
-
+![IO-Interconnects-2](Demo-Images/IO-Interconnects-2.jpg)
 
 ## Control a Robot remotely with Digital Inputs
 
