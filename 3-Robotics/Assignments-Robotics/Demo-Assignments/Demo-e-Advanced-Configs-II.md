@@ -25,20 +25,22 @@ AUTOMATED ROUTINE
 ## ROBOT 1 ROUTINE
 ```
 !SETUP
-- UTOOL_NUM = 1
-- UFRAME = 1
 - OVERRIDE = 50%
 - DO[1] = OFF
+- R[1] = 0
 
 !READY POSITION
 LBL [50]
-- Move to P[1] READY position
+- P[1] READY position
+- P[2] APPROACH position
 - WAIT DI[1] = ON
 
 !MAIN
 LBL [100]
-- All 4 corner points. Return to READY position.
-- JMP LBL [999]
+- P[3], P[4], P[5], P[6], P[3]
+- R[1] = R[1] + 1
+- IF R[1] >= 3, JMP LBL [999]
+- JMP LBL [100]
 
 !ERRORS
 LBL [900]
