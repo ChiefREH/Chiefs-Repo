@@ -64,11 +64,11 @@ LBL [999]
 - R[9:Hour] = ($SYS_TIME.$HOUR)
 - R[10:Minute] = ($SYS_TIME.$MINUTE)
 
-- DO[1: signal to Robot 2] = ON to signal Robot 1
+- DO[1: signal to Robot 2] = ON
 - WAIT 1 sec
-- DO[1: signal to Robot 2] = OFF to stop signaling
+- DO[1: signal to Robot 2] = OFF
 - WAIT 1 sec
-- JMP LBL [50] to wait for Robot 2 signal
+- JMP LBL [50] to wait for Robot 2
 ```
 
 ## ROBOT 2 ROUTINE
