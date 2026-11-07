@@ -22,32 +22,32 @@ Right-click C:1 Robot Controller > Add Robot > Add Robot Clone
 
 ## Control a Robot remotely with Digital Inputs
 
-MANUAL CONTROL
+WHEN USING MANUAL I/O CONTROL
 - ROBOT 1: WAIT **DI[1] = ON**
-- ROBOT 2: Doesn’t need a Program, just toggle **DO[1]**
-    - Split Screen both Inputs and Outputs
+- ROBOT 2: Just toggle **DO[1]** from IO screen
+    - Monitor Ins and Outs via Split Screen
 
 AUTOMATED ROUTINE
-- See Codes below
+- See Codes below:
 
 ## ROBOT 1 ROUTINE
 ```
 !SETUP
 - OVERRIDE = 50%
-- DO[1] = OFF
-- R[1] = 0
+- DO[1: signal to Robot 2] = OFF
+- R[1: Counter] = 0
 
 !READY + APPROACH POSITION
 LBL [50]
 - P[1] READY position
 - P[2] APPROACH position
-- WAIT DI[1] = ON
+- WAIT DI[1: signal from Robot 2] = ON
 
 !MAIN
 LBL [100]
 - P[3], P[4], P[5], P[6], P[3]
-- R[1] = R[1] + 1
-- IF R[1] >= 3, JMP LBL [999]
+- R[1: Counter] = R[1: Counter] + 1
+- IF R[1: Counter] >= 3, JMP LBL [999]
 - JMP LBL [100]
 
 !ERRORS
@@ -64,49 +64,28 @@ LBL [999]
 - R[9:Hour] = ($SYS_TIME.$HOUR)
 - R[10:Minute] = ($SYS_TIME.$MINUTE)
 
-- DO[1] = ON to signal Robot 1
+- DO[1: signal to Robot 2] = ON to signal Robot 1
 - WAIT 1 sec
-- DO[1] = OFF to stop signaling
+- DO[1: signal to Robot 2] = OFF to stop signaling
 - WAIT 1 sec
 - JMP LBL [50] to wait for Robot 2 signal
 ```
 
 ## ROBOT 2 ROUTINE
 ```
-!SETUP
-- UTOOL_NUM = 1
-- UFRAME = 1
-- OVERRIDE = 50%
-- DO[1] = OFF
-
-!READY POSITION
-LBL [50]
-- Move to P[1] READY position
-- WAIT DI[1] = ON
-
-!MAIN
 LBL [100]
-- All 4 corner points. Return to READY position.
-- JMP LBL [999]
 
-!ERRORS
-LBL [900]
-- None for this exercise.
+WAIT 2 sec
+DO[2: signal to Robot 1] = ON
+WAIT 2 sec
+DO[2: signal to Robot 1] = OFF 
 
-LBL [950]
-- UALM 2 (“Wait Time Elapsed”)
+WAIT DI[2: signal from Robot 1] = ON
 
-!END OF LINE
-LBL [999]
-- Move to a SAFE position
-- R[7:Month] = ($SYS_TIME.$MONTH)
-- R[8:Day] = ($SYS_TIME.$DAY)
-- R[9:Hour] = ($SYS_TIME.$HOUR)
-- R[10:Minute] = ($SYS_TIME.$MINUTE)
-- DO[1] = ON to signal the other robot
-- WAIT 3 sec
-- DO[1] = OFF to stop signaling
+JMP LBL [100]
 ```
+
+>The 2 sec WAIT gives the simulation time to catch up
 
 ---
 
