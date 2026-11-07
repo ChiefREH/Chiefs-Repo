@@ -1,6 +1,6 @@
 # ADVANCED PROGRAMMING CONFIGURATION II
 
->Use the previous program for this demo.
+>Use the Adv Prog Config routine for this demo.
 
 
 ## Clone a full Robot model
