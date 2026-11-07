@@ -33,7 +33,7 @@ AUTOMATED ROUTINES
 ## ROBOT 1 ROUTINE
 ```
 !SETUP
-- OVERRIDE = 50%
+- OVERRIDE = 25%
 - DO[1: signal to Robot 2] = OFF
 - R[1: Counter] = 0
 
