@@ -6,8 +6,8 @@ Remember to run both in **CYCLE MODE**
 
 ## TASK
 Install Optional Package "Internet Conn/Custo (R558)"
-- Right-click LR MATE 200iD > Properties > Serialize
-- **DO NOT** use SERIALIZE WIZARD. It will add a NEW robot!
+- If you forget to add the package during project creation:
+    - Right-click LR MATE 200iD > Properties > Serialize
 
 Use Registers to store **$SYS_TIME** variables (option R558) when the routine is done:
 ```
@@ -27,7 +27,7 @@ $SYS_TIME.$MINUTE
     - Measured in hundredths of a second.
     - Default is 3000 = 30 seconds
 
-## SECTION SPECIFIC
+## ROBOT 1 ROUTINE
 ```
 !SETUP
 - UTOOL_NUM = 1
@@ -59,9 +59,6 @@ LBL [999]
 - R[8:Day] = ($SYS_TIME.$DAY)
 - R[9:Hour] = ($SYS_TIME.$HOUR)
 - R[10:Minute] = ($SYS_TIME.$MINUTE)
-- DO[1] = ON to signal the other robot
-- WAIT 3 sec
-- DO[1] = OFF to stop signaling
 ```
 
 NOTE

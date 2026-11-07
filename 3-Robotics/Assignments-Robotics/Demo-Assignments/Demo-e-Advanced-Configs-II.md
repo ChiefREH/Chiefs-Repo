@@ -25,7 +25,7 @@ Right-click C:1 Robot Controller > Add Robot > Add Robot Clone
 
 WHEN USING MANUAL I/O CONTROL
 - ROBOT 1: WAIT **DI[1] = ON**
-- ROBOT 2: Just toggle **DO[1]** from IO screen
+- ROBOT 2: Just toggle **DO[2]** from IO screen
     - Monitor Ins and Outs via Split Screen
 
 AUTOMATED ROUTINES
