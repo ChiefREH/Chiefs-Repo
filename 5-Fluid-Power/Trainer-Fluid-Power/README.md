@@ -8,9 +8,6 @@
     - Pressure Regulators
     - Proper hose connections
 
-![MicroLogix](Trainer-FP-Images/Pneumatic-Trainer.jpg)
-
-
 ## SAFETY FIRST
 
 - Eye protection will be provided (mandatory)
