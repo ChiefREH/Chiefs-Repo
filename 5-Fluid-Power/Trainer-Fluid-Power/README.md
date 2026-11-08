@@ -1,10 +1,7 @@
 # FLUID POWER PNEUMATIC TRAINER
 
-- Use RS500 programming language
-- Use MicroLogix PLC equipment
-
-![MicroLogix](Trainer-FP-Images/MicroLogix-COM-Settings.jpg)
-
+- Use Studio 5000 programming language
+- Use CompactLogix PLC equipment
 - Use the following FP equipment in lab:
     - Directional Control Valves
     - Pneumatic Actuators
