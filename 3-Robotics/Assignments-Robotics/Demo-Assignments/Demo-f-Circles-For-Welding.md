@@ -21,7 +21,7 @@ _If UTOOL or UFRAME causes and error ("Big Yella"), omit them both and move on!_
 !SETUP
 - UTOOL_NUM = 1
 - USERFRAME = 1
-- OVERRIDE = 50%
+- OVERRIDE = 25%
 
 !MAIN
 LBL
