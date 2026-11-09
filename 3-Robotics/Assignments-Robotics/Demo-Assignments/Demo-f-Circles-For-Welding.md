@@ -30,7 +30,7 @@ _If UTOOL or UFRAME causes and error ("Big Yella"), omit them both and move on!_
 !MAIN
 LBL
 - Record all needed CIRCULAR points
-    - C P[ ] 250mm/sec FINE
+    - C P[] 250mm/sec FINE
 
 - IF/SELECT logic for 3 loops
 JMP LBL
