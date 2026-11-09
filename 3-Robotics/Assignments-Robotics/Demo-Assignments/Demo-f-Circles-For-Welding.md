@@ -22,19 +22,25 @@ _If UTOOL or UFRAME causes and error ("Big Yella"), omit them both and move on!_
 - UTOOL_NUM = 1
 - USERFRAME = 1
 - OVERRIDE = 25%
+- R[1: Count] = 0
+
+- P[1] READY POSITION
+- P[2] APPROACH POSITION 100mm above
 
 !MAIN
 LBL
-- Record APPROACH point 100mm above the cylinder's starting point
 - Record all needed CIRCULAR points
     - C P[] 250mm/sec FINE
+
+IF/SELECT logic for 3 loops
 JMP LBL
 
 !ERRORS
-- Remark & Label only. No code needed.
+- Remark & Label only. No UALM needed.
  
 !END OF LINE
-- Remark & Label only. No code needed.
+LBL [999]
+- P[7] SAFE POSITION
 ```
 
 **QUESTIONS**
