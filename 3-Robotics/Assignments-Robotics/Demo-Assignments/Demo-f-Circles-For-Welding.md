@@ -53,8 +53,6 @@ LBL [999]
 - Properly configured **Gripper MACROS** (Tool 1 & Tool 2) are required to hold the Pointer
 - Verify the UTOOL_NUM is properly entered for your Robot
 
-## FUTURE CODING PARAMETERS
-- Include a Position Register Offset
 
 ## VIDEO REFERENCE
 - Circles
