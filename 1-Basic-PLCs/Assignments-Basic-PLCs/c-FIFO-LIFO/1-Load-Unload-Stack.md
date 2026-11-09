@@ -1,7 +1,7 @@
 # LOAD/UNLOAD - "STACK OF ONES"
 
 ## CODE:
-Create a routine that will move the number 1 **to and from** an Array using one of the following methods:
+Create a routine that will move the number 1 **IN and OUT** of an Array using one of the following methods:
 - FIFO - "First In, First Out" instruction 
 - LIFO - "Last In, First Out" instruction 
  
