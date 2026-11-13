@@ -1,4 +1,4 @@
-# KT & SID'S CARNIVAL GAME v1.0
+# KT & SID'S CARNIVAL GAME v2.0
 
 ## WORK ORDER:
 Create a carnival game (reaction/timing) using the SQO instruction
