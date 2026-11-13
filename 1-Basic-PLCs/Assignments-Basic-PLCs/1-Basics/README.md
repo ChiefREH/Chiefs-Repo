@@ -15,6 +15,13 @@
     - Studio 5000 Emulator (in classroom)
     - CompactLogix 5380 / 5069-L306ER PLC (in lab)
 
+
+## PLC CONCEPTS
+
+To create simple LD and ST routines in your browser, consider using https://studio.rungs.dev/
+
+
+
 ## NOTE
 - There are videos in my YT playlist covering the basic instructions
 - However, it is done using the old language, RS500 for MicroLogix
