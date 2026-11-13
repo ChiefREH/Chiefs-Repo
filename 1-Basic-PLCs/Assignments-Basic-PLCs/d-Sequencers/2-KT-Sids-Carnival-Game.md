@@ -19,7 +19,9 @@ Create a carnival game (reaction/timing) using the SQO instruction
 - *Lab safety is non-negotiable.
 
 ## ADVANCED
-
+- Create a tracker for "Chances Remaining" using outputs 11-15
+- Reduce the stack by 1 on every failure
+- At 0 chances, flash the stack 3 times and reset
 
 ## REFERENCE:
 
