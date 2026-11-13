@@ -1,14 +1,14 @@
 # KT & SID'S CARNIVAL GAME v2.0
 
-## WORK ORDER:
+## WORK ORDER
 Create a carnival game (reaction/timing) using the SQO instruction
 
 
-## OBJECTIVE:
+## OBJECTIVE
 - Press a button to stop the light in the middle (winner!) 
 
 
-## PARAMETERS:
+## PARAMETERS
 - Properly configured I/O Modules (emulated and lab) are required. 
 - Properly wire (2) push buttons to the input module (Stop and Start). 
 - Properly wire (**5** or 7) lights to the output module:
@@ -17,6 +17,8 @@ Create a carnival game (reaction/timing) using the SQO instruction
 - Ensure the lights have the proper rating (24VDC LED bulbs).
 - *Proper documentation and rung comments are mandatory. 
 - *Lab safety is non-negotiable.
+
+## ADVANCED
 
 
 ## REFERENCE:
