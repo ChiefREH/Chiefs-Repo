@@ -1,9 +1,17 @@
 # ELECTRIC MOTORS AND CONTROL SYSTEMS
 
+![text](Assignment-Motors-Basic-Images/Not-A-Safe-Space.png)
+
 ## FUSES
 
 - **DO NOT** insert or remove fuses with your fingers!
     - Always use fuse pullers
+
+### THE UPPER SECTION IS ALWAYS ENERGIZED!
+
+![Shock Hazard](Assignment-Motors-Basic-Images/Main-Dosconnect-Danger.jpg)
+
+
 
 ## WIRE NUTS
 
