@@ -18,7 +18,7 @@
 
 ## PLC CONCEPTS
 
-To create simple LD and ST routines in your browser, consider using https://studio.rungs.dev/
+To create simple LD and ST routines in your browser, check out https://studio.rungs.dev/
 
 
 
