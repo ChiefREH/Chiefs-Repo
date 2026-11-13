@@ -22,7 +22,7 @@ STUDENT ASSIGNMENT
 - We need this for the Z-axis high limit logic
 - There is a workaround:
     - R[5] = PR[5,3]
-    - _This will move the Z axis vale into Register 5 (or whatever register you choose)_
+    - _This will move the Z axis value into Register 5 (or whatever register you choose)_
 - Apply logic using the Register instead of the PR[i,j]
     - IF R[5] >= 100, JMP LBL [999]
 
