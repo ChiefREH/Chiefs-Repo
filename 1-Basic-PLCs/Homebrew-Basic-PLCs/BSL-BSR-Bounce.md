@@ -7,7 +7,7 @@
 
 ![BSL](Homebrew-Basic-PLC-Images/BSL-BSR-Bounce-Edit.png)
 
-[Studio.Rungs.Dev](studio.rungs.dev)
+[Studio.Rungs.Dev](http://studio.rungs.dev)
 
 ---
 
