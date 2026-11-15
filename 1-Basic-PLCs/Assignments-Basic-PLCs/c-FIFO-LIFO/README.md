@@ -17,8 +17,8 @@ The difference is the order in which information is retrieved.
 
 ## RETRIEVAL ORDER
 
-- FIFO: _First In, First Out_
-- LIFO: _Last In, First Out_
+- FIFO: First In, First Out
+- LIFO: Last In, First Out
 
 
 ## INSTRUCTION TAGS
