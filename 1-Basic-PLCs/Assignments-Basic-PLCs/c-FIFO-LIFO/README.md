@@ -1,10 +1,25 @@
 # FILE LOAD AND UNLOAD
 
-There are 4 types of Load/Unload Operations:
-- FIFO Load: _First In, First Out_ (FFL)
-- FIFO Unload: _First In, First Out_ (FFU)
-- LIFO Load: _Last In, First Out_ (LFL)
-- LIFO Unload: _Last In, First Out_ (LFU)
+FIFO and LIFO instructions are used to store, organize, and retrieve data in a specific order.
+
+They are particularly useful in industrial automation when a PLC needs to remember information about products, machine operations, or production events and retrieve that information later.
+
+There are four primary instructions in Studio 5000:
+
+| Instruction | Full Name   | Function                 |
+| ----------- | ----------- | ------------------------ |
+| **FFL**     | FIFO Load   | Adds data to a FIFO      |
+| **FFU**     | FIFO Unload | Removes data from a FIFO |
+| **LFL**     | LIFO Load   | Adds data to a LIFO      |
+| **LFU**     | LIFO Unload | Removes data from a LIFO |
+
+The difference is the order in which information is retrieved.
+
+## RETRIEVAL ORDER
+
+- FIFO: _First In, First Out_
+- LIFO: _Last In, First Out_
+
 
 ## INSTRUCTION TAGS
 
