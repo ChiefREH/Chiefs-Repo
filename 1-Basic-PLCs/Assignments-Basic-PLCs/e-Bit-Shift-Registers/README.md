@@ -25,7 +25,7 @@ Common applications:
     - It's shifting in a "1" or a "0" to the left
     - BSL: Everything shifts to the left!
 
-## LAB:
+## LAB
 
 Use the push-button wiring from the previous assignment
 - N.O. to set the Source bit to 1/0 (on/off) 
