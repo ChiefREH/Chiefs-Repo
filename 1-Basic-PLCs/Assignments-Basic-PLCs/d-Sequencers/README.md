@@ -1,5 +1,19 @@
 # SEQUENCER OUTPUT INSTRUCTION
 
+The Sequencer Output (SQO) instruction is used to control a machine through a predefined sequence of operations.
+
+Rather than programming individual rungs for every step of a machine cycle, you can use a sequencer to store a series of output patterns in an array. The PLC then advances through those patterns, applying the appropriate outputs at each step.
+
+Think of it as a programmable step-by-step machine controller.
+
+A simple example: Imagine a conveyor system with four operations:
+1. Start conveyor.
+2. Stop conveyor at inspection station.
+3. Activate inspection device.
+4. Activate reject or pass mechanism.
+An SQO instruction can manage the output patterns for all four operations.
+
+
 ## INSTRUCTION TAGS:
 
 - **ARRAY:** The "storage" we are pulling from
