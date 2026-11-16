@@ -13,7 +13,7 @@ STUDENT ASSIGNMENT
 - Logic for 4 Loops _(must be soft-coded)_
 - UALM[1] for exceeding Loop count
 - UALM[2] for TIMEOUT
-- Safe position when complete
+- SAFE position when complete
 - MESSAGE when complete
 - Date/Time capture when complete _(Roboguide simulation only)_
 
