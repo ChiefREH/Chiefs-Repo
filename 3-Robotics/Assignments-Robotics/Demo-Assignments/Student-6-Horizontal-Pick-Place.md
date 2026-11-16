@@ -11,8 +11,8 @@ STUDENT ASSIGNMENT
 - UTOOL[1]
 - Proper gripper animation _(complimentary pairs are okay)_
 - Logic for 4 loops _(must be soft-coded)_
-- UALM[1]
-- UALM[2]
+- UALM[1] 
+- UALM[2] for TIMEOUT
 - Safe position when complete
 - MESSAGE when complete
 - Date/Time capture when complete _(Roboguide simulation only)_
