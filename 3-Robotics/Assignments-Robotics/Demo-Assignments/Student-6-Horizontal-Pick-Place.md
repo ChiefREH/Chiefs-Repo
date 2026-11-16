@@ -6,7 +6,7 @@ STUDENT ASSIGNMENT
 ## ALL PREVIOUS FORMATTING & LOGIC, INCLUDING
 - Properly formatted !Sections
 - WAIT DI[1], TIMEOUT
-- TIMEOUT value of 10 seconds
+    - TIMEOUT value of 10 seconds
 - Override at 50%
 - UTOOL[1]
 - Proper gripper animation _(complimentary pairs are okay)_
@@ -14,8 +14,8 @@ STUDENT ASSIGNMENT
 - UALM[1] for exceeding Loop count
 - UALM[2] for TIMEOUT
 - SAFE position when complete
-- MESSAGE when complete
-- Date/Time capture when complete _(Roboguide simulation only)_
+    - MESSAGE when complete
+    - Date/Time capture when complete _(Roboguide simulation only)_
 
 ## IGNORE
 - Robot clones
