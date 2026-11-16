@@ -10,4 +10,6 @@
 
 [FluidSim](https://www.festo.com/us/en/e/technical-education/digital-learning/virtual-simulation-and-modeling/fluidsim-id_1663056)
 
+[Picuino](https://www.picuino.com/en/index.html)
+
 [MechSimulator](https://mechsimulator.com/)
