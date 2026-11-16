@@ -22,7 +22,6 @@ STUDENT ASSIGNMENT
 - Macros and Key Bindings
 - Payload
 - Userframe
-- Position Registers PR[ ]
 - Cell Interconnections
 
 ## WARNING!
