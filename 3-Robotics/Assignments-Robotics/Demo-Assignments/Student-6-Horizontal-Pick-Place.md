@@ -10,8 +10,8 @@ STUDENT ASSIGNMENT
 - Override at 50%
 - UTOOL[1]
 - Proper gripper animation _(complimentary pairs are okay)_
-- Logic for 4 loops _(must be soft-coded)_
-- UALM[1] 
+- Logic for 4 Loops _(must be soft-coded)_
+- UALM[1] for exceeding Loop count
 - UALM[2] for TIMEOUT
 - Safe position when complete
 - MESSAGE when complete
