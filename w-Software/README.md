@@ -13,6 +13,7 @@ Use at your own risk!
 
 [Hopsan](https://liu.se/en/research/hopsan)
 
+
 ## IIOT
 
 [Wokwi](https://wokwi.com/) (browser based)
@@ -22,3 +23,8 @@ Use at your own risk!
 [TinkerCAD](https://www.tinkercad.com/) (browser based)
 
 [Arduino](https://www.arduino.cc/) (browser based)
+
+
+## CIRCUIT ANALYSIS
+
+[EveryCircuit](https://everycircuit.com/app) (browser based)
