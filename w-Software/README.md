@@ -42,3 +42,5 @@
 
 [EveryCircuit](https://everycircuit.com/app) (browser based)
 
+[CRUMB Simulator](https://crumbsim.com/) (STEAM app)
+
