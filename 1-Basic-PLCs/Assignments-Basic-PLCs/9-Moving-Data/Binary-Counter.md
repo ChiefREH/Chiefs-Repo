@@ -1,4 +1,4 @@
-# BINARY CLOCK PROGRAM
+# BINARY COUNTER PROGRAM
 
 Create a simple Binary "Clock" routine for EMULATION and LAB using the following instructions:
 - All necessary XIC and XIO instructions 
