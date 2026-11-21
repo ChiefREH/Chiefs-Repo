@@ -1,5 +1,7 @@
 # SOFTWARE
 
+Not a sponsored list.
+
 - Most are free
 - Some are installs
 - Some require a VM
@@ -39,3 +41,4 @@
 ## CIRCUIT ANALYSIS
 
 [EveryCircuit](https://everycircuit.com/app) (browser based)
+
