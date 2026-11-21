@@ -9,5 +9,6 @@ Use at your own risk!
 
 ## FLUID POWER
 
-MechSimulator (browser based)
+[MechSimulator](https://mechsimulator.com/) (browser based)
+
 Hopsan
