@@ -7,9 +7,12 @@
 - I have not tested the entire list.
 - Use at your own risk!
 
+
 ## PLC
 
 [Studio.Rungs.Dev](https://studio.rungs.dev/) (browser based)
+
+[CODESYS PLC Software](https://us.store.codesys.com/)
 
 [Rockwell MicroLogix 500](https://www.rockwellautomation.com/en-us/support/product/product-downloads.html)
 
