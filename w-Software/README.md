@@ -15,7 +15,7 @@ Use at your own risk!
 
 ## IIOT
 
-[Wokwi](https://wokwi.com/)
+[Wokwi](https://wokwi.com/) (browser based)
 
-[Picuino](https://www.picuino.com/en/index.html)
+[Picuino](https://www.picuino.com/en/index.html) (browser based)
 
