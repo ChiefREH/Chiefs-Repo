@@ -4,10 +4,10 @@ Use at your own risk!
 
 ## PLC
 
-Studio.Rungs.Dev
+Studio.Rungs.Dev (browser based)
 
 
 ## FLUID POWER
 
-MechSimulator
+MechSimulator (browser based)
 Hopsan
