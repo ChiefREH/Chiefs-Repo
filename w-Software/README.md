@@ -1,6 +1,9 @@
 # SOFTWARE
 
-Use at your own risk!
+- Most are free
+- Some are installs
+- Some require a VM
+- Use at your own risk!
 
 ## PLC
 
@@ -12,6 +15,11 @@ Use at your own risk!
 [MechSimulator](https://mechsimulator.com/) (browser based)
 
 [Hopsan](https://liu.se/en/research/hopsan)
+
+
+## ROBOTICS
+
+[Universal Robotics](https://www.universal-robots.com/articles)
 
 
 ## IIOT
