@@ -44,3 +44,5 @@
 
 [CRUMB Simulator](https://crumbsim.com/) (STEAM app)
 
+[Falstad Circuit Simulator](https://www.falstad.com/circuit/)
+
