@@ -21,6 +21,9 @@
 
 [Universal Robotics](https://www.universal-robots.com/articles)
 
+[FANUC Roboguide](https://www.fanucamerica.com/products/software/robot/roboguide)
+
+
 
 ## IIOT
 
