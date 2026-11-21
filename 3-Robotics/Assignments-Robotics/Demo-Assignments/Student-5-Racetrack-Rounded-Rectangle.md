@@ -23,7 +23,6 @@ Draw a oval path around Parts. Include the following:
 - Macros and Key Bindings
 - Payload
 - Userframe
-- Position Registers PR
 - Cell Interconnections
 
 ## VIDEO REFERENCE
