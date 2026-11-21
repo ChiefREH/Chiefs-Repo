@@ -57,6 +57,6 @@
 
 - [CRUMB Simulator](https://crumbsim.com/) (STEAM app)
 
-- [Falstad Circuit Simulator](https://www.falstad.com/circuit/)
+- [Falstad Circuit Simulator](https://www.falstad.com/circuit/) (browser based)
 
 - [CircuitVerse](https://circuitverse.org/) (browser based)
