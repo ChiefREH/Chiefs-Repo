@@ -11,4 +11,5 @@ Use at your own risk!
 
 [MechSimulator](https://mechsimulator.com/) (browser based)
 
-Hopsan
+[Hopsan](https://liu.se/en/research/hopsan)
+
