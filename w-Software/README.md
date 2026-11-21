@@ -29,6 +29,8 @@
 
 [Universal Robotics](https://www.universal-robots.com/articles)
 
+[KUKA iiQWorks.Sim](https://www.kuka.com/en-us/products/robotics-systems/software/iiqworks-engineering-suite-digital-manufacturing)
+
 [FANUC Roboguide](https://www.fanucamerica.com/products/software/robot/roboguide)
 
 
