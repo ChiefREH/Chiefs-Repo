@@ -46,3 +46,4 @@
 
 [Falstad Circuit Simulator](https://www.falstad.com/circuit/)
 
+[CircuitVerse](https://circuitverse.org/) (browser based)
