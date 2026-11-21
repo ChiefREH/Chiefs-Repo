@@ -11,6 +11,9 @@
 
 [Studio.Rungs.Dev](https://studio.rungs.dev/) (browser based)
 
+[Rockwell MicroLogix 500](https://www.rockwellautomation.com/en-us/support/product/product-downloads.html)
+
+
 
 ## FLUID POWER
 
