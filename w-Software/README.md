@@ -1,10 +1,10 @@
 # SOFTWARE
 
-Not a sponsored list.
-
+- Not a sponsored list
 - Most are free
 - Some are installs
 - Some require a VM
+- I have not tested the entire list.
 - Use at your own risk!
 
 ## PLC
