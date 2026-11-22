@@ -20,7 +20,7 @@ D   _ . .
 
 ## SPECIFICATIONS:
 
-- No SQO instructions are permitted.
+- No **SQO** instructions are permitted.
 - Bits must "stream" into the IO LEDs 1 letter at a time.
     - Bits cannot just "pop" into existence!
 - Only 1 letter will be "on screen" at a time (first 16 bits)
