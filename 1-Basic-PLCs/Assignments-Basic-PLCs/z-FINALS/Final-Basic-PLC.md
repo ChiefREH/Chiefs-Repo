@@ -3,6 +3,8 @@
 - Create a Morse Code ticker using the **BSL and/or BSR instruction** as the primary operator
 - "Stream" the phrase **"Hello World"** across the output module LEDs
 
+## MORSE CODE
+
 ```text
 H   . . . . 
 E   .
