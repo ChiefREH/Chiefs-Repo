@@ -26,6 +26,5 @@ There will be no whole words on the I/O, only single letters that stream
 
 ## VIDEO DEMONSTRATION:
 
-- Random letters at first, then "S.O.S." second.
-- This is a representation of the concept, not the actual assignment listed above.
 
+[![Watch the video](https://img.youtube.com/vi/1TJOZQSdhzs/maxresdefault.jpg)](https://youtu.be/1TJOZQSdhzs)
