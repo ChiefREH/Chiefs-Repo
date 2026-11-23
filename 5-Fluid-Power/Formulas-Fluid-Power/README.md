@@ -6,6 +6,18 @@
 - **Force:** $F = P \times A$
 - **Area:** $A = \frac{F}{P}$
 
+### Pressure Measurement
+
+- **Gauge Pressure (PSIG):** Pressure measured relative to atmospheric pressure. Commonly used for hydraulic and pneumatic system operating pressure and cylinder force calculations.
+- **Absolute Pressure (PSIA):** Pressure measured relative to a perfect vacuum. Used in gas law calculations involving pressure.
+
+**Pressure Conversions:**
+
+- **Gauge to Absolute:** $PSIA = PSIG + 14.7$
+- **Absolute to Gauge:** $PSIG = PSIA - 14.7$
+
+*Note: 14.7 PSI represents approximate atmospheric pressure at sea level.*
+
 ## 2. Hydraulic Cylinder Formulas
 
 - **Piston Area:** $A_p = \frac{\pi D^2}{4}$
@@ -45,7 +57,7 @@
 
 | Measurement | Unit |
 |---|---|
-| Pressure | PSI |
+| Pressure | PSI (PSIG or PSIA) |
 | Force | Pounds (lb) |
 | Area | Square inches (in²) |
 | Flow Rate | Gallons per minute (GPM) |
@@ -59,10 +71,17 @@
 
 ## Important Calculation Notes
 
-- Hydraulic pressure is commonly expressed in PSI.
-- Gas law calculations require **absolute pressure (PSIA)**, not gauge pressure (PSIG).
-- Gas law temperature must be expressed in **Rankine (°R) or Kelvin (K)**.
-- Fahrenheit to Rankine: $°R = °F + 459.67$
-- Celsius to Kelvin: $K = °C + 273.15$
+- Hydraulic and pneumatic cylinder force calculations generally use gauge pressure (PSIG).
+- Gas law calculations involving pressure require absolute pressure (PSIA), not gauge pressure (PSIG).
+- Gas law temperature must be expressed in absolute temperature units: Rankine (°R) or Kelvin (K).
+- **Fahrenheit to Rankine:** $°R = °F + 459.67$
+- **Celsius to Kelvin:** $K = °C + 273.15$
 - Cylinder retraction force uses annular area (piston area minus rod area).
+- The hydraulic horsepower formula uses PSI and GPM.
+- The mechanical horsepower formula uses force in pounds and velocity in feet per second.
 - Maintain consistent units throughout calculations.
+
+## Clarification
+
+- Charles' Law assumes constant pressure, while Gay-Lussac's Law assumes constant volume.
+- Boyle's Law assumes constant temperature.
