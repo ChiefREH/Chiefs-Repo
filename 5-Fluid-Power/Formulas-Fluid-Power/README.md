@@ -1,164 +1,323 @@
 # Fluid Power Essentials
-### Entry-Level Quick Reference
+## One-Page Formula Sheet
 
-## Pascal's Law
+### Common Hydraulic Units
+
+| Quantity | Unit |
+|-----------|------|
+| Pressure | psi |
+| Flow Rate | gpm |
+| Area | in² |
+| Force | lb |
+| Power | hp |
+
+---
+
+# Pascal's Law
 
 **Pressure applied to a confined fluid is transmitted equally in all directions.**
 
-This principle is the foundation of all hydraulic systems.
+### Key Concept
+
+- Pressure is transmitted equally throughout a hydraulic system.
+- Pressure creates force.
+- Flow creates motion.
 
 ---
 
-## Pressure, Force, and Area
+# Pressure, Force, and Area
+
+### Calculate Pressure
 
 `P = F ÷ A`
 
+### Calculate Force
+
 `F = P × A`
+
+### Calculate Area
 
 `A = F ÷ P`
 
-- P = Pressure
-- F = Force
-- A = Area
+Where:
 
-**Pressure creates force.**
+- `P` = Pressure (psi)
+- `F` = Force (lb)
+- `A` = Area (in²)
+
+### Remember
+
+> **Pressure creates force.**
 
 ---
 
-## Cylinder Area
+# Cylinder Area
+
+### Piston Area
 
 `A = (π × D²) ÷ 4`
 
-- A = Piston Area
-- D = Cylinder Bore Diameter
+Where:
 
-**Used to determine cylinder force and speed.**
+- `A` = Piston Area (in²)
+- `D` = Bore Diameter (in)
+
+### Common Cylinder Areas
+
+| Bore Diameter | Area |
+|---------------|-------|
+| 2 in | 3.14 in² |
+| 3 in | 7.07 in² |
+| 4 in | 12.57 in² |
+| 5 in | 19.63 in² |
+| 6 in | 28.27 in² |
 
 ---
 
-## Hydraulic Force
+# Hydraulic Force
+
+### Force Produced by a Cylinder
 
 `F = P × A`
 
-- F = Force (lb)
-- P = Pressure (psi)
-- A = Area (in²)
+Example:
 
-**Cylinder force depends on pressure and piston area.**
+```text
+2,000 psi × 12.57 in² = 25,140 lb
+```
+
+### Remember
+
+- Higher pressure = More force
+- Larger piston area = More force
 
 ---
 
-## Flow Rate
+# Flow Rate
+
+### Flow Equation
 
 `Q = A × V`
 
-- Q = Flow Rate
-- A = Area
-- V = Velocity
+Where:
 
-**Flow creates motion.**
+- `Q` = Flow Rate
+- `A` = Area
+- `V` = Velocity
+
+### Remember
+
+> **Flow creates motion.**
 
 ---
 
-## Cylinder Speed
+# Cylinder Speed
+
+### Velocity Equation
 
 `V = Q ÷ A`
 
-- More flow = Higher speed
-- Larger cylinder = Lower speed
+Where:
 
-**Flow determines actuator speed.**
+- `V` = Velocity
+- `Q` = Flow Rate
+- `A` = Area
+
+### Remember
+
+| Change | Result |
+|----------|----------|
+| Increase Flow | Increase Speed |
+| Increase Area | Decrease Speed |
 
 ---
 
-## Hydraulic Power
+# Hydraulic Power
+
+### Horsepower Equation
 
 `HP = (PSI × GPM) ÷ 1714`
 
-- PSI = Pressure
-- GPM = Flow Rate
+Where:
 
-**Pressure creates force. Flow creates speed. Together they create power.**
+- `HP` = Horsepower
+- `PSI` = Pressure
+- `GPM` = Flow Rate
+
+### Remember
+
+> **Pressure creates force.**
+>
+> **Flow creates speed.**
+>
+> **Pressure + Flow create power.**
 
 ---
 
-## Pneumatic Force
+# Pneumatic Force
+
+### Air Cylinder Force
 
 `F = P × A`
 
-Compressed air follows the same force relationship as hydraulics.
+Same relationship used for hydraulic cylinders.
+
+### Remember
+
+- Hydraulics use liquid.
+- Pneumatics use compressed air.
+- Air is compressible.
+- Hydraulic oil is essentially incompressible.
 
 ---
 
-# Gas Fundamentals
+# Absolute Pressure
 
-## Absolute Pressure
+### Conversion Formula
 
 `Pabs = Pgauge + 14.7`
 
-- Pabs = Absolute Pressure (psia)
-- Pgauge = Gauge Pressure (psig)
+Where:
 
-**Gas law calculations require absolute pressure.**
+- `Pabs` = Absolute Pressure (psia)
+- `Pgauge` = Gauge Pressure (psig)
+
+Example:
+
+```text
+100 psig + 14.7 = 114.7 psia
+```
+
+### Remember
+
+> **Gas law calculations require absolute pressure.**
 
 ---
 
-## Boyle's Law
+# Boyle's Law
+
+### Formula
 
 `P₁ × V₁ = P₂ × V₂`
 
-**As pressure increases, volume decreases.**
+### Relationship
 
-Used to understand compression and expansion of gases.
+| Pressure | Volume |
+|----------|---------|
+| Increase | Decrease |
+| Decrease | Increase |
+
+### Remember
+
+> **Pressure and volume are inversely proportional.**
 
 ---
 
-## Combined Gas Law
+# Combined Gas Law
+
+### Formula
 
 `(P₁ × V₁) ÷ T₁ = (P₂ × V₂) ÷ T₂`
 
-- P = Absolute Pressure
-- V = Volume
-- T = Absolute Temperature
+Where:
 
-**Relates pressure, volume, and temperature.**
+- `P` = Absolute Pressure
+- `V` = Volume
+- `T` = Absolute Temperature
+
+### Temperature Requirements
+
+Use:
+
+- Kelvin (K)
+- Rankine (°R)
+
+Do NOT use:
+
+- Fahrenheit (°F)
+- Celsius (°C)
 
 ---
 
-# Fluid Properties
+# Specific Gravity
 
-## Specific Gravity
+### Formula
 
 `SG = Densityfluid ÷ Densitywater`
 
-- Water = 1.0
-- Most hydraulic oils = 0.85 to 0.95
+### Reference Values
 
-**Used to compare fluid densities.**
+| Fluid | Specific Gravity |
+|---------|---------|
+| Water | 1.0 |
+| Hydraulic Oil | 0.85 - 0.95 |
+
+### Remember
+
+- `SG < 1.0` → Lighter than water
+- `SG > 1.0` → Heavier than water
 
 ---
 
-# Key Relationships to Remember
+# Fluid Power Fundamentals
 
-### Pascal's Law
-Pressure applied anywhere in a confined fluid is transmitted equally throughout the fluid.
+### Pumps Create Flow
 
-### Pressure Creates Force
+> Pumps create flow, not pressure.
+
+---
+
+### Pressure Develops from Resistance
+
+> Flow + Resistance = Pressure
+
+---
+
+### Hydraulic Systems
+
+- Use liquid
+- High force capability
+- Precise motion
+- Typical pressure: 500-5000+ psi
+
+---
+
+### Pneumatic Systems
+
+- Use compressed air
+- Fast operation
+- Less precise
+- Typical pressure: 80-120 psi
+
+---
+
+# Final Exam Memory Aids
+
+✅ Pressure creates force
+
 `F = P × A`
 
-### Flow Creates Speed
+✅ Flow creates speed
+
 `V = Q ÷ A`
 
-### Pressure + Flow Create Power
+✅ Pressure + Flow create power
+
 `HP = (PSI × GPM) ÷ 1714`
 
-### Gas Law Calculations Require:
-- Absolute Pressure (psia)
-- Absolute Temperature (°R or K)
+✅ Pumps create flow
 
-### Common Hydraulic Units:
-- Pressure = psi
-- Flow = gpm
-- Area = in²
-- Force = lb
-- Power = hp
+✅ Resistance creates pressure
+
+✅ Gas laws require:
+
+- Absolute Pressure (psia)
+- Absolute Temperature (K or °R)
+
+✅ Atmospheric Pressure = 14.7 psi
+
+✅ Water Specific Gravity = 1.0
+
+✅ Air is compressible
+
+✅ Hydraulic oil is essentially incompressible
