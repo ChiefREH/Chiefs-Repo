@@ -1,4 +1,4 @@
-# Essential Fluid Power Formulas – Entry-Level College
+# Essential Fluid Power Formulas
 
 ## 1. Pressure, Force, and Area
 
