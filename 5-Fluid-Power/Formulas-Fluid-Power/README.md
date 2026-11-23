@@ -1,22 +1,15 @@
 # Fluid Power Essentials
+### Entry-Level Quick Reference
 
 ## Pascal's Law
 
 **Pressure applied to a confined fluid is transmitted equally in all directions.**
 
-This is the foundation of all hydraulic systems.
-
-Because pressure is transmitted equally:
-
-`P = F ÷ A`
-
-A small force applied to a small area creates pressure.
-
-That pressure acts on every surface inside the system.
+This principle is the foundation of all hydraulic systems.
 
 ---
 
-## Pressure, Force, Area
+## Pressure, Force, and Area
 
 `P = F ÷ A`
 
@@ -28,7 +21,7 @@ That pressure acts on every surface inside the system.
 - F = Force
 - A = Area
 
-**Most important relationship in fluid power.**
+**Pressure creates force.**
 
 ---
 
@@ -36,8 +29,10 @@ That pressure acts on every surface inside the system.
 
 `A = (π × D²) ÷ 4`
 
-- A = Piston area
-- D = Bore diameter
+- A = Piston Area
+- D = Cylinder Bore Diameter
+
+**Used to determine cylinder force and speed.**
 
 ---
 
@@ -45,7 +40,11 @@ That pressure acts on every surface inside the system.
 
 `F = P × A`
 
-Pressure acting on area produces force.
+- F = Force (lb)
+- P = Pressure (psi)
+- A = Area (in²)
+
+**Cylinder force depends on pressure and piston area.**
 
 ---
 
@@ -53,7 +52,7 @@ Pressure acting on area produces force.
 
 `Q = A × V`
 
-- Q = Flow
+- Q = Flow Rate
 - A = Area
 - V = Velocity
 
@@ -65,8 +64,10 @@ Pressure acting on area produces force.
 
 `V = Q ÷ A`
 
-- More flow = more speed
-- Larger cylinder = less speed
+- More flow = Higher speed
+- Larger cylinder = Lower speed
+
+**Flow determines actuator speed.**
 
 ---
 
@@ -74,9 +75,10 @@ Pressure acting on area produces force.
 
 `HP = (PSI × GPM) ÷ 1714`
 
-- Pressure creates force
-- Flow creates speed
-- Together they create power
+- PSI = Pressure
+- GPM = Flow Rate
+
+**Pressure creates force. Flow creates speed. Together they create power.**
 
 ---
 
@@ -94,23 +96,32 @@ Compressed air follows the same force relationship as hydraulics.
 
 `Pabs = Pgauge + 14.7`
 
-Gas calculations require absolute pressure.
+- Pabs = Absolute Pressure (psia)
+- Pgauge = Gauge Pressure (psig)
+
+**Gas law calculations require absolute pressure.**
 
 ---
 
 ## Boyle's Law
 
-`P1 × V1 = P2 × V2`
+`P₁ × V₁ = P₂ × V₂`
 
-As pressure increases, volume decreases.
+**As pressure increases, volume decreases.**
+
+Used to understand compression and expansion of gases.
 
 ---
 
 ## Combined Gas Law
 
-`(P1 × V1) ÷ T1 = (P2 × V2) ÷ T2`
+`(P₁ × V₁) ÷ T₁ = (P₂ × V₂) ÷ T₂`
 
-Relates pressure, volume, and temperature.
+- P = Absolute Pressure
+- V = Volume
+- T = Absolute Temperature
+
+**Relates pressure, volume, and temperature.**
 
 ---
 
@@ -121,24 +132,33 @@ Relates pressure, volume, and temperature.
 `SG = Densityfluid ÷ Densitywater`
 
 - Water = 1.0
-- Most hydraulic oils = 0.85–0.95
+- Most hydraulic oils = 0.85 to 0.95
+
+**Used to compare fluid densities.**
 
 ---
 
-# Key Concepts
+# Key Relationships to Remember
+
+### Pascal's Law
+Pressure applied anywhere in a confined fluid is transmitted equally throughout the fluid.
 
 ### Pressure Creates Force
-
 `F = P × A`
 
 ### Flow Creates Speed
-
 `V = Q ÷ A`
 
-### Pressure + Flow = Power
-
+### Pressure + Flow Create Power
 `HP = (PSI × GPM) ÷ 1714`
 
-### Hydraulic Systems Operate Because of Pascal's Law
+### Gas Law Calculations Require:
+- Absolute Pressure (psia)
+- Absolute Temperature (°R or K)
 
-Pressure applied anywhere in a confined fluid is transmitted equally throughout the fluid.
+### Common Hydraulic Units:
+- Pressure = psi
+- Flow = gpm
+- Area = in²
+- Force = lb
+- Power = hp
