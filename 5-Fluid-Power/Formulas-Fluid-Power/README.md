@@ -1,5 +1,3 @@
-# BASIC FORMULAS - FLUID POWER
-
 # Fluid Power Primer
 
 A Foundation for Understanding Hydraulic Systems
