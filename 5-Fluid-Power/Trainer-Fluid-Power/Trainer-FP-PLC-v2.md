@@ -10,8 +10,8 @@ Working in your assigned teams, design and deploy a pneumatic control system usi
 - all necessary tubing and fittings 
 - (1) Pressure Switch for the system 
 - (3) lights or LEDs for visual feedback
-    - Two for Extend/Retract
-    - One for the Pressure Switch
+    - (2) for Extend/Retract
+    - (1) for the Pressure Switch
 
 ## NOTE:
 
