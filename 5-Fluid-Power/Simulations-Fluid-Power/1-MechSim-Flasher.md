@@ -1,6 +1,6 @@
 # MECHSIMULATOR "FLASHER"
 
-Create the following simulation in MechSimulator:
+Create the following simulation:
 
 - Red light ON for 3 seconds
 - Red light OFF
