@@ -8,7 +8,7 @@ Working in your assigned teams, design and deploy a pneumatic control system usi
 - (1) air Regulator 
 - (2) push buttons to Stop/Start the program 
 - all necessary tubing and fittings 
-- (1) Pressure Switch for the system 
+- (1) Pressure Switch for air pressure
 - (3) lights or LEDs for visual feedback
     - (2) for Extend/Retract
     - (1) for the Pressure Switch
