@@ -20,19 +20,16 @@ Working in your assigned teams, design and deploy a pneumatic control system usi
 
 ## PARAMETERS:
 
-The following criteria must be met:
-- Control routine must operate in a continuous loop ("extend - pause - retract - pause") 
+Control routine must operate in a continuous loop ("extend - pause - retract - pause"):
 
-For a Two Cylinder Sequence: 
-1. cylinder 1 extend 
-2. pause 2 sec 
-3. cylinder 2 extend 
-4. pause 2 sec 
-5. cylinder 1 retract 
-6. pause 2 sec 
-7. cylinder 2 retract 
-8. pause 2 sec 
-9. goto step 1 
+- Extend the actuator
+    - Green Light on
+    - pause 2 seconds
+- Retract the actuator
+    - Red Light on
+    - pause 2 seconds 
+- repeat
+
 
 ## INSTALLATION:
 
