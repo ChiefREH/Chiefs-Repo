@@ -22,13 +22,13 @@ Working in your assigned teams, design and deploy a pneumatic control system usi
 
 Control routine must operate in a continuous loop ("extend - pause - retract - pause"):
 
-- Extend the actuator
+- Extend the Actuator
     - Green Light on
     - pause 2 seconds
-- Retract the actuator
+- Retract the Actuator
     - Red Light on
     - pause 2 seconds 
-- repeat
+- Repeat
 
 
 ## INSTALLATION:
