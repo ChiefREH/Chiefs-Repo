@@ -3,16 +3,15 @@
 Working in your assigned teams, design and deploy a pneumatic control system using:
 
 - (1) Programmable Logic Controller (any brand/language) 
-- (2) 24VDC Control Valves 
-- (2) pneumatic Cylinders 
+- (1) 24VDC Control Valves
+- (1) pneumatic Cylinder
 - (1) air Regulator 
 - (2) push buttons to Stop/Start the program 
 - all necessary tubing and fittings 
-
-If we have parts and time:
-- (1) proximity sensor for the Cylinder 
-- (1) pressure switch for the system 
-- (2) lights or LEDs for visual feedback 
+- (1) Pressure Switch for the system 
+- (3) lights or LEDs for visual feedback
+    - Two for Extend/Retract
+    - One for the Pressure Switch
 
 ## NOTE:
 
