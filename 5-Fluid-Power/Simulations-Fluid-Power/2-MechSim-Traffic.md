@@ -2,10 +2,12 @@
 
 Create the following simulation:
 
-- Red light ON for 3 seconds
+- Red light ON for 10 seconds
 - Red light OFF
-- Green light ON for 3 seconds
+- Green light ON for 7 seconds
 - Green light OFF
+- Yellow Light ON for 3 seconds
+- Yellow light OFF
 - Repeat
 
 ## PARAMETERS
