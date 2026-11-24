@@ -2,8 +2,10 @@
 
 Create the following simulation in MechSimulator:
 
-- Turn a Red light for 3 seconds
-- Turn a Green light on for 3 seconds
+- Red light ON for 3 seconds
+- Red light OFF
+- Green light ON for 3 seconds
+- Green light OFF
 - Repeat
 
 ## PARAMETERS
