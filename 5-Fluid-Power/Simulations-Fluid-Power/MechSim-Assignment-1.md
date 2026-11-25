@@ -1,4 +1,4 @@
-# MECHSIMULATOR "FLASHER"
+# MECHSIMULATOR ASSIGNMENT 1 - "FLASHER"
 
 Create the following simulation:
 
