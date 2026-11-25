@@ -1,4 +1,4 @@
-# MECHSIMULATOR "TRAFFIC LIGHTS"
+# MECHSIMULATOR ASSIGNMENT 2 - "TRAFFIC LIGHTS"
 
 Create the following simulation:
 
