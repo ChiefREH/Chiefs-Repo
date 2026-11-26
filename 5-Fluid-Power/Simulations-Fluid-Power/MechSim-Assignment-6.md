@@ -14,12 +14,12 @@ Using a mix of CONTROLS, create the following simulation:
 - Wait
 - Retract Cylinder 1 / Red light OFF
 - Wait
-- Cycle Counter + 1
+- Loop Counter + 1
 - Repeat
 
 ## PARAMETERS
 
-- A full loop means all Cylinders extended once and retract once.
+- A full Loop means all Cylinders extended once and retract once.
 - When Counter = 3 loops, stop all cylinders, all lights out
 - When counter is reset to 0, sequence begins again
 
