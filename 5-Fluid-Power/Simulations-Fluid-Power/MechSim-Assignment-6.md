@@ -25,7 +25,7 @@ Using a mix of CONTROLS, create the following simulation:
 
 ## DESIGN NOTES
 
-- Control Valves PILOT PRESSURE CONTROL, not ELECTRICAL SOLENOID CONTROL
+- Directional Control Valves are PILOT PRESSURE CONTROL, not ELECTRICAL SOLENOID CONTROL
 - Lights are ELECTRICAL CONTROL
 - Counter is an ELECTRICAL CONTROLS component
 
