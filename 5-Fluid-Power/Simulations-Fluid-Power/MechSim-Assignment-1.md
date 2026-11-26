@@ -1,6 +1,6 @@
 # MECHSIMULATOR ASSIGNMENT 1 - "FLASHER"
 
-Create the following simulation:
+Using ELECTRICAL SIGNAL COMPONENTS, create the following simulation:
 
 - Red light ON for 3 seconds
 - Red light OFF
