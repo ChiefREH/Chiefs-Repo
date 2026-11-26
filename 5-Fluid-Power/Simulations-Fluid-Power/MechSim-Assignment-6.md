@@ -27,3 +27,6 @@ Using a mix of CONTROLS, create the following simulation:
 
 - Control Valves PILOT PRESSURE CONTROL, not ELECTRICAL SOLENOID CONTROL
 - Lights are ELECTRICAL CONTROL
+- Counter is an ELECTRICAL CONTROLS component
+
+>The trick is figuring out how to interface the electrical with the pressure
