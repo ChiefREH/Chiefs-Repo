@@ -17,7 +17,7 @@ Using a mix of CONTROLS, create the following simulation:
 - Loop Counter + 1
 - Repeat
 
-
+![MechSim-Final](FP-MechSim-Images/Final-3-Cylinder-Layout.png)
 
 ## PARAMETERS
 
