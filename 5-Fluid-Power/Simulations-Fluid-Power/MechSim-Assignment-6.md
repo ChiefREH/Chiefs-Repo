@@ -22,8 +22,8 @@ Using a mix of CONTROLS, create the following simulation:
 ## PARAMETERS
 
 - A full Loop means all Cylinders extended once and retract once.
-- When Counter = 3 loops, stop all cylinders, all lights out
-- When counter is reset to 0, sequence begins again
+- When Counter = 3 loops, STOP all cylinders, all lights OFF
+- When Counter is reset to 0, sequence begins again
 
 ## DESIGN NOTES
 
