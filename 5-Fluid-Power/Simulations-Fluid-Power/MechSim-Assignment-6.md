@@ -19,4 +19,7 @@ Using a mix of CONTROLS, create the following simulation:
 
 ## PARAMETERS
 
-- 
+- A full loop means all Cylinders extended onces and retracted once.
+- When Counter = 3 loops, stop all cylinders, all lights out
+- Reset to 0, sequence begins again
+- Counter should only increase when Cylinder 1 if fully RETRACTED / Red light OFF
