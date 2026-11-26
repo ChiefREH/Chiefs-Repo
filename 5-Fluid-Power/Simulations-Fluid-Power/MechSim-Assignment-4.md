@@ -10,4 +10,4 @@ Using PRESSURE CONTROLS, create the following simulation:
 
 ## PARAMETERS
 
-- This requires Pressure Controls, not Electrical Signals
+- This assignment does not use any Electrical Signals
