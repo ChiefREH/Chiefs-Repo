@@ -14,6 +14,7 @@ Using a mix of CONTROLS, create the following simulation:
 - Wait
 - Retract Cylinder 1 / Green light OFF
 - Wait
+- Cycle Counter + 1
 - Repeat
 
 ## PARAMETERS
