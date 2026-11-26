@@ -1,6 +1,6 @@
 # MECHSIMULATOR ASSIGNMENT 2 - "TRAFFIC LIGHTS"
 
-Create the following simulation:
+Using ELECTRICAL CONTROLS, create the following simulation:
 
 - Red light ON for 10 seconds
 - Red light OFF
