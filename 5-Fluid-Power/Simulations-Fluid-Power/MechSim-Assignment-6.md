@@ -22,3 +22,8 @@ Using a mix of CONTROLS, create the following simulation:
 - A full loop means all Cylinders extended once and retracted once.
 - When Counter = 3 loops, stop all cylinders, all lights out
 - When counter is reset to 0, sequence begins again
+
+## DESIGN NOTES
+
+- Control Valves PILOT PRESSURE CONTROL, not ELECTRICAL SOLENOID CONTROL
+- Lights are ELECTRICAL CONTROL
